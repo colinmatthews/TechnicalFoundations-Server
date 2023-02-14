@@ -8,39 +8,58 @@ app.use(BodyParser.json())
 app.use(BodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
-let fruits = ['Bananas','Apples','Oranges']
+let fruits = ['Banana', 'Apple', 'Orange']
 
 app.get('/', async (req, res) => {
-  console.log(fruits)
   res.send({ message: 'hi!' })
 });
 
-
 app.get('/fruits', (req, res) => {
-  try{
+  try {
     console.log(fruits)
     res.send(fruits)
   }
-  catch(err){
+  catch (err) {
     console.log(err)
   }
 });
 
-app.post('/fruits', (req,res) => {
-  try{
+
+app.post('/fruits', (req, res) => {
+  try {
     const newFruit = req.body.fruit
-    if(! fruits.includes(newFruit)){
+    if (!fruits.includes(newFruit)) {
       fruits = [...fruits, newFruit]
-      res.sendStatus(200)
+      res.send(200, 'Created new fruit')
+    }
+    else {
+      res.send(400, "Fruit already exists")
     }
   }
-  catch(err){
+  catch (err) {
     console.log(err)
     res.sendStatus(500)
   }
 });
 
-app.listen(PORT, () => { 
+app.delete('/fruits', (req, res) => {
+  try {
+    const newFruit = req.body.fruit
+    const index = fruits.indexOf(newFruit)
+    if (index != -1) {
+      fruits.splice(index, 1)
+      res.sendStatus(200)
+    }
+    else {
+      res.send(400, 'That fruit does not exist')
+    }
+  }
+  catch (err) {
+    console.log(err)
+  }
+});
+
+app.listen(PORT, () => {
   console.log("Hosted on port " + PORT)
 })
 
