@@ -1,4 +1,4 @@
-app.post('/fruits/check', (req, res) => {
+app.post('/put-your-unique-path-here', (req, res) => {
   try {
     const fruitToCheck = req.body.fruit;
     if (fruits.includes(fruitToCheck)) {
