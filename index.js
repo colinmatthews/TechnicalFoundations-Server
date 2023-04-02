@@ -11,13 +11,13 @@ app.use(cors())
 let fruits = ['Banana', 'Apple', 'Orange']
 
 app.get('/', async (req, res) => {
-  res.send({ message: 'hi!' })
+  res.status(200).send({ message: 'hi!' })
 });
 
 app.get('/fruits', (req, res) => {
   try {
     console.log(fruits)
-    res.send(fruits)
+    res.status(200).send(fruits)
   }
   catch (err) {
     console.log(err)
