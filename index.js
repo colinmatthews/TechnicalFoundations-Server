@@ -8,7 +8,9 @@ app.use(BodyParser.json())
 app.use(BodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
-let fruits = ['Banana', 'Apple', 'Orange','Tomato', 'Mango']
+
+let fruits = ['Banana', 'Apple', 'Orange', 'Kiwifruit', 'Mango', 'Lemon']
+
 
 app.get('/', async (req, res) => {
   res.status(200).send({ message: 'hi!' })
