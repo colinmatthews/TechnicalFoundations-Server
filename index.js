@@ -9,7 +9,7 @@ app.use(BodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
 
-let fruits = ['Banana', 'Apple', 'Orange', 'Kiwifruit', 'Mango', 'Lemon']
+let fruits = ['Banana', 'Apple']
 
 
 app.get('/', async (req, res) => {
@@ -58,6 +58,22 @@ app.delete('/fruits', (req, res) => {
   }
   catch (err) {
     console.log(err)
+  }
+});
+
+app.get('/fruit-check', (req, res) => {
+  try {
+    const newFruit = req.body.fruit
+    if (!fruits.includes(newFruit)) {
+      res.send(200, 'Fruit does not exist')
+    }
+    else {
+      res.send(200, "Fruit already exists")
+    }
+  }
+  catch (err) {
+    console.log(err)
+    res.sendStatus(500)
   }
 });
 
