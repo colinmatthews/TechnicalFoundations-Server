@@ -63,12 +63,12 @@ app.delete('/fruits', (req, res) => {
 
 app.get('/fruit-check', (req, res) => {
   try {
-    const newFruit = req.body.fruit
-    if (!fruits.includes(newFruit)) {
-      res.send(200, 'Fruit does not exist')
+    const newFruit = req.query.fruit
+    if (fruits.includes(newFruit)) {
+      res.send(200, "Fruit already exists")
     }
     else {
-      res.send(200, "Fruit already exists")
+      res.send(200, "Fruit does not exist")
     }
   }
   catch (err) {
