@@ -77,6 +77,23 @@ app.get('/fruit-check', (req, res) => {
   }
 });
 
+// The product recommendations endpoint
+app.get('/recommend', (req, res) => {
+  const type = req.query.type;
+  let recommendation;
+  switch(type) {
+    case 'fruits':
+      recommendation = 'Apple';
+      break;
+    case 'vegetables':
+      recommendation = 'Carrot';
+      break;
+    default:
+      recommendation = 'Unknown product type';
+  }
+  res.status(200).send({ recommendation });
+});
+
 app.listen(PORT, () => {
   console.log("Hosted on port " + PORT)
 })
