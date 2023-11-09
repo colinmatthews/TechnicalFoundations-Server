@@ -9,7 +9,7 @@ app.use(BodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
 
-let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach']
+let fruits = ['Banana', 'Apple', 'Melon', 'Mango']
 
 
 app.get('/', async (req, res) => {
