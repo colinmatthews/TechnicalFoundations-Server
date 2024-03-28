@@ -104,3 +104,16 @@ app.listen(PORT, () => {
 })
 
 module.exports = app;
+
+// The product recommendations endpoint
+app.get('/recommend', (req, res) => {
+  const type = req.query.type;
+  let recommendation;
+  switch(type) {
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
+      break;
+   
+  }
+  res.status(200).send({ recommendation });
+});
