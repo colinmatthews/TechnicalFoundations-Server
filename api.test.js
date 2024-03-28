@@ -1,3 +1,4 @@
+const { default: test } = require('node:test')
 const app = require('./index.js')
 const supertest = require('supertest')
 const request = supertest(app)
@@ -17,4 +18,12 @@ test('Testing recommend endpoint', async () => {
     const res = await request.get('/recommend').query({'type':'fruits'})
     const message = res.body.recommendation
     expect(message).toBe('Apple')
+})
+
+test('Testing recommend endpoint', async () => {
+    const message = await request.get('recommend').query
+    ({'type':'keyboards'})
+
+    const message = res.body.recommendation
+    expect(message).toBe('Logitech MX Keys')
 })
