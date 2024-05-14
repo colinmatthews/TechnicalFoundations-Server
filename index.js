@@ -13,7 +13,7 @@ app.use(cors())
 
 
 
-let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine','Pawpaw','Pineapple' ]
+let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine','Pawpaw','Pineapple','Kiwi','Tangerine' ]
 
 
 
