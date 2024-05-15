@@ -8,16 +8,7 @@ app.use(BodyParser.json())
 app.use(BodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
-
-
-
-
-
 let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine' ]
-
-
-
-
 
 app.get('/', async (req, res) => {
   res.status(200).send({ message: 'hi!' })
@@ -94,6 +85,9 @@ app.get('/recommend', (req, res) => {
       break;
     case 'vegetables':
       recommendation = 'Carrot';
+      break;
+    case 'keyboard':
+      recommendation = 'Logitech MX Keys';
       break;
     default:
       recommendation = 'Unknown product type';
