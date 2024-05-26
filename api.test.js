@@ -24,5 +24,4 @@ test('Testing recommend endpoint', async () => {
     
         const message = res.body.recommendation
         expect(message).toBe('Logitech MX Keys')
-    })
-    
+    }) 
