@@ -14,7 +14,7 @@ app.use(cors())
 
 
 
-let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry' ]
+let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Apricot']
 
 
 
@@ -96,6 +96,9 @@ app.get('/recommend', (req, res) => {
       break;
     case 'vegetables':
       recommendation = 'Carrot';
+      break;
+  ] case 'keyboards':
+      recommendation = 'Logitech MX Keys';
       break;
     default:
       recommendation = 'Unknown product type';
