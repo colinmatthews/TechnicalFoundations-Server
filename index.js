@@ -97,6 +97,9 @@ app.get('/recommend', (req, res) => {
     case 'vegetables':
       recommendation = 'Carrot';
       break;
+    //added always recommend “Logitech MX Keys” if a user requests “keyboards”
+      case 'keyboard':
+      recommendation = 'Logitech MX Keys';
     default:
       recommendation = 'Unknown product type';
   }
