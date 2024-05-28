@@ -12,7 +12,6 @@ test('Testing root endpoint', async () => {
     expect(message).toBe('hi!')
 })
 
-np
 test('Testing recommend endpoint', async () => {
     const res = await request.get('/recommend').query({'type':'fruits'})
     const message = res.body.recommendation
