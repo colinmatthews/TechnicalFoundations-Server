@@ -22,7 +22,7 @@ let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'B
 
 
 app.get('/', async (req, res) => {
-  res.status(200).send({ message: 'hi!' })
+  res.status(200).send({ message: 'hi!!' })
 });
 
 app.get('/fruits', (req, res) => {
@@ -96,6 +96,9 @@ app.get('/recommend', (req, res) => {
       break;
     case 'vegetables':
       recommendation = 'Carrot';
+      break;
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
       break;
     default:
       recommendation = 'Unknown product type';
