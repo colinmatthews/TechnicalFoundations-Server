@@ -14,7 +14,7 @@ app.use(cors())
 
 
 
-let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry' ]
+let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Lychee' ]
 
 
 
@@ -91,8 +91,8 @@ app.get('/recommend', (req, res) => {
   const type = req.query.type;
   let recommendation;
   switch(type) {
-    case 'fruits':
-      recommendation = 'Apple';
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
       break;
     case 'vegetables':
       recommendation = 'Carrot';
