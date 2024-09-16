@@ -103,6 +103,7 @@ app.get('/recommend', (req, res) => {
       break;
     case 'keyboards': //AJ: added keyboard recommendation
       recommendation = 'Logitech MX Keys';
+      break;
     default:
       recommendation = 'Unknown product type';
   }
