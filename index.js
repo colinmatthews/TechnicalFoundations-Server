@@ -98,6 +98,11 @@ app.get('/recommend', (req, res) => {
     case 'fruits':
       recommendation = 'Apple';
       break;
+      
+    case 'keyboards':
+        recommendation = 'Logitech MX Keys';
+        break;
+  
     case 'vegetables':
       recommendation = 'Carrot';
       break;
