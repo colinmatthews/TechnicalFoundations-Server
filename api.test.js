@@ -18,3 +18,10 @@ test('Testing recommend endpoint', async () => {
     const message = res.body.recommendation
     expect(message).toBe('Apple')
 })
+
+test('Testing fruit-check', async () => {
+    const res = await request.get('/fruit-check').query({'fruit':'Papaya'})
+    const message = res.text
+    expect(message).toBe('Fruit already exists')
+    return;
+})
