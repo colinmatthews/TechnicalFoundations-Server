@@ -107,6 +107,17 @@ app.get('/recommend', (req, res) => {
   res.status(200).send({ recommendation });
 });
 
+// The product recommendations endpoint for keyboards
+app.get('/recommend', (req, res) => {
+  const type = req.query.type;
+  let recommendation;
+  switch(type) {
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
+  }
+  res.status(200).send({ recommendation });
+});
+
 app.listen(PORT, () => {
   console.log("Hosted on port " + PORT)
 })
