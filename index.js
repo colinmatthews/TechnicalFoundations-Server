@@ -16,7 +16,7 @@ app.use(cors())
 
 
 
-let fruits = ['Banana', 'Apple', 'Sitaphal']
+let fruits = ['Banana', 'Apple', 'Sitaphalv2']
 
 
 
