@@ -1,0 +1,3 @@
+case 'keyboards':
+      recommendation = 'Logitech MX Keys';
+      break;
