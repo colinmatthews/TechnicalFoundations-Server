@@ -20,7 +20,7 @@ let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'B
 
 
 
-
+let keyboards = ['Logitech MX Keys']
 
 
 
@@ -39,6 +39,15 @@ app.get('/fruits', (req, res) => {
   }
 });
 
+app.get('/keyboards', (req, res) => {
+  try {
+    console.log(keyboards)
+    res.status(200).send(keyboards)
+  }
+  catch (err) {
+    console.log(err)
+  }
+});
 
 app.post('/fruits', (req, res) => {
   try {
@@ -100,6 +109,9 @@ app.get('/recommend', (req, res) => {
       break;
     case 'vegetables':
       recommendation = 'Carrot';
+      break;
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
       break;
     default:
       recommendation = 'Unknown product type';
