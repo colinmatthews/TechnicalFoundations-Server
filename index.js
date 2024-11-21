@@ -100,6 +100,9 @@ app.get('/recommend', (req, res) => {
       break;
     case 'vegetables':
       recommendation = 'Carrot';
+    case 'keyboards':
+        recommendation = 'Logitech MX Keys';
+  
       break;
     default:
       recommendation = 'Unknown product type';
@@ -112,3 +115,11 @@ app.listen(PORT, () => {
 })
 
 module.exports = app;
+
+test('Testing recommend endpoint', async () => {
+  const res = await request.get('/recommend').query ({'type':'keyboards'})
+  
+      const message = res.body.recommendation
+      expect(message).toBe('Logitech MX Keys')
+  })
+  
