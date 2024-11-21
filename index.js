@@ -19,7 +19,7 @@ app.use(cors())
 let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Tomato','Huckleberry', 'Lychee', 'Durian']
 
 
-
+let keyboards = ['Logitech MX Keys']
 
 
 
@@ -31,8 +31,8 @@ app.get('/', async (req, res) => {
 
 app.get('/fruits', (req, res) => {
   try {
-    console.log(fruits)
-    res.status(200).send(fruits)
+    console.log(keyboards)
+    res.status(200).send(keyboards)
   }
   catch (err) {
     console.log(err)
@@ -95,8 +95,8 @@ app.get('/recommend', (req, res) => {
   const type = req.query.type;
   let recommendation;
   switch(type) {
-    case 'fruits':
-      recommendation = 'Apple';
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
       break;
     case 'vegetables':
       recommendation = 'Carrot';
