@@ -20,7 +20,7 @@ let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'B
 
 
 
-
+let keyboards = ['Logitech MX Keys']
 
 
 
@@ -100,6 +100,9 @@ app.get('/recommend', (req, res) => {
       break;
     case 'vegetables':
       recommendation = 'Carrot';
+      break;
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
       break;
     default:
       recommendation = 'Unknown product type';
