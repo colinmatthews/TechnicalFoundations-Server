@@ -11,7 +11,15 @@ app.use(cors())
 
 let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Tomato','Huckleberry', 'Lychee', 'Durian', 'Blackberry', 'Guava']
 
-
+app.get('/recommend', (req, res) => {
+  const type = req.query.type.toLowerCase();
+  let recommendation;
+  
+  if (type === "keyboard") {
+    recommendation = "Logitech MX Keys";
+  } 
+  res.status(200).send({ recommendation });
+});
 
 app.get('/', async (req, res) => {
   res.status(200).send({ message: 'hi!' })
