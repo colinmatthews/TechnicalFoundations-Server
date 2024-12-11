@@ -86,6 +86,10 @@ app.get('/recommend', (req, res) => {
     case 'fruits':
       recommendation = 'Apple';
       break;
+      case 'keyboards':
+      recommendation = 'Logictech MX Keys';
+      // I added in the following comment to include keyboard recommendations
+      break;
     case 'vegetables':
       recommendation = 'Carrot';
       break;
