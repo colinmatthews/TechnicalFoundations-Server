@@ -10,7 +10,7 @@ app.use(cors())
 
 
 let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Tomato','Huckleberry', 'Lychee', 'Durian', 'Blackberry']
-
+let keyboards = ['Logitech MX Keys']
 
 
 app.get('/', async (req, res) => {
@@ -91,6 +91,9 @@ app.get('/recommend', (req, res) => {
       break;
     default:
       recommendation = 'Unknown product type';
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys'
+      break;
   }
   res.status(200).send({ recommendation });
 });
