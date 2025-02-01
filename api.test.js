@@ -18,3 +18,15 @@ test('Testing recommend endpoint', async () => {
     const message = res.body.recommendation
     expect(message).toBe('Apple')
 })
+
+test('Test fruit-check', async () => {
+    const res = await request.get('/fruit-check').query({fruit:"Apple"})
+    const result = res.text
+    expect(result).toBe("Fruit already exists")
+})
+
+test('Test keyboard-check', async () => {
+    const res = await request.get('/recommend').query({'type':'keyboards'})
+    const result = res.text
+    expect(result).toBe('Logitech MX Keys')
+})
