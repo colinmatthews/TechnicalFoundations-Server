@@ -9,12 +9,9 @@ app.use(BodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
 
-let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Tomato','Huckleberry', 'Lychee', 'Durian', 'Blackberry','Raspberry', 'Payapaya' ]
-
-
 
 app.get('/', async (req, res) => {
-  res.status(200).send({ message: 'hi!' })
+  res.status(200).send({ message: 'hi!!' })
 });
 
 app.get('/fruits', (req, res) => {
@@ -90,7 +87,10 @@ app.get('/recommend', (req, res) => {
       recommendation = 'Carrot';
       break;
     default:
-      recommendation = 'Unknown product type';
+      recommendation = 'Unknown product type'; 
+    case 'keyboards':
+        recommendation = 'Logitech MX Keys';
+        break;  
   }
   res.status(200).send({ recommendation });
 });
