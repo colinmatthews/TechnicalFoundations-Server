@@ -14,7 +14,7 @@ let fruits = ['Banana', 'Apple', 'Melon', 'Watermelon', 'Mangosteen', 'Peach', '
 
 
 app.get('/', async (req, res) => {
-  res.status(200).send({ message: 'hi!' })
+  res.status(200).send({ message: 'hi!!' })
 });
 
 app.get('/fruits', (req, res) => {
