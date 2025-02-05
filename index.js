@@ -86,8 +86,8 @@ app.get('/recommend', (req, res) => {
     case 'fruits':
       recommendation = 'Apple';
       break;
-    case 'vegetables':
-      recommendation = 'Carrot';
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
       break;
     default:
       recommendation = 'Unknown product type';
