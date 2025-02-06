@@ -83,6 +83,9 @@ app.get('/recommend', (req, res) => {
   const type = req.query.type;
   let recommendation;
   switch(type) {
+    case 'keyboards':
+      default: 
+        recommendation = 'Logitech MX Keys';
     case 'fruits':
       recommendation = 'Apple';
       break;
@@ -91,6 +94,7 @@ app.get('/recommend', (req, res) => {
       break;
     default:
       recommendation = 'Unknown product type';
+ 
   }
   res.status(200).send({ recommendation });
 });
