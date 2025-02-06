@@ -9,7 +9,7 @@ app.use(BodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
 
-let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Tomato','Huckleberry', 'Lychee', 'Durian', 'Blackberry','Raspberry', 'Payapaya' ]
+let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Tomato','Huckleberry', 'Lychee', 'Durian', 'Blackberry','Raspberry', 'Payapaya', 'Jackfruit' ]
 
 
 
@@ -88,6 +88,9 @@ app.get('/recommend', (req, res) => {
       break;
     case 'vegetables':
       recommendation = 'Carrot';
+      break;
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
       break;
     default:
       recommendation = 'Unknown product type';
