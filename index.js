@@ -84,8 +84,8 @@ app.get('/recommend', (req, res) => {
   let recommendation;
   switch(type) {
     case 'keyboards':
-      default: 
-        recommendation = 'Logitech MX Keys';
+      recommendation = 'Logitech MX Keys';
+      break;
     case 'fruits':
       recommendation = 'Apple';
       break;
