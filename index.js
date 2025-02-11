@@ -9,7 +9,7 @@ app.use(BodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
 
-let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Tomato','Huckleberry', 'Lychee', 'Durian', 'Blackberry','Raspberry', 'Payapaya' ]
+let fruits = ['Banana', 'Dragonfruit', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'Blueberry', 'Avocado', 'Grapes','Pomegranite','Tangerine', 'Mango', 'Cherry', 'Tomato','Huckleberry', 'Lychee', 'Durian', 'Blackberry','Raspberry', 'Payapaya' ]
 
 
 
@@ -83,6 +83,9 @@ app.get('/recommend', (req, res) => {
   const type = req.query.type;
   let recommendation;
   switch(type) {
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys';
+      break;
     case 'fruits':
       recommendation = 'Apple';
       break;
@@ -91,6 +94,7 @@ app.get('/recommend', (req, res) => {
       break;
     default:
       recommendation = 'Unknown product type';
+ 
   }
   res.status(200).send({ recommendation });
 });
