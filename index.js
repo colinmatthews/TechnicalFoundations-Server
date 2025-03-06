@@ -13,6 +13,7 @@ let fruits = ['Banana', 'Apple', 'Melon', 'Mangosteen', 'Peach', 'Raspberry', 'B
 
 
 
+
 app.get('/', async (req, res) => {
   res.status(200).send({ message: 'hi!' })
 });
