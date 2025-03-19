@@ -83,6 +83,9 @@ app.get('/recommend', (req, res) => {
   const type = req.query.type;
   let recommendation;
   switch(type) {
+    case 'keyboards':
+      recommendation = 'Logitech MX Keys'
+      break
     case 'fruits':
       recommendation = 'Apple';
       break;
