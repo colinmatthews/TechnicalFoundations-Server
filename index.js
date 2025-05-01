@@ -80,7 +80,7 @@ app.get('/fruit-check', (req, res) => {
 
 // The product recommendations endpoint
 app.get('/recommend', (req, res) => {
-  const type = req.query.type;
+  const type = req.query.type; 
   let recommendation;
   switch(type) {
     case 'fruits':
@@ -89,6 +89,9 @@ app.get('/recommend', (req, res) => {
     case 'vegetables':
       recommendation = 'Carrot';
       break;
+    case 'keyboards':
+        recommendation = 'Logitech MX Keys';
+        break;
     default:
       recommendation = 'Unknown product type';
   }
