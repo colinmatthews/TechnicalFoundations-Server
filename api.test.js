@@ -2,6 +2,14 @@ const app = require('./index.js')
 const supertest = require('supertest')
 const request = supertest(app)
 
+test('Testing recommend endpoint', async () => {
+    const res = await request.get('/recommend').query ({'type':'keyboards'})
+    
+        const message = res.body.recommendation
+        expect(message).toBe('Logitech MX Keys')
+    })
+    
+
 test('testing if jest works', () => {
     expect(1).toBe(1)
 })
