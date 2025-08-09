@@ -14,7 +14,7 @@ test('Testing root endpoint', async () => {
 
 
 test('Testing recommend endpoint', async () => {
-    const res = await request.get('/recommend').query({'type':'fruits'})
+    const res = await request.get('/recommend').query({'type':'keyboards'})
     const message = res.body.recommendation
-    expect(message).toBe('Apple')
+    expect(message).toBe('Logitech MX Keys')
 })
