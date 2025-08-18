@@ -13,8 +13,9 @@ test('Testing root endpoint', async () => {
 })
 
 
-test('Testing recommend endpoint', async () => {
-    const res = await request.get('/recommend').query({'type':'fruits'})
-    const message = res.body.recommendation
-    expect(message).toBe('Apple')
-})
+test('test fruit-check', async () => {
+  const res = await request.get('/fruit-check').query({fruit:"Apple"})
+  const result = res.text
+  expect(result).toBe("Fruit already exists")
+
+}
