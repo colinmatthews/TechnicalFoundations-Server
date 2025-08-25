@@ -9,13 +9,18 @@ test('testing if jest works', () => {
 test('Testing root endpoint', async () => {
     const res = await request.get('/')
     const message = res.body.message
-    expect(message).toBe('hi!!')
+    expect(message).toBe('hi!')
 })
 
 
 test('test fruit-check', async () => {
-  const res = await request.get('/fruit-check').query({fruit:"Apple"})
+  const res = await request.get('/fruit-check').query({fruit:"Peach"})
   const result = res.text
   expect(result).toBe("Fruit already exists")
+})
 
-}
+test('Testing recommend endpoint', async () => {
+    const res = await request.get('/recommend').query({'type':'keyboards'})
+    const message = res.body.recommendation
+    expect(message).toBe('Logitech MX Keys')
+})
