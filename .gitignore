@@ -1,2 +1,9 @@
 /node_modules
 package-lock.json
+
+# Environment variables
+.env
+
+# Job scraper data
+/data
+*.log
