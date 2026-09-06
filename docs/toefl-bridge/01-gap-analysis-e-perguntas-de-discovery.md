@@ -3,8 +3,10 @@
 **Produto:** TOEFL Bridge (nome provisório; a FAQ pública já usa "turma pré-TOEFL")
 **Empresa:** PreparaTOEFL
 **Autoria:** Lucas (PM) com coautoria de IA; insumos pedagógicos de Gerson Borges (professor parceiro)
-**Data:** 06/09/2026
+**Data:** 06/09/2026 (revisado no mesmo dia após o esclarecimento sobre o modelo semestral)
 **Status:** rascunho para discussão com Gerson e sócios (Pardal, Eduardo)
+
+> **Esclarecimento incorporado.** O Bridge não é um plano do catálogo da PreparaTOEFL (acesso à plataforma por tempo). É um **curso semestral de aulas semanais**, no modelo tradicional de escola de idiomas (4 a 5 meses, mensalidade, turma fechada), com economia própria. O PRD propõe, além do modelo tradicional, um **modelo híbrido** que soma os elementos dos planos TOEFL (plataforma, correção por IA, diagnósticos) a um preço acima do Premium. As inconsistências I2 e I3, as decisões D2, D3 e D7 e as perguntas E7 a E9 foram ajustadas.
 **Documento irmão:** `02-prd-toefl-bridge.md` (PRD completo, construído sobre este gap analysis)
 
 ---
@@ -39,7 +41,7 @@ Consequências diretas:
 
 ### 1.2. O modelo de negócio já reservou o espaço do Bridge
 
-A "Visão Geral do Negócio" lista o ecossistema planejado por faixa de renda, e nele há uma linha "Tutoria em grupo, R$ 150 a 250/mês, equilíbrio qualidade/preço para renda média-alta, estratégico". O Bridge é a primeira materialização dessa linha. O preço-alvo dessa linha (R$ 150 a 250/mês) precisa ser confrontado com a economia do Gerson (R$ 180/h), o que é feito na seção 4 e no PRD.
+A "Visão Geral do Negócio" lista o ecossistema planejado por faixa de renda, e nele há uma linha "Tutoria em grupo, R$ 150 a 250/mês, equilíbrio qualidade/preço para renda média-alta, estratégico". O Bridge é a primeira materialização dessa linha, e é, por definição, um produto de **mensalidade**, como a linha prevê. O preço-alvo dessa linha (R$ 150 a 250/mês), porém, não comporta um professor sênior a R$ 180/h com duas aulas semanais em turma de 8 a 10: a conta do PRD (seção 11) mostra que a mensalidade precisa ficar perto de R$ 500. Ou a linha do plano de negócio é revista, ou o Bridge é reconhecido como um produto acima dela.
 
 ### 1.3. A qualificação de leads já exclui o público do Bridge
 
@@ -82,8 +84,8 @@ O "Guia Completo do TOEFL iBT (2026)" interno descreve cada seção com nota de 
 | # | Inconsistência | Por que importa | Como o PRD tratou |
 |---|---|---|---|
 | I1 | A visão diz "transformar intermediários em prontos para a preparação, não necessariamente prontos para a prova", mas o perfil ideal inclui "B2 inicial ou fraco", que em muitos programas já é a banda exigida (4.0). | Um B2 inicial pode não precisar do Bridge; ele precisa de preparação com mais tempo. Se ele entra no Bridge, a turma fica heterogênea (risco 1) e a promessa fica confusa (risco 2). | Janela de entrada estreita: B1 consolidado a B1+ como núcleo, B2 fraco só quando as habilidades produtivas (Speaking/Writing) estão abaixo de B2. Ver PRD, seção 5. |
-| I2 | O formato preferido é "turmas, para ser escalável", mas o tamanho ideal é 8 a 10 e o professor é um só. | Com um professor, a escala é limitada a quantas turmas o Gerson consegue dar. "Escalável" aqui significa "melhor que aula particular", não "sem teto". | O PRD trata o piloto como capacidade fixa e coloca a segunda turma simultânea e o segundo professor como decisão pós-piloto. |
-| I3 | A remuneração-alvo (R$ 180/h) é citada como "não exigência fixa", mas também como "precisa ser compatível com aulas particulares e outras turmas". | É o piso econômico que decide preço e tamanho mínimo da turma. Tratar como "não fixo" adia uma decisão que trava o pricing. | O PRD modela cenários com R$ 180/h como piso e mostra em qual combinação de preço e tamanho ele é atingido. |
+| I2 | O formato preferido é "turmas, para ser escalável", mas o tamanho ideal é 8 a 10, o professor é um só e o produto é semestral (duas turmas por ano). | Com um professor, a escala é limitada a quantas turmas o Gerson consegue dar por semestre. "Escalável" aqui significa "melhor que aula particular", não "sem teto". A economia é a de uma escola de idiomas (custo fixo por turma), não a de um plano de plataforma (custo marginal quase zero). | O PRD trata o piloto como capacidade fixa por semestre, modela a economia por turma e coloca a segunda turma simultânea e o segundo professor como decisão pós-piloto. |
+| I3 | A remuneração-alvo (R$ 180/h) é citada como "não exigência fixa", mas também como "precisa ser compatível com aulas particulares e outras turmas". | É o piso econômico que decide a mensalidade e o tamanho mínimo da turma. Tratar como "não fixo" adia uma decisão que trava o pricing. | O PRD modela cenários com R$ 180/h como piso, em remuneração mensal, e mostra em qual combinação de mensalidade, tamanho e mix de oferta ele é atingido. |
 | I4 | O material será "próprio", criado com IA e curadoria humana, mas não há definição de quem detém a propriedade intelectual, nem de quem paga as horas de criação. | Sem isso, a economia do produto está incompleta (custo de criação) e a parceria fica juridicamente frágil. | Listado como decisão pendente D6 e pergunta E4. |
 | I5 | A especificação diz "o produto é um negócio independente ou um funil para a preparação?" como questão em aberto, mas a FAQ já o descreve como "porta de entrada do funil". | A resposta já foi dada publicamente, ao menos em parte. O que falta é decidir se ele precisa se pagar sozinho. | Premissa do PRD: P&L próprio com margem mínima, e taxa de conversão para a preparação como métrica estratégica. Confirmar na pergunta A1. |
 | I6 | A metodologia parte de "o que um B1 consegue fazer hoje" versus "o que um candidato bem-sucedido precisa", mas "bem-sucedido" não está definido (qual banda? qual programa?). | Sem a banda-alvo típica, não há como dimensionar o gap nem a duração. | O PRD adota a banda 4.0 a 4.5 (B2) como alvo típico do público e 5.0 como caso especial. Confirmar na pergunta B5. |
@@ -110,7 +112,8 @@ O "Guia Completo do TOEFL iBT (2026)" interno descreve cada seção com nota de 
 - Política de faltas, reposição e gravação das aulas.
 - Suporte entre aulas (canal, teto de horas, quem responde).
 - Ferramenta de aula ao vivo e onde ficam gravações e materiais (o app? Teams? outro?).
-- Contrato de matrícula, política de reembolso (o Código de Defesa do Consumidor dá 7 dias de arrependimento para compra online) e regras de garantia.
+- Contrato de matrícula semestral, política de cancelamento e de reembolso (o Código de Defesa do Consumidor dá 7 dias de arrependimento para compra online) e regras de garantia.
+- Cobrança mensal: meio de pagamento recorrente, lembretes, regra de suspensão por inadimplência e o que acontece com a vaga de quem sai no meio do semestre.
 
 ### 3.3. Lacunas de parceria
 
@@ -164,13 +167,14 @@ O "Guia Completo do TOEFL iBT (2026)" interno descreve cada seção com nota de 
 | # | Decisão | Opções | Recomendação preliminar | Quem decide |
 |---|---|---|---|---|
 | D1 | Onde termina o Bridge e começa a preparação | (a) por banda estimada; (b) por distância até a meta; (c) por prazo; (d) combinação | (d): regra de três eixos, detalhada no PRD seção 5 | Lucas + Gerson |
-| D2 | Cohort fechado ou entrada contínua | (a) cohort de 12 semanas com data fixa; (b) módulos mensais com entrada contínua; (c) híbrido | (a) no piloto; (b) só depois de 2 turmas | Lucas + Gerson |
-| D3 | Duração e frequência | (a) 8 semanas; (b) 12 semanas; (c) 16 semanas; combinado com 2×60 min, 1×90 min ou 1×120 min | 12 semanas, 2×60 min, com 1×90 min como alternativa de custo | Gerson (pedagogia) + Lucas (economia) |
+| D2 | Turma semestral fechada ou entrada contínua | (a) semestre fechado, duas turmas por ano; (b) módulos bimestrais com entrada contínua; (c) semestre com cadeira extra até a semana 3 | (a) com (c) no piloto; (b) só depois de 2 semestres | Lucas + Gerson |
+| D3 | Duração e frequência dentro do semestre | (a) 16 semanas; (b) 18 semanas; (c) 20 semanas; combinado com 2×60 min, 1×90 min ou 1×120 min | 18 semanas em 5 mensalidades, 2×60 min, com 1×90 min como alternativa de custo | Gerson (pedagogia) + Lucas (economia) |
+| D2b | Modelo de oferta | (a) só tradicional (mensalidade, sem plataforma); (b) só híbrido (curso mais plataforma e IA); (c) as duas ofertas na mesma turma | (c): "Bridge Turma" e "Bridge Completo" lado a lado, como Standard e Premium | Lucas + Gerson |
 | D4 | Tamanho da turma | mínimo para abrir e máximo | Abre com 8 pagantes, máximo 10; abaixo de 8, adia ou devolve | Lucas + Gerson |
 | D5 | Modelo de remuneração do Gerson | (a) hora fixa; (b) participação na receita; (c) híbrido com mínimo | (c): mínimo garantido por turma + percentual acima do ponto de equilíbrio | Lucas + Gerson |
 | D6 | Propriedade intelectual do material | (a) PreparaTOEFL; (b) Gerson; (c) compartilhada com licença mútua | (c) para o piloto, com revisão ao fim | Lucas + Gerson |
-| D7 | Preço do Bridge | R$ 997 / R$ 1.497 / R$ 1.997 por ciclo de 12 semanas; ou mensal | R$ 1.497 de lançamento, com bundle Bridge + Standard | Lucas |
-| D8 | O Bridge inclui plataforma? | (a) não; (b) acesso equivalente ao Essencial com cota de correção; (c) acesso completo | (b) | Lucas + Pardal |
+| D7 | Preço do Bridge | Mensalidade de R$ 397 / R$ 497 / R$ 597 (tradicional); R$ 697 / R$ 797 / R$ 897 por mês ou R$ 3.997 em 10x (híbrido) | Turma a R$ 497/mês e Completo a R$ 797/mês na turma fundadora, com preço de regime maior anunciado desde o início | Lucas |
+| D8 | O que a plataforma faz em cada oferta? | (a) nada no tradicional; (b) só os três diagnósticos no tradicional e trilha completa com cota de IA no híbrido; (c) acesso completo para todos | (b): diagnósticos para todos, porque é o que mede a promessa; prática com IA só no híbrido | Lucas + Pardal |
 | D9 | Trilha única ou trilhas B1 e B2 | (a) única, com janela estreita; (b) duas trilhas | (a) no piloto | Gerson |
 | D10 | Ferramenta de aula ao vivo e hospedagem de material | Teams / Google Meet / Zoom; material no app ou fora | Definir pelo que o Gerson já usa; gravações acessíveis pelo app | Pardal + Gerson |
 | D11 | Nome do produto | "TOEFL Bridge", "Pré-TOEFL", "Base TOEFL", outro | Testar dois nomes na lista de espera | Lucas + Eduardo |
@@ -234,7 +238,10 @@ Organização: por tema, com **quem responde** e, quando a resposta é uma escol
 - **E4 ★** De quem é o material? Se o Gerson sair, a PreparaTOEFL pode continuar dando o Bridge com outro professor?
 - **E5** O Gerson pode oferecer turmas pré-TOEFL fora da PreparaTOEFL durante a parceria?
 - **E6** Qual margem mínima a PreparaTOEFL precisa para o Bridge valer o custo de oportunidade do time (Pardal, Eduardo, Lucas)?
-- **E7** O Bridge é vendido em 10x como os outros planos? Com parcelamento, a taxa do cartão e a inadimplência entram na conta.
+- **E7** A cobrança é mensalidade recorrente (cartão ou Pix), como escola de idiomas, ou o semestre inteiro em 10x, como os planos? A mensalidade tem taxa menor e inadimplência mensal; o 10x antecipa receita e reproduz o padrão da casa. O PRD assume mensalidade no tradicional e as duas opções no híbrido.
+- **E8 ★** Qual é a regra de contrato semestral? Opções: (a) matrícula semestral com cancelamento em 30 dias sem multa; (b) fidelidade com multa de uma mensalidade; (c) mensal sem fidelidade. A opção (a) é mais coerente com a marca; a (b) protege a turma; a (c) maximiza evasão. Como o Gerson trata isso nas turmas atuais dele?
+- **E9 ★** As duas ofertas (Turma e Completo) devem conviver na mesma turma, ou o piloto vende uma só? Conviver testa a disposição a pagar pela plataforma e enche a turma mais fácil; vender uma só simplifica a operação e evita atrito entre alunos com e sem correção por IA.
+- **E10** Como o Gerson prefere ser pago no tempo: por mês de turma ativa (como o produto é cobrado) ou por semestre fechado? Isso muda o fluxo de caixa dos dois lados.
 
 ### Tema F — Plataforma e tecnologia (responde: Pardal e Lucas)
 

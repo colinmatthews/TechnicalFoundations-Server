@@ -5,7 +5,7 @@ Pasta com os documentos de produto do **TOEFL Bridge** (nome provisório; "turma
 | Documento | O que é | Para quem |
 |---|---|---|
 | `01-gap-analysis-e-perguntas-de-discovery.md` | Consolidação do contexto (especificação da conversa com o Gerson cruzada com o Manual PreparaTOEFL no Notion), inconsistências, lacunas, riscos, dependências, registro de decisões e perguntas de discovery por tema | Lucas, Gerson, sócios |
-| `02-prd-toefl-bridge.md` | PRD completo: tese, público, critério de prontidão, placement, currículo de 12 semanas, formato operacional, jornada, economia e pricing, go-to-market, métricas, riscos, requisitos e plano do piloto | Lucas, Gerson, Pardal, Eduardo |
+| `02-prd-toefl-bridge.md` | PRD completo (v0.10): tese, público, critério de prontidão, placement, dois modelos de oferta (curso semestral tradicional com mensalidade e modelo híbrido com plataforma), currículo de 18 semanas, formato operacional semestral, jornada, economia por turma e pricing, go-to-market, métricas, riscos, requisitos e plano do piloto | Lucas, Gerson, Pardal, Eduardo |
 
 ## Como usar
 

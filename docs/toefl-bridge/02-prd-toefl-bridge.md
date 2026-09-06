@@ -2,11 +2,13 @@
 
 **Produto:** TOEFL Bridge (nome provisório; alternativa pública "turma pré-TOEFL")
 **Empresa:** PreparaTOEFL
-**Versão:** 0.9 (rascunho para revisão)
+**Versão:** 0.10 (rascunho para revisão; substitui a 0.9)
 **Data:** 06/09/2026
 **Autoria:** Lucas (PM) com coautoria de IA; tese pedagógica de Gerson Borges (professor parceiro)
 **Revisores:** Gerson (pedagogia e operação), Pardal (plataforma), Eduardo (operações e funil)
 **Documento irmão:** `01-gap-analysis-e-perguntas-de-discovery.md`
+
+> **O que mudou da 0.9 para a 0.10.** O Bridge deixa de ser tratado como um "plano" do catálogo da PreparaTOEFL e passa a ser um **curso semestral de aulas semanais**, no modelo tradicional de escola de idiomas: 4 a 5 meses, mensalidade, turma fechada. A economia foi refeita nessa lógica. Além do modelo tradicional, o PRD propõe um **modelo híbrido**, que soma ao curso semestral os elementos dos planos TOEFL (plataforma, correção por IA, diagnósticos, relatório de prontidão) a um preço acima do Premium. As duas ofertas convivem na mesma turma. Seções mais afetadas: 1, 2.4, 6.2, 7, 8, 9, 11, 12.4, 16 e 17.
 
 > **Como ler as premissas.** Onde a decisão ainda não foi tomada, o PRD adota uma premissa explícita, marcada como **[P#]**. Cada premissa aponta para a pergunta do gap analysis que a confirma ou derruba. Trocar uma premissa não exige reescrever o documento; exige ajustar a seção que a cita.
 
@@ -16,15 +18,20 @@
 
 **O problema.** Uma parte relevante dos candidatos brasileiros ao TOEFL chega à preparação sem base linguística para aproveitá-la. O dado próprio confirma: "Meu nível serve? Eu consigo?" é o maior agrupamento de perguntas do público da PreparaTOEFL no YouTube (27 de 193 perguntas), e o funil atual descarta leads "básicos e pré-intermediários" com uma indicação para inglês geral. Esses alunos gastam dinheiro em preparação que não funciona, ou em provas que perdem (US$ 265 por tentativa), ou simplesmente adiam.
 
-**A tese.** O TOEFL iBT de 2026 ficou mais acessível a partir do nível intermediário: seções adaptativas, tarefas de nível básico e intermediário (completar palavras, ler textos do cotidiano, escolher uma resposta, montar frases, escrever e-mail) e escala de bandas alinhada ao CEFR. Isso torna viável um programa que leve um aluno B1 consolidado ao ponto em que uma preparação focada em nota passa a funcionar. O Gerson chamou isso de "bridge the gap".
+**A tese.** O TOEFL iBT de 2026 ficou mais acessível a partir do nível intermediário: seções adaptativas, tarefas de nível básico e intermediário (completar palavras, ler textos do cotidiano, escolher uma resposta, montar frases, escrever e-mail) e escala de bandas alinhada ao CEFR. Isso torna viável um curso que leve um aluno B1 consolidado ao ponto em que uma preparação focada em nota passa a funcionar. O Gerson chamou isso de "bridge the gap".
 
-**O produto.** Um programa em turma, de 12 semanas, para alunos B1 consolidado a B2 fraco, que combina aulas ao vivo com o Gerson, prática assíncrona na plataforma da PreparaTOEFL com correção por IA, e três avaliações (entrada, meio, saída). A promessa é **prontidão para a preparação TOEFL**, definida por um critério publicado, e não uma nota na prova.
+**O produto.** Um **curso semestral em turma**, de 18 semanas de aula (cerca de 4 meses e meio, dentro de um semestre letivo), com dois encontros semanais de 60 minutos com o Gerson, turma de 8 a 10 alunos, material próprio e três avaliações (entrada, meio, saída). A promessa é **prontidão para a preparação TOEFL**, definida por um critério publicado, e não uma nota na prova.
+
+**Duas formas de comprar o mesmo curso** **[P24]**:
+
+- **Bridge Turma** (modelo tradicional): as aulas, o material, as avaliações e o relatório de prontidão. Mensalidade de R$ 497 por 5 meses **[P2]**.
+- **Bridge Completo** (modelo híbrido): tudo do Bridge Turma, mais a plataforma da PreparaTOEFL com trilha própria, cota de correção por IA de Speaking e Writing, feedback humano quinzenal do Gerson, plano de estudo semanal e desconto na preparação. Mensalidade de R$ 797 por 5 meses, ou R$ 3.997 em 10x **[P2]**.
 
 **Onde ele se encaixa.** O Bridge é a linha "tutoria em grupo" do ecossistema já planejado, é a resposta de produto ao lead hoje descartado, e é a porta de entrada do funil da preparação (a FAQ pública já o promete como "turma pré-TOEFL, em desenvolvimento com o professor parceiro"). Ele precisa se pagar sozinho **[P1]** e, além disso, converter para a preparação.
 
-**O piloto.** Uma turma de 8 a 10 alunos, com data fixa, preço de turma fundadora de R$ 1.497 em 10x **[P2]**, abrindo apenas com 8 pagantes. O piloto valida, nesta ordem: demanda, critério de entrada, promessa de prontidão, material e economia. O critério de sucesso está na seção 3.
+**O piloto.** Uma turma no primeiro semestre de 2027, de 8 a 10 alunos, abrindo apenas com 8 matriculados. O piloto valida, nesta ordem: demanda, critério de entrada, promessa de prontidão, material, economia do semestre e a proporção de alunos que escolhe o Completo. O critério de sucesso está na seção 3.
 
-**As três decisões que travam tudo.** (1) Termo de parceria com o Gerson (remuneração, propriedade intelectual, capacidade). (2) Critério de prontidão escrito pelo Gerson. (3) Lista de espera no ar, porque a FAQ pública já a promete.
+**As três decisões que travam tudo.** (1) Termo de parceria com o Gerson (remuneração mensal, propriedade intelectual, capacidade). (2) Critério de prontidão escrito pelo Gerson. (3) Lista de espera no ar, porque a FAQ pública já a promete.
 
 ---
 
@@ -33,7 +40,7 @@
 ### 2.1. O que a PreparaTOEFL é hoje
 
 - App web próprio com os 12 tipos de tarefa do TOEFL 2026, correção de Speaking e Writing por IA com rubrica da prova e feedback em português, 68 aulas publicadas.
-- Três planos de preparação (Essencial R$ 297, Standard R$ 997, Premium R$ 2.997 no lançamento; R$ 497 / R$ 1.397 / R$ 3.497 a partir de 2027), todos com 6 meses de acesso e garantia condicionada.
+- Três planos de preparação (Essencial R$ 297, Standard R$ 997, Premium R$ 2.997 no lançamento; R$ 497 / R$ 1.397 / R$ 3.497 a partir de 2027), todos com 6 meses de acesso e garantia condicionada. São produtos de plataforma com acesso por tempo; o Bridge não é um deles.
 - Aquisição quase exclusivamente pelo YouTube; 9 vendas até junho/2026, todas de um vídeo; preço não foi objeção em nenhuma; o gargalo é tempo humano.
 - Time: Lucas (produto, conteúdo, vendas), Pardal (engenharia), Eduardo (operações, design, banco de questões). Gerson Borges é professor parceiro externo, sem acordo fechado.
 - Posicionamento de marca: "Mentor Realista". Honestidade radical, anti-milagre, preço público o ano inteiro.
@@ -62,9 +69,9 @@ Com base nas fontes públicas sobre o formato vigente desde janeiro de 2026 (a v
 
 A leitura do Gerson após fazer a prova inteira é coerente com isso: Reading e Listening ficaram mais adaptáveis a B1, Writing ficou mais factível, e a prova permite preparação gradual a partir do intermediário. O que continua difícil para B1 são as tarefas acadêmicas (Academic Passage, Academic Talk, Academic Discussion, Take an Interview). **É exatamente nelas que o Bridge concentra o trabalho.**
 
-### 2.4. A régua de esforço (por que o Bridge precisa de componente assíncrono)
+### 2.4. A régua de esforço (por que o semestre é a duração certa)
 
-As referências usuais de horas guiadas para subir uma banda do CEFR ficam entre 150 e 200 horas de B1 para B2. Um programa de 12 semanas com duas horas semanais ao vivo soma 24 horas. O Bridge não promete o salto de banda inteiro; promete prontidão para a preparação, com a plataforma carregando o volume de prática que a aula ao vivo não comporta. Essa é a razão de o produto ser híbrido e não só uma turma.
+As referências usuais de horas guiadas para subir uma banda do CEFR ficam entre 150 e 200 horas de B1 para B2. Um semestre de 18 semanas com duas horas semanais de aula soma 36 horas ao vivo; com 3 a 4 horas semanais de estudo dirigido, o aluno chega a 90 a 110 horas no semestre. Isso não fecha uma banda inteira, mas cobre a distância entre "B1 que se comunica" e "B1+ que consegue começar uma preparação acadêmica", que é a promessa. Um formato de 12 semanas, como a versão anterior deste PRD propunha, ficava em 24 horas ao vivo e dependia demais do estudo assíncrono; o semestre é mais honesto com a régua e mais familiar ao comprador.
 
 ---
 
@@ -74,7 +81,7 @@ As referências usuais de horas guiadas para subir uma banda do CEFR ficam entre
 
 1. Transformar alunos B1 consolidado a B2 fraco em alunos prontos para uma preparação TOEFL focada em nota, segundo um critério publicado.
 2. Converter o lead hoje descartado por nível em aluno pagante e, depois, em aluno da preparação.
-3. Criar uma segunda linha de receita com margem própria e remuneração do professor compatível com a alternativa dele (R$ 180/h).
+3. Criar uma segunda linha de receita, recorrente por semestre, com margem própria e remuneração do professor compatível com a alternativa dele (R$ 180/h).
 4. Reduzir o número de alunos que entram na preparação sem base (o que hoje gera suporte pesado e resultado fraco).
 
 ### 3.2. Não-objetivos (o que o Bridge não é)
@@ -83,27 +90,29 @@ As referências usuais de horas guiadas para subir uma banda do CEFR ficam entre
 - Não é preparação para a prova. Estratégia de prova entra só no bloco final, em dose de familiarização.
 - Não promete nota. Promete prontidão, medida por critério nosso.
 - Não é aula particular nem mentoria individual. É turma, com suporte estruturado e teto de horas.
-- Não é, no piloto, um produto contínuo com entrada mensal. É cohort com data fixa **[P3]**.
+- Não é um plano de plataforma com acesso por tempo. É um curso com calendário, professor e turma; a plataforma é componente do modelo híbrido, não o produto.
+- Não é, no piloto, um produto com entrada contínua. É turma semestral fechada **[P3]**.
 - Não cobre IELTS, Duolingo ou Cambridge no piloto **[P4]** (pergunta A5 do gap analysis).
 
 ### 3.3. North Star e critérios de sucesso do piloto
 
-**North Star Metric:** alunos que concluem o Bridge e atingem o critério de prontidão, por trimestre.
+**North Star Metric:** alunos que concluem o Bridge e atingem o critério de prontidão, por semestre.
 
-Critérios de sucesso do piloto (turma 1), a serem confirmados na pergunta H1:
+Critérios de sucesso do piloto (turma do primeiro semestre de 2027), a serem confirmados na pergunta H1:
 
 | Dimensão | Critério | Por que este número |
 |---|---|---|
-| Demanda | Turma abre com 8 ou mais pagantes até 14 dias antes da data de início; lista de espera com 40 ou mais inscritos qualificados | 8 é o mínimo pedagógico e econômico; 40 na lista dá margem de conversão de 20 a 25% |
-| Placement | 80% ou mais dos admitidos ficam dentro da janela de entrada nas três medidas (EF SET, Speaking, Writing); nenhum aluno reclassificado após a semana 2 | Homogeneidade é o risco número 1 |
+| Demanda | Turma abre com 8 ou mais matriculados até 14 dias antes do início; lista de espera com 40 ou mais inscritos qualificados | 8 é o mínimo pedagógico e econômico; 40 na lista dá margem de conversão de 20 a 25% |
+| Mix de oferta | 30% ou mais dos matriculados escolhem o Bridge Completo | Valida o híbrido como oferta e melhora a margem |
+| Placement | 80% ou mais dos admitidos ficam dentro da janela de entrada nas três medidas (EF SET, Speaking, Writing); nenhum aluno reclassificado após a semana 3 | Homogeneidade é o risco número 1 |
 | Aprendizagem | 70% ou mais dos concluintes atingem o critério de prontidão; banda estimada média sobe 0.5 ou mais entre entrada e saída | Promessa cumprida para a maioria; salto mensurável |
-| Engajamento | Presença média de 80% ou mais; 75% ou mais dos alunos concluem 80% ou mais das tarefas assíncronas | O modelo híbrido depende do assíncrono |
+| Retenção | Evasão de 15% ou menos ao longo do semestre; presença média de 80% ou mais; 75% ou mais concluem 80% ou mais das tarefas | Mensalidade só funciona se o aluno fica; o modelo híbrido depende do assíncrono |
 | Conversão | 50% ou mais dos concluintes prontos compram a preparação em até 60 dias | Valida o Bridge como porta do funil |
-| Economia | Margem de contribuição positiva com o Gerson recebendo o equivalente a R$ 180/h ou mais | Viabilidade sem subsídio |
+| Economia | Margem de contribuição positiva no semestre com o Gerson recebendo o equivalente a R$ 180/h ou mais | Viabilidade sem subsídio |
 | Satisfação | NPS de 50 ou mais; 40% ou mais "muito decepcionado" na pergunta de Sean Ellis | Sinal de fit |
-| Operação | Menos de 2 horas semanais do Lucas em suporte do Bridge após a semana 2 | O produto não pode reproduzir o gargalo da preparação |
+| Operação | Menos de 2 horas semanais do Lucas em suporte do Bridge após a semana 3 | O produto não pode reproduzir o gargalo da preparação |
 
-Regra de decisão pós-piloto: com 6 ou mais critérios atingidos, abrir a turma 2 com ajustes. Com 3 a 5, abrir turma 2 só com mudanças estruturais definidas. Com menos de 3, encerrar e voltar ao roteamento atual (indicação para inglês geral).
+Regra de decisão pós-piloto: com 7 ou mais critérios atingidos, abrir a turma do segundo semestre com ajustes. Com 4 a 6, abrir só com mudanças estruturais definidas. Com menos de 4, encerrar e voltar ao roteamento atual (indicação para inglês geral).
 
 ---
 
@@ -112,13 +121,13 @@ Regra de decisão pós-piloto: com 6 ou mais critérios atingidos, abrir a turma
 ### 4.1. Personas
 
 **Persona 1: Camila, 29, analista de marketing, São Paulo, quer MBA no exterior em 2028.**
-Inglês B1 consolidado, estudou em escola de idiomas por anos, "trava" ao falar. Precisa de 4.5. Tem 12 a 15 meses. Chegou pelo YouTube e fez o teste "estou pronto?", que devolveu "ainda não". Job: "saber o caminho realista antes de gastar com prova e curso".
+Inglês B1 consolidado, estudou em escola de idiomas por anos, "trava" ao falar. Precisa de 4.5. Tem 12 a 15 meses. Chegou pelo YouTube e fez o teste "estou pronto?", que devolveu "ainda não". Job: "saber o caminho realista antes de gastar com prova e curso". Perfil natural do Bridge Completo: quer o dado do próprio progresso.
 
 **Persona 2: Rafael, 33, enfermeiro, Brasília, quer licença no Canadá.**
-Inglês B1+, lê bem, ouve razoavelmente, escreve com erros de estrutura, fala com sotaque forte e pausas longas. Precisa de Speaking alto. Tem 9 a 12 meses e urgência de renda. Job: "não perder um ano de salário por causa de uma banda de Speaking".
+Inglês B1+, lê bem, ouve razoavelmente, escreve com erros de estrutura, fala com sotaque forte e pausas longas. Precisa de Speaking alto. Tem 9 a 12 meses e urgência de renda. Job: "não perder um ano de salário por causa de uma banda de Speaking". Perfil do Completo pela correção de Speaking por IA.
 
 **Persona 3: Juliana, 26, mestranda, Belo Horizonte, precisa de TOEFL para doutorado sanduíche.**
-Inglês B2 fraco em leitura (lê artigos), B1 em produção. Precisa de 4.0. Tem 6 meses e orçamento apertado (bolsa). Job: "chegar à nota mínima sem repetir a prova".
+Inglês B2 fraco em leitura (lê artigos), B1 em produção. Precisa de 4.0. Tem 8 meses e orçamento apertado (bolsa). Job: "chegar à nota mínima sem repetir a prova". Perfil do Bridge Turma: mensalidade cabe na bolsa.
 
 Todas as três estão na faixa de 25 a 34 anos, descoberta pelo YouTube, estudam no desktop, e têm o teste ligado a ganho de renda, como o público atual da PreparaTOEFL.
 
@@ -126,19 +135,19 @@ Todas as três estão na faixa de 25 a 34 anos, descoberta pelo YouTube, estudam
 
 - B1 consolidado, B1+ ou B2 fraco nas habilidades produtivas.
 - Comunica-se, tem base estrutural, mas apresenta gaps claros para as tarefas acadêmicas do TOEFL.
-- Meta entre 4.0 e 4.5; prazo de 5 meses ou mais até a prova.
-- Disponibilidade de 2 horas de aula e 3 a 4 horas de estudo assíncrono por semana.
+- Meta entre 4.0 e 4.5; prazo de 7 meses ou mais até a prova (um semestre de Bridge mais 2 a 4 meses de preparação).
+- Disponibilidade de 2 horas de aula e 3 a 4 horas de estudo dirigido por semana, durante um semestre.
 - Motivação externa concreta (programa, licença, visto).
 
 ### 4.3. Perfil não ideal (é encaminhado para outro lugar)
 
 | Perfil | Encaminhamento |
 |---|---|
-| Abaixo de B1 (EF SET abaixo de 41, produção abaixo de 2.5) | Inglês geral, com indicação e nutrição para voltar em 6 meses |
+| Abaixo de B1 (EF SET abaixo de 41, produção abaixo de 2.5) | Inglês geral, com indicação e nutrição para voltar no semestre seguinte |
 | B2 forte ou C1 | Preparação (Standard ou Premium) |
 | Meta a 0.5 banda ou menos da banda atual | Preparação |
-| Prova em menos de 5 meses | Preparação com expectativa ajustada, ou adiar a prova; nunca o Bridge |
-| Meta 5.0 ou mais com nível B1 | Bridge com conversa franca sobre jornada de 9 a 12 meses; ver seção 6.5 |
+| Prova em menos de 7 meses | Preparação com expectativa ajustada, ou adiar a prova; nunca o Bridge |
+| Meta 5.0 ou mais com nível B1 | Bridge com conversa franca sobre jornada de 10 a 14 meses; ver seção 6.5 |
 | Quer aula particular ou mentoria individual | Premium ou indicação |
 
 ---
@@ -155,22 +164,22 @@ Proposta a ser validada e reescrita pelo Gerson (pergunta C1). A escala é a de 
 
 | Habilidade | O aluno B1 típico hoje | Critério de prontidão (saída do Bridge) | Como medimos |
 |---|---|---|---|
-| Reading | Lê textos do cotidiano; perde-se em passagem acadêmica de 300 palavras; vocabulário acadêmico escasso; inferência fraca | Lê uma passagem acadêmica de 250 a 300 palavras e acerta 70% ou mais das questões (ideia principal, detalhe, vocabulário em contexto, inferência) em 10 minutos ou menos; reconhece 80% de uma lista de vocabulário acadêmico de alta frequência | Conjunto exclusivo de Reading no app, semanas 0, 6 e 12; teste de vocabulário |
-| Listening | Entende conversas; perde o fio em explicação longa; não retém; não anota | Acompanha uma fala acadêmica de 2 a 3 minutos, ouvida uma vez, e acerta 70% ou mais; produz anotação com ideia central e dois detalhes de apoio | Conjunto exclusivo de Listening no app; anotação avaliada pelo professor na semana 12 |
+| Reading | Lê textos do cotidiano; perde-se em passagem acadêmica de 300 palavras; vocabulário acadêmico escasso; inferência fraca | Lê uma passagem acadêmica de 250 a 300 palavras e acerta 70% ou mais das questões (ideia principal, detalhe, vocabulário em contexto, inferência) em 10 minutos ou menos; reconhece 80% de uma lista de vocabulário acadêmico de alta frequência | Conjunto exclusivo de Reading no app, semanas 0, 9 e 18; teste de vocabulário |
+| Listening | Entende conversas; perde o fio em explicação longa; não retém; não anota | Acompanha uma fala acadêmica de 2 a 3 minutos, ouvida uma vez, e acerta 70% ou mais; produz anotação com ideia central e dois detalhes de apoio | Conjunto exclusivo de Listening no app; anotação avaliada pelo professor na semana 18 |
 | Writing | Frases curtas; comma splice; sujeito omitido; parágrafo sem posição clara; menos de 100 palavras em 10 minutos | Em 10 minutos, escreve 100 palavras ou mais em resposta a discussão acadêmica, com posição clara, duas razões e um exemplo; erros não impedem a compreensão; banda estimada 3.5 ou mais em duas das três últimas tarefas | Correção por IA no app (rubrica da prova) com revisão do Gerson |
 | Speaking | Responde com pausas longas; não organiza; abandona a frase; pronúncia compromete palavras-chave | Responde a uma pergunta de entrevista por 45 segundos sem preparação, com posição e sustentação, de forma inteligível; banda estimada 3.5 ou mais em duas das três últimas tarefas; no máximo duas pausas longas | Correção por IA no app (pronúncia e conteúdo) com revisão do Gerson |
 | Transversal | Ansiedade alta; não sabe o tamanho do próprio gap | Banda estimada geral 3.5 ou mais, nenhuma habilidade abaixo de 3.0; concluiu 80% ou mais das tarefas; autoavaliação de confiança 7 ou mais em 10 | Relatório de saída |
 
-"Pronto" significa atingir o critério nas quatro habilidades. "Parcialmente pronto" significa três de quatro, com plano de reforço na preparação. O relatório de saída diz qual dos dois e por quê.
+"Pronto" significa atingir o critério nas quatro habilidades. "Parcialmente pronto" significa três de quatro, com plano de reforço na preparação. O relatório de saída diz qual dos dois e por quê. Os três diagnósticos (semanas 0, 9 e 18) são feitos no app por **todos** os alunos, inclusive os do Bridge Turma, com acesso restrito ao diagnóstico; é isso que permite medir a promessa nos dois modelos.
 
 ### 5.3. Princípios do desenho pedagógico
 
-1. **Aula ao vivo para o que precisa de humano:** produção oral, feedback de escrita, interação, pressão social, correção de interferência. Recepção (leitura, escuta) e vocabulário vão para o assíncrono.
+1. **Aula ao vivo para o que precisa de humano:** produção oral, feedback de escrita, interação, pressão social, correção de interferência. Recepção (leitura, escuta) e vocabulário vão para o estudo dirigido.
 2. **Pedagogia de interferência do português como fio condutor.** O catálogo de erros já existe com dado real (comma splice, plural, sujeito omitido, falsos cognatos, fonemas /ð/, /ŋ/, /r/). Cada semana tem uma "clínica de erros" de 10 minutos.
-3. **Formato TOEFL só nas avaliações até a semana 8; familiarização gradual nas semanas 9 a 12** **[P6]** (pergunta C3). Isso evita que o Bridge vire preparação disfarçada.
+3. **Formato TOEFL só nas avaliações até a semana 12; familiarização gradual nas semanas 13 a 18** **[P6]** (pergunta C3). Isso evita que o Bridge vire preparação disfarçada.
 4. **Tarefas comunicativas, não gramática expositiva** (Task-Based Language Teaching). A gramática entra quando o erro aparece.
-5. **Pouco e frequente.** Dever de casa em blocos de 30 a 45 minutos, cinco vezes por semana, com revisão espaçada de vocabulário.
-6. **Progresso visível.** Três diagnósticos (semanas 0, 6, 12) com o mesmo instrumento, e a banda estimada por habilidade mostrada ao aluno.
+5. **Pouco e frequente.** Estudo dirigido em blocos de 30 a 45 minutos, cinco vezes por semana, com revisão espaçada de vocabulário. No Bridge Turma, o estudo dirigido é feito com material próprio (PDF, áudio, formulário); no Completo, na plataforma, com correção por IA.
+6. **Progresso visível.** Três diagnósticos com o mesmo instrumento e a banda estimada por habilidade mostrada ao aluno.
 
 ---
 
@@ -184,18 +193,18 @@ A decisão "Bridge ou preparação" não é só proficiência. É a combinação
 - **Eixo 2, distância até a meta:** meta registrada menos banda atual, na habilidade mais fraca.
 - **Eixo 3, prazo:** meses até a data-alvo da prova.
 
-A regra que já é pública ("quem tem base se prepara em 2 a 4 meses") vira: **a preparação sozinha fecha até 0.5 banda em 2 a 4 meses. Gap de 1.0 banda ou mais exige base antes: Bridge.** Gap de 2.0 ou mais exige inglês geral antes do Bridge.
+A regra que já é pública ("quem tem base se prepara em 2 a 4 meses") vira: **a preparação sozinha fecha até 0.5 banda em 2 a 4 meses. Gap de 1.0 banda ou mais exige base antes: um semestre de Bridge.** Gap de 2.0 ou mais exige inglês geral antes do Bridge.
 
 ### 6.2. Matriz de roteamento **[P7]**
 
 | Nível atual (EF SET geral / banda estimada) | Meta 4.0 | Meta 4.5 | Meta 5.0 ou mais |
 |---|---|---|---|
 | Abaixo de B1 (EF SET abaixo de 41 / banda abaixo de 3.0) | Inglês geral, nutrição | Inglês geral | Inglês geral |
-| B1 (EF SET 41 a 50 / banda 3.0 a 3.5) | **Bridge**, depois preparação | **Bridge**, depois preparação | Bridge, depois preparação longa (9 a 12 meses), com conversa franca |
+| B1 (EF SET 41 a 50 / banda 3.0 a 3.5) | **Bridge**, depois preparação | **Bridge**, depois preparação | Bridge, depois preparação longa (10 a 14 meses no total), com conversa franca |
 | B2 fraco (EF SET 51 a 55 / banda 3.5 a 4.0) | Preparação se Speaking e Writing estão em 3.5 ou mais; **Bridge** se produtivas estão em 3.0 ou menos | Decidido pelas produtivas (mesma regra) | Preparação longa (Premium) |
 | B2 ou mais (EF SET 56 ou mais / banda 4.0 ou mais) | Preparação | Preparação | Preparação |
 
-Sobreposição do eixo 3: o Bridge só é vendido a quem tem **5 meses ou mais** até a prova (12 semanas de Bridge mais 8 semanas ou mais de preparação). Quem tem menos, com nível B1, recebe a conversa franca: adiar a prova ou ir para a preparação sabendo da probabilidade baixa.
+Sobreposição do eixo 3: o Bridge só é vendido a quem tem **7 meses ou mais** até a prova (um semestre de Bridge mais 8 semanas ou mais de preparação). Quem tem menos, com nível B1, recebe a conversa franca: adiar a prova ou ir para a preparação sabendo da probabilidade baixa. Como o Bridge abre duas vezes por ano, o placement também informa qual semestre é o certo para cada aluno.
 
 O EF SET mede Reading e Listening. Por isso ele é o **filtro grosso**; a decisão final é das amostras de Speaking e Writing.
 
@@ -206,74 +215,103 @@ O EF SET mede Reading e Listening. Por isso ele é o **filtro grosso**; a decis�
 | 0. Pré-triagem | Formulário do site com nível autodeclarado, meta, data-alvo, objetivo | Formulário existente com os campos novos (item D4 da jornada) | 3 min | 0 | Descartar / candidato ao Bridge / candidato à preparação |
 | 1. Filtro receptivo | EF SET completo (50 min) ou EF SET Quick (15 min) para pré-triagem **[P8]** | EF SET, com upload do certificado | 15 a 50 min | 0 | Fora da janela / dentro da janela / limítrofe |
 | 2. Amostras produtivas | Uma tarefa de Writing (Academic Discussion, 10 min) e duas de Speaking (Take an Interview, 45 s cada) no app | Diagnóstico do app com correção por IA (banco de Speaking e Writing já suficiente) | 20 min | 10 min do Gerson por candidato para revisar a banda | Banda por habilidade produtiva |
-| 3. Entrevista | Conversa curta em inglês e português: objetivo, meta, prazo, histórico, disponibilidade, expectativa | Chamada de 15 minutos com o Gerson ou o Lucas **[P9]** | 15 min | 15 min | Recomendação e relatório de placement |
+| 3. Entrevista | Conversa curta em inglês e português: objetivo, meta, prazo, histórico, disponibilidade, expectativa; apresentação das duas ofertas | Chamada de 15 minutos com o Gerson ou o Lucas **[P9]** | 15 min | 15 min | Recomendação e relatório de placement |
 
-Total de tempo humano por candidato: cerca de 25 minutos. Com 40 candidatos na lista, são cerca de 17 horas de placement por turma. Isso está na conta econômica (seção 11). No médio prazo, a etapa 1 é substituída pelo diagnóstico próprio de Reading e Listening quando o banco de questões permitir (item "substituir o EF SET" do backlog).
+Total de tempo humano por candidato: cerca de 25 minutos. Com 40 candidatos na lista, são cerca de 17 horas de placement por semestre. Isso está na conta econômica (seção 11). No médio prazo, a etapa 1 é substituída pelo diagnóstico próprio de Reading e Listening quando o banco de questões permitir (item "substituir o EF SET" do backlog).
 
 ### 6.4. O que o candidato recebe
 
-Um relatório de placement de uma página: banda estimada por habilidade, distância até a meta, prazo viável, e a recomendação (Bridge, preparação, ou inglês geral) com o porquê. Esse relatório é parte do produto e é o argumento de venda no tom Mentor Realista: "não vamos te vender o que não vai funcionar".
+Um relatório de placement de uma página: banda estimada por habilidade, distância até a meta, prazo viável, e a recomendação (Bridge, preparação, ou inglês geral) com o porquê, mais a indicação de qual das duas ofertas do Bridge faz mais sentido para o perfil. Esse relatório é parte do produto e é o argumento de venda no tom Mentor Realista: "não vamos te vender o que não vai funcionar".
 
 ### 6.5. Casos especiais
 
-- **Aluno híbrido** (Reading B2, Speaking B1): entra no Bridge quando a habilidade produtiva mais fraca está em 3.0 ou menos. Dentro da turma, recebe tarefas assíncronas de nível mais alto na habilidade forte. Não abrimos trilha própria no piloto **[P10]**.
-- **Meta 5.0 ou mais com nível B1:** entra no Bridge só com aceite explícito de jornada de 9 a 12 meses (Bridge, depois Premium). O relatório de placement diz isso por escrito. Se o prazo não comporta, não vendemos.
-- **Aluno que quer entrar mesmo fora da janela:** não entra. A recusa é o produto. Recebe a indicação e entra na nutrição.
+- **Aluno híbrido** (Reading B2, Speaking B1): entra no Bridge quando a habilidade produtiva mais fraca está em 3.0 ou menos. Dentro da turma, recebe tarefas de estudo dirigido de nível mais alto na habilidade forte. Não abrimos trilha própria no piloto **[P10]**.
+- **Meta 5.0 ou mais com nível B1:** entra no Bridge só com aceite explícito de jornada de 10 a 14 meses (semestre de Bridge, depois Premium). O relatório de placement diz isso por escrito. Se o prazo não comporta, não vendemos.
+- **Aluno que quer entrar mesmo fora da janela:** não entra. A recusa é o produto. Recebe a indicação e entra na nutrição para o semestre seguinte.
 
 ---
 
-## 7. Proposta de produto (o que o aluno recebe)
+## 7. Modelos de oferta e proposta de produto
 
-| Componente | Descrição | Dono |
-|---|---|---|
-| Placement e relatório | Seção 6 | Lucas e Gerson |
-| Aulas ao vivo | 12 semanas, 2 encontros de 60 minutos por semana **[P11]** (alternativa: 1 de 90 minutos, ver seção 9.2), turma de 8 a 10, gravadas | Gerson |
-| Plataforma | Acesso ao app por 16 semanas (12 mais 4 de folga), com trilha "Bridge" e cota de correção por IA de 3 Writing e 4 Speaking por semana **[P12]** | Pardal |
-| Dever de casa estruturado | Plano semanal de 3 a 4 horas, gerado a partir do diagnóstico e do calendário da turma | Gerson (conteúdo), Pardal (tela) |
-| Feedback humano | Comentário do Gerson em uma tarefa de Writing e uma de Speaking por aluno a cada duas semanas, por cima da correção da IA | Gerson |
-| Avaliações | Diagnóstico nas semanas 0, 6 e 12, com relatório de progresso e, ao fim, relatório de prontidão | Gerson e app |
-| Suporte | Fórum ou canal de anúncios da turma mais "dúvidas da semana" (perguntas por formulário, respondidas ao vivo nos primeiros 10 minutos da aula). Sem WhatsApp individual **[P13]** | Gerson e Eduardo |
-| Comunidade | Grupo da turma para accountability entre pares (duplas de estudo) | Eduardo |
-| Encaminhamento | Sessão final de 30 minutos em turma sobre o caminho de cada perfil na preparação, mais oferta do bundle | Lucas |
-| Garantia | Quem tem 80% de presença e 80% de tarefas e não atinge o critério recebe mais 8 semanas de plataforma e um plano de preparação estendido, sem custo **[P14]**. Não há repetição gratuita da turma no piloto | Lucas |
+### 7.1. Os três modelos considerados
+
+A pergunta de fundo é: o Bridge é um curso (modelo de escola de idiomas) ou um produto de plataforma com aulas (modelo dos planos TOEFL)? A resposta do PRD é que **o curso é a base e a plataforma é um acréscimo pago**, o que dá duas ofertas na mesma turma.
+
+| Modelo | O que é | Preço (premissa) | Prós | Contras |
+|---|---|---|---|---|
+| A. Semestral tradicional ("Bridge Turma") | Aulas semanais por um semestre, material próprio, três diagnósticos e relatório de prontidão. Sem plataforma de prática. Mensalidade | R$ 497/mês por 5 meses (R$ 2.485 no semestre) | Formato que o comprador reconhece (mensalidade, semestre); economia simples; é o que o Gerson faz hoje; parcela abaixo de R$ 500 | Sem correção por IA, o estudo dirigido depende de autocorreção; sem o diferencial da casa; a medição de progresso fica só nos três diagnósticos; evasão mensal |
+| B. Híbrido ("Bridge Completo") | Tudo do modelo A, mais plataforma com trilha própria, cota de correção por IA, feedback humano quinzenal, plano semanal gerado, página de progresso e desconto na preparação | R$ 797/mês por 5 meses (R$ 3.985), ou R$ 3.997 em 10x | Usa o diferencial validado (correção por IA em português); mede progresso toda semana; prende o aluno ao ecossistema; margem maior; preço acima do Premium sustentado por 36 h ao vivo mais plataforma | Depende de entitlement e trilha no app (engenharia); preço pode afastar parte do público B1; custo variável de IA |
+| C. Só híbrido | Vender apenas o modelo B | R$ 797/mês | Uma oferta, uma operação, um material | Perde o comprador de mensalidade menor (persona Juliana); turma mais difícil de encher no piloto; contraria a regra da casa de "duas opções, nunca uma" |
+
+**Decisão do PRD** **[P24]**: modelos A e B convivem na mesma turma. Todos os alunos assistem às mesmas aulas e fazem os mesmos diagnósticos no app; a diferença está no estudo dirigido (material próprio versus plataforma com IA), no feedback humano e no encaminhamento. Isso reproduz a lógica Standard/Premium que a casa já pratica e testa, no próprio piloto, quanto o público paga pela plataforma. O modelo C fica como alternativa se a proporção de alunos no Completo passar de 70% em duas turmas.
+
+Risco pedagógico do convívio: o aluno do Turma faz o mesmo dever, mas sem correção por IA. Mitigação: o dever de Writing e Speaking do Turma é corrigido em pares na aula seguinte, com rubrica simples, e o Gerson comenta um exemplo por semana. Isso é prática comum em turma de idiomas e não depende de plataforma.
+
+### 7.2. O que cada oferta inclui
+
+| Componente | Bridge Turma | Bridge Completo | Dono |
+|---|---|---|---|
+| Placement e relatório | Sim | Sim | Lucas e Gerson |
+| Aulas ao vivo | 18 semanas, 2 encontros de 60 minutos por semana **[P11]**, turma de 8 a 10, gravadas | Igual | Gerson |
+| Material próprio | Apostila digital por bloco, áudios, listas de vocabulário, tarefas semanais em PDF e formulário | Igual, mais a trilha no app | Gerson (conteúdo), Eduardo (produção) |
+| Diagnósticos (semanas 0, 9, 18) | No app, com acesso restrito ao diagnóstico | No app | Gerson e app |
+| Relatório de prontidão | Sim | Sim, com histórico semanal de banda | Gerson |
+| Plataforma (trilha Bridge, aulas, exercícios) | Não | Acesso por 22 semanas (18 mais 4 de folga) **[P12]** | Pardal |
+| Correção por IA | Não | Cota semanal de 3 Writing e 4 Speaking **[P12]** | Pardal |
+| Feedback humano | Um exemplo por semana comentado em aula | Comentário do Gerson em uma tarefa de Writing e uma de Speaking por aluno a cada duas semanas | Gerson |
+| Plano de estudo | Roteiro semanal da turma (igual para todos) | Plano semanal gerado a partir do diagnóstico, com ajuste no meio do semestre | Gerson, Pardal |
+| Suporte | Fórum da turma e "dúvidas da semana" nos primeiros 10 minutos da aula. Sem WhatsApp individual **[P13]** | Igual, mais uma sessão de 20 minutos individual com o Gerson na semana 9 | Gerson e Eduardo |
+| Comunidade | Grupo da turma, duplas de estudo | Igual | Eduardo |
+| Encaminhamento | Sessão final em turma sobre o caminho de cada perfil | Igual, mais 15% de desconto no Standard ou no Premium por 30 dias **[P22]** | Lucas |
+| Contrato | Matrícula semestral, 5 mensalidades; cancelamento com aviso de 30 dias, sem multa até o mês 2 e com uma mensalidade a partir do mês 3 **[P14]** | Igual, ou 10x no cartão | Lucas |
+| Garantia | Quem tem 80% de presença e 80% de tarefas e não atinge o critério recebe o diagnóstico e o plano de preparação estendido sem custo | Igual, mais 8 semanas de plataforma | Lucas |
 
 ---
 
 ## 8. Currículo
 
-### 8.1. Arquitetura em três blocos
+### 8.1. Arquitetura em três blocos de seis semanas
 
 | Bloco | Semanas | Foco | Pergunta que o bloco responde |
 |---|---|---|---|
-| 1. Fundações acadêmicas | 1 a 4 | Estrutura de texto acadêmico, escuta de falas curtas e anotação, frase acadêmica (sujeito, verbo, objeto, conectores), resposta oral de 30 a 45 segundos com estrutura | "Consigo entender e produzir o básico do registro acadêmico?" |
-| 2. Argumentação | 5 a 8 | Inferência e vocabulário em contexto, falas longas, parágrafo argumentativo, sustentação de opinião sob tempo. Diagnóstico intermediário na semana 6 | "Consigo defender uma posição por escrito e oralmente?" |
-| 3. Ritmo e pressão | 9 a 12 | Prática cronometrada, familiarização com o formato das tarefas acadêmicas do TOEFL, resistência, confiança. Diagnóstico final na semana 12 | "Consigo fazer isso no ritmo que a preparação vai exigir?" |
+| 1. Fundações acadêmicas | 1 a 6 | Estrutura de texto acadêmico, escuta de falas curtas e anotação, frase acadêmica (sujeito, verbo, objeto, conectores), resposta oral de 30 a 45 segundos com estrutura | "Consigo entender e produzir o básico do registro acadêmico?" |
+| 2. Argumentação | 7 a 12 | Inferência e vocabulário em contexto, falas longas, parágrafo argumentativo, sustentação de opinião sob tempo. Diagnóstico intermediário na semana 9 | "Consigo defender uma posição por escrito e oralmente?" |
+| 3. Ritmo e pressão | 13 a 18 | Prática cronometrada, familiarização com o formato das tarefas acadêmicas do TOEFL, resistência, confiança. Diagnóstico final na semana 18 | "Consigo fazer isso no ritmo que a preparação vai exigir?" |
+
+Cada bloco termina com uma semana de consolidação (6, 12, 18), o que dá ao Gerson folga para ajustar o ritmo à turma sem quebrar a sequência.
 
 ### 8.2. Semana a semana **[P15]** (rascunho para o Gerson reescrever)
 
-| Sem. | Aula A (input e clínica) | Aula B (produção) | Assíncrono na plataforma |
+| Sem. | Aula A (input e clínica) | Aula B (produção) | Estudo dirigido (material próprio ou plataforma) |
 |---|---|---|---|
-| 0 | Onboarding, diagnóstico inicial, plano semanal, pactos da turma | | Diagnóstico de entrada |
+| 0 | Onboarding, diagnóstico inicial, roteiro do semestre, pactos da turma | | Diagnóstico de entrada no app |
 | 1 | Anatomia de uma passagem acadêmica: tese, parágrafos, sinais de organização. Clínica: sujeito omitido | Falar por 30 s: ponto, razão, exemplo. Gravação em dupla | 2 Reading (Daily Life), 2 Listening (Announcement), 1 Speaking, vocabulário lista 1 |
 | 2 | Escuta de falas curtas: ideia central e propósito. Anotação mínima. Clínica: plural e concordância | Frase acadêmica: sujeito, verbo, objeto, conector. Build a Sentence como jogo | 2 Reading, 2 Listening, 1 Writing (e-mail), vocabulário lista 2 |
 | 3 | Vocabulário acadêmico em contexto; paráfrase. Clínica: comma splice | E-mail com pedido e justificativa em 7 min. Feedback entre pares com rubrica simples | 2 Reading (Academic Passage curta), 2 Listening (Conversation), 1 Writing, 1 Speaking |
-| 4 | Ideia principal versus detalhe em passagem de 250 palavras. Clínica: falsos cognatos | Responder a pergunta de entrevista por 45 s sem preparação. Pronúncia: /ð/ e /θ/ | 2 Reading, 2 Listening, 1 Writing, 2 Speaking, revisão de vocabulário 1 a 4 |
-| 5 | Inferência: o que o texto não diz. Clínica: tempos verbais narrativos | Parágrafo de opinião: posição, duas razões, um exemplo, 100 palavras em 10 min | 2 Reading, 2 Listening (Academic Talk curta), 1 Writing, 1 Speaking |
-| 6 | **Diagnóstico intermediário** (Reading e Listening) e devolutiva em turma | **Diagnóstico intermediário** (Writing e Speaking) e devolutiva individual escrita | Revisão guiada dos erros do diagnóstico |
-| 7 | Falas acadêmicas de 2 a 3 min: organização do discurso, exemplos de apoio. Anotação com estrutura | Discussão acadêmica: reagir à opinião de dois colegas e defender a sua. Pronúncia: /ŋ/ e /r/ | 2 Reading, 2 Listening, 1 Writing (Academic Discussion), 2 Speaking |
-| 8 | Vocabulário de argumentação e conectores de contraste e causa. Clínica: preposições | Sustentar opinião sob pergunta de contraposição (o professor rebate). Fluência: reduzir pausas | 2 Reading, 2 Listening, 1 Writing, 2 Speaking, revisão de vocabulário 5 a 8 |
-| 9 | Introdução ao formato das tarefas acadêmicas do TOEFL (Reading e Listening): o que muda com o tempo cronometrado | Take an Interview e Academic Discussion no formato e no tempo da prova, com devolutiva | Primeiro conjunto cronometrado por seção |
-| 10 | Passagem acadêmica completa em 10 min; gestão de tempo. Clínica: erros recorrentes da turma | Bateria de Speaking: 4 perguntas de entrevista em sequência | Segundo conjunto cronometrado; 1 Writing, 2 Speaking |
-| 11 | Fala acadêmica completa com 4 questões; anotação sob pressão | Escrita de 100 palavras com revisão em 2 min; checklist de erros pessoais | Terceiro conjunto cronometrado; tarefas de revisão |
-| 12 | **Diagnóstico final** (Reading e Listening) | **Diagnóstico final** (Writing e Speaking); relatório de prontidão; sessão de encaminhamento | Autoavaliação de confiança; NPS; oferta do bundle |
+| 4 | Ideia principal versus detalhe em passagem de 250 palavras. Clínica: falsos cognatos | Responder a pergunta de entrevista por 45 s sem preparação. Pronúncia: /ð/ e /θ/ | 2 Reading, 2 Listening, 1 Writing, 2 Speaking |
+| 5 | Sinais de coesão: referência e substituição. Clínica: artigos | Descrever e comparar a partir de uma imagem, 45 s. Pronúncia: vogais curtas e longas | 2 Reading, 2 Listening, 1 Writing, 2 Speaking, revisão de vocabulário 1 a 5 |
+| 6 | **Consolidação do bloco 1:** revisão dos erros mais frequentes da turma | Rodada de produção: e-mail e resposta oral, com autoavaliação | Revisão guiada; formulário de feedback do bloco |
+| 7 | Inferência: o que o texto não diz. Clínica: tempos verbais narrativos | Parágrafo de opinião: posição, duas razões, um exemplo, 100 palavras em 10 min | 2 Reading, 2 Listening (Academic Talk curta), 1 Writing, 1 Speaking |
+| 8 | Falas acadêmicas de 2 a 3 min: organização do discurso, exemplos de apoio. Anotação com estrutura | Discussão acadêmica: reagir à opinião de dois colegas e defender a sua. Pronúncia: /ŋ/ e /r/ | 2 Reading, 2 Listening, 1 Writing (Academic Discussion), 2 Speaking |
+| 9 | **Diagnóstico intermediário** (Reading e Listening) e devolutiva em turma | **Diagnóstico intermediário** (Writing e Speaking); devolutiva individual escrita; sessão de 20 min para o Completo | Revisão guiada dos erros do diagnóstico |
+| 10 | Vocabulário de argumentação e conectores de contraste e causa. Clínica: preposições | Sustentar opinião sob pergunta de contraposição (o professor rebate). Fluência: reduzir pausas | 2 Reading, 2 Listening, 1 Writing, 2 Speaking |
+| 11 | Passagem acadêmica de 300 palavras: leitura em duas velocidades. Clínica: ordem das palavras | Debate em duplas com tempo; síntese oral de 45 s | 2 Reading, 2 Listening, 1 Writing, 2 Speaking, revisão de vocabulário 6 a 11 |
+| 12 | **Consolidação do bloco 2:** erros recorrentes; o que muda no bloco 3 | Rodada de produção: parágrafo e resposta oral, com autoavaliação | Revisão guiada; formulário de feedback do bloco |
+| 13 | Introdução ao formato das tarefas acadêmicas do TOEFL (Reading e Listening): o que muda com o tempo cronometrado | Take an Interview e Academic Discussion no formato e no tempo da prova, com devolutiva | Primeiro conjunto cronometrado por seção |
+| 14 | Passagem acadêmica completa em 10 min; gestão de tempo. Clínica: erros recorrentes da turma | Bateria de Speaking: 4 perguntas de entrevista em sequência | Segundo conjunto cronometrado; 1 Writing, 2 Speaking |
+| 15 | Fala acadêmica completa com 4 questões; anotação sob pressão | Escrita de 100 palavras com revisão em 2 min; checklist de erros pessoais | Terceiro conjunto cronometrado; tarefas de revisão |
+| 16 | Estratégias de leitura sob tempo: quando pular, quando voltar | Speaking sob pressão: perguntas inesperadas, 45 s, sem pausa | Quarto conjunto cronometrado; 1 Writing, 2 Speaking |
+| 17 | Revisão integrada: ler, ouvir e responder sobre o mesmo tema | Simulação de sequência de tarefas produtivas no tempo da prova | Revisão final de vocabulário; autoavaliação prévia |
+| 18 | **Diagnóstico final** (Reading e Listening) | **Diagnóstico final** (Writing e Speaking); relatório de prontidão; sessão de encaminhamento | Autoavaliação de confiança; NPS; oferta da preparação |
 
 Distribuição do tempo ao vivo: cerca de 60% em produção (Speaking e Writing) e 40% em recepção e vocabulário **[P16]** (pergunta C4).
 
 ### 8.3. Materiais e processo de criação
 
 - **Fonte de verdade:** análise das tarefas do TOEFL 2026 (já feita no guia interno) cruzada com o critério de prontidão e o catálogo de erros de interferência.
-- **Processo:** o Gerson especifica cada unidade (objetivo, tarefa, critério de avaliação); a IA gera rascunhos de textos, áudios (ElevenLabs, elenco de vozes já definido), listas de vocabulário e variações; o Gerson faz curadoria e adapta; o Lucas revisa alinhamento com a prova; o Eduardo cadastra no admin.
-- **Criação just-in-time no piloto:** bloco 1 pronto antes da aula 1; blocos 2 e 3 prontos com duas semanas de antecedência. Isso reduz o investimento antes de validar a demanda (Riskiest Assumption Test).
+- **Dois formatos do mesmo conteúdo:** apostila e tarefas em PDF, áudio e formulário para o Bridge Turma; a mesma sequência cadastrada como trilha no app para o Completo. Criar uma vez, publicar em dois canais.
+- **Processo:** o Gerson especifica cada unidade (objetivo, tarefa, critério de avaliação); a IA gera rascunhos de textos, áudios (ElevenLabs, elenco de vozes já definido), listas de vocabulário e variações; o Gerson faz curadoria e adapta; o Lucas revisa alinhamento com a prova; o Eduardo produz a apostila e cadastra no admin.
+- **Criação just-in-time no piloto:** bloco 1 pronto antes da aula 1; blocos 2 e 3 prontos com três semanas de antecedência.
 - **Reuso:** os conjuntos de Reading e Listening criados para o Bridge entram no banco geral, marcados por dificuldade (item B0 do roadmap), o que ajuda o gargalo de Reading e Listening da preparação.
 - **Propriedade intelectual:** compartilhada com licença mútua no piloto **[P17]**; decisão D6.
 
@@ -281,25 +319,25 @@ Distribuição do tempo ao vivo: cerca de 60% em produção (Speaking e Writing)
 
 ## 9. Formato operacional
 
-### 9.1. Cohort fechado versus entrada contínua
+### 9.1. Semestre fechado versus entrada contínua
 
 | Opção | Prós | Contras | Decisão |
 |---|---|---|---|
-| Cohort de 12 semanas, data fixa, grupo fechado | Urgência real sem truque; homogeneidade controlada; currículo sequencial; ritmo de turma; medição limpa | Quem perde a data espera; receita em ondas; risco de não encher | **Piloto** **[P3]** |
-| Módulos mensais com entrada contínua | Receita contínua; menos espera; escala mais fácil | Heterogeneidade; currículo em ciclo perde sequência; medição suja | Reavaliar após 2 turmas |
-| Híbrido: cohort com "cadeira extra" até a semana 2 | Enche a turma sem quebrar o grupo | Aluno de entrada tardia começa atrás | Permitido no piloto até a semana 2 |
+| Semestre fechado (18 semanas, duas turmas por ano) | Formato que o mercado de idiomas usa; homogeneidade controlada; currículo sequencial; mensalidade previsível; medição limpa | Quem perde a data espera até 6 meses; receita em duas ondas | **Piloto** **[P3]** |
+| Módulos bimestrais com entrada contínua | Menos espera; receita contínua | Heterogeneidade; currículo em ciclo perde sequência; medição suja | Reavaliar após 2 semestres |
+| Semestre com "cadeira extra" até a semana 3 | Enche a turma sem quebrar o grupo | Aluno de entrada tardia começa atrás | Permitido no piloto até a semana 3, com material de recuperação |
 
 ### 9.2. Duração e frequência
 
-| Opção | Horas ao vivo | Prós | Contras |
+| Opção | Horas ao vivo no semestre | Prós | Contras |
 |---|---|---|---|
-| 12 semanas, 2 × 60 min | 24 | Frequência favorece retenção e hábito; sessões curtas cansam menos online; falta custa menos | Dobra a fricção de agenda; custo maior do Gerson |
-| 12 semanas, 1 × 90 min | 18 | Uma agenda só; custo menor; 90 min comportam input e produção | Uma semana sem aula é um buraco de 14 dias; menos frequência |
-| 12 semanas, 1 × 120 min | 24 | Mesmo volume com uma agenda | Duas horas online é longo para depois do trabalho |
-| 8 semanas | 16 a 24 | Mais barato; decisão mais rápida | Pouco tempo para consolidar hábito e medir salto |
-| 16 semanas | 24 a 32 | Mais tempo de maturação | Adiamento e evasão crescem com a duração; preço sobe |
+| 18 semanas, 2 × 60 min | 36 | Frequência favorece retenção e hábito; sessões curtas cansam menos online; falta custa menos | Dobra a fricção de agenda; custo maior do Gerson |
+| 18 semanas, 1 × 90 min | 27 | Uma agenda só; custo menor; 90 min comportam input e produção | Uma semana sem aula é um buraco de 14 dias; menos frequência |
+| 18 semanas, 1 × 120 min | 36 | Mesmo volume com uma agenda | Duas horas online é longo para depois do trabalho |
+| 16 semanas (4 meses) | 32 | Cabe em 4 mensalidades; termina antes das férias | Menos tempo de maturação; perde a semana de consolidação por bloco |
+| 20 semanas (5 meses cheios) | 40 | Mais tempo | Atravessa feriados e férias; evasão cresce com a duração |
 
-Decisão do piloto: **12 semanas, 2 × 60 min** **[P11]**, com **1 × 90 min como alternativa** se a disponibilidade do Gerson ou a pesquisa da lista de espera indicarem. A economia dos dois cenários está na seção 11.
+Decisão do piloto: **18 semanas, 2 × 60 min** **[P11]**, cobradas em 5 mensalidades, com **1 × 90 min como alternativa** se a disponibilidade do Gerson ou a pesquisa da lista de espera indicarem. A economia dos dois cenários está na seção 11.
 
 ### 9.3. Tamanho da turma
 
@@ -312,37 +350,40 @@ O Gerson apontou que turmas de 6 encolhem com faltas e ficam ruins. Modelo simpl
 | 10 | 8 | 6 a 7 | Ideal |
 | 12 | 10 | 8 | Heterogeneidade e tempo de fala por aluno começam a sofrer |
 
-Regras do piloto **[P18]**: abre com **8 pagantes**, máximo **10**, cadeira extra até 2 alunos por até a semana 2. Com menos de 8 na data de corte (14 dias antes), a turma é adiada uma vez (até 4 semanas) e, se não encher, o valor é devolvido integralmente.
+Regras do piloto **[P18]**: abre com **8 matriculados**, máximo **10**, cadeira extra até 2 alunos por até a semana 3. Com menos de 8 na data de corte (14 dias antes), a turma é adiada até o semestre seguinte e as mensalidades pagas são devolvidas integralmente. Evasão no semestre: a turma continua com 6 ou mais; abaixo disso, o Gerson e o Lucas decidem entre completar com cadeira extra do semestre seguinte ou fechar o semestre com a turma menor.
 
-Controle de heterogeneidade: janela de entrada estreita (seção 6), tarefas assíncronas em dois níveis por habilidade, e duplas de estudo pareadas por habilidade complementar.
+Controle de heterogeneidade: janela de entrada estreita (seção 6), estudo dirigido em dois níveis por habilidade, e duplas de estudo pareadas por habilidade complementar.
 
-### 9.4. Calendário
+### 9.4. Calendário semestral
 
-- Uma turma por vez no piloto. Duas turmas simultâneas (horários diferentes) só a partir da turma 3, se a demanda permitir.
-- Evitar início entre 1º de dezembro e 20 de janeiro (evasão e férias). Ver plano do piloto na seção 16.
+- **Primeiro semestre:** início na semana seguinte ao Carnaval, término na última semana de junho (18 semanas de aula, com pausa na Semana Santa).
+- **Segundo semestre:** início na primeira semana de agosto, término na segunda semana de dezembro (18 semanas, com pausas nos feriados de novembro).
+- Uma turma por semestre no piloto. Duas turmas simultâneas (horários diferentes) a partir do terceiro semestre, se a demanda permitir.
 - Horário-alvo: terça e quinta, 19h30 às 20h30 (horário de Brasília) **[P19]**, a validar com a lista de espera e a agenda do Gerson.
+- Lista de espera e placement rodam o semestre inteiro; a pré-matrícula abre 8 semanas antes do início.
 
 ### 9.5. Papéis (RACI resumido)
 
 | Atividade | Gerson | Lucas | Pardal | Eduardo |
 |---|---|---|---|---|
 | Critério de prontidão e currículo | R | C | | |
-| Criação de material | R | A (alinhamento com a prova) | | C (cadastro) |
+| Criação de material (apostila e trilha) | R | A (alinhamento com a prova) | | R (produção e cadastro) |
 | Placement: revisão de bandas e entrevista | R | R | | |
 | Aulas ao vivo e feedback humano | R | | | |
-| Lista de espera, página, checkout | | A | R | C |
-| Entitlement Bridge, trilha, cota | | C | R | |
-| Onboarding, lembretes, suporte de 1º nível | | | | R |
-| Venda do bundle e encaminhamento | | R | | C |
+| Lista de espera, página, matrícula e cobrança mensal | | A | R | C |
+| Entitlement Bridge Completo, trilha, cota, acesso restrito ao diagnóstico | | C | R | |
+| Onboarding, lembretes, chamada, suporte de 1º nível, inadimplência | | | | R |
+| Venda do encaminhamento para a preparação | | R | | C |
 | Métricas e retrospectiva | | R | C | C |
 
 R = responsável, A = aprova, C = consultado.
 
 ### 9.6. Ferramentas e políticas
 
-- Aula ao vivo: ferramenta que o Gerson já domina, com gravação; gravações e materiais acessíveis pelo app (ou pelo site de aulas até o login único existir) **[P20]**.
+- Aula ao vivo: ferramenta que o Gerson já domina, com gravação; gravações e materiais acessíveis pelo app para o Completo e por área do aluno simples (ou pelo site de aulas) para o Turma **[P20]**.
 - Faltas: gravação disponível em 24 h; a presença conta para a garantia; sem reposição individual.
-- Contrato de matrícula com política de reembolso: 7 dias de arrependimento (CDC) e, além disso, reembolso proporcional até a semana 2.
+- Contrato de matrícula semestral com política de cancelamento (seção 7.2) e 7 dias de arrependimento (CDC).
+- Cobrança: mensalidade recorrente no cartão ou Pix, com lembrete automático e suspensão de acesso ao estudo dirigido após 15 dias de atraso; a aula ao vivo não é suspensa antes de 30 dias, para não punir a turma.
 - Comunicação da turma: canal de anúncios (somente leitura) mais fórum ou grupo moderado pelo Eduardo, sem atendimento individual do Gerson por WhatsApp.
 
 ---
@@ -355,84 +396,110 @@ Mapeada às 12 etapas da jornada já documentada da PreparaTOEFL.
 |---|---|---|---|---|
 | 1 | Descoberta | "Preciso de TOEFL e não sei se meu inglês serve" | Vídeo e artigo "Você está pronto para o TOEFL?"; artigo "Por que intermediário falha no TOEFL"; "Sua escola de inglês não vai te preparar para o TOEFL" (ângulo já sugerido na análise competitiva) | Lucas |
 | 2 | Entendimento | Descobre que a prova mudou e que há tarefas para o nível dele | Aula pública sobre as tarefas acessíveis do TOEFL 2026 e as acadêmicas | Lucas |
-| 3 | Lead | Faz o teste "Estou pronto?" (lead magnet A3) e recebe um veredito | Veredito em três saídas: "ainda não, e este é o caminho (Bridge)"; "pronto para a preparação"; "antes, inglês geral" | Pardal, Lucas |
-| 4 | Nutrição | Entra na lista de espera do Bridge | Sequência de 4 e-mails: o que é o Bridge, o critério de prontidão, a data da próxima turma, o placement | Lucas |
-| 5 | Consideração | "Isso funciona para mim? Quanto custa? Quanto tempo?" | Página do Bridge com preço público, critério de saída, calendário e o relatório de placement como prova | Lucas, Eduardo |
-| 6 | Placement | EF SET, amostras no app, entrevista | Relatório com recomendação; oferta com duas opções (Bridge ou bundle Bridge + preparação) | Gerson, Lucas |
-| 7 | Compra | Checkout em 10x | Entitlement Bridge liberado por webhook | Pardal |
-| 8 | Onboarding (semana 0) | Recebe acesso, faz o diagnóstico de entrada, recebe o plano semanal e conhece a turma | E-mail com um único próximo passo; sessão de onboarding ao vivo | Eduardo, Gerson |
-| 9 | Ativação (semana 1) | Primeira aula, primeira correção por IA, primeira gravação de Speaking | Métrica: recebeu correção por IA em até 7 dias | Pardal (métrica) |
-| 10 | Estudo recorrente (semanas 1 a 11) | Duas aulas por semana, 3 a 4 horas de plataforma, feedback quinzenal do Gerson, dúvidas da semana | Página de progresso com banda por habilidade | Gerson, Pardal |
-| 11 | Checkpoint (semana 6) e saída (semana 12) | Diagnóstico intermediário e final; relatório de prontidão | Sessão de encaminhamento e oferta do bundle com desconto por 30 dias | Gerson, Lucas |
+| 3 | Lead | Faz o teste "Estou pronto?" (lead magnet A3) e recebe um veredito | Veredito em três saídas: "ainda não, e este é o caminho (Bridge, próximo semestre)"; "pronto para a preparação"; "antes, inglês geral" | Pardal, Lucas |
+| 4 | Nutrição | Entra na lista de espera do Bridge | Sequência de 4 e-mails: o que é o Bridge, o critério de prontidão, o calendário do semestre, o placement | Lucas |
+| 5 | Consideração | "Isso funciona para mim? Quanto custa por mês? Quanto tempo?" | Página do Bridge com mensalidade pública das duas ofertas, critério de saída, calendário e o relatório de placement como prova | Lucas, Eduardo |
+| 6 | Placement | EF SET, amostras no app, entrevista | Relatório com recomendação; oferta com duas opções (Turma ou Completo) | Gerson, Lucas |
+| 7 | Matrícula | Contrato semestral; primeira mensalidade | Entitlement liberado por webhook (Completo) ou acesso ao diagnóstico e à área do aluno (Turma) | Pardal |
+| 8 | Onboarding (semana 0) | Recebe acesso, faz o diagnóstico de entrada, recebe o roteiro do semestre e conhece a turma | E-mail com um único próximo passo; sessão de onboarding ao vivo | Eduardo, Gerson |
+| 9 | Ativação (semana 1) | Primeira aula, primeira tarefa entregue, primeira gravação de Speaking | Métrica: entregou a primeira tarefa em até 7 dias (Turma); recebeu correção por IA em até 7 dias (Completo) | Pardal (métrica) |
+| 10 | Estudo recorrente (semanas 1 a 17) | Duas aulas por semana, 3 a 4 horas de estudo dirigido, dúvidas da semana; no Completo, feedback quinzenal do Gerson | Página de progresso com banda por habilidade (Completo) | Gerson, Pardal |
+| 11 | Checkpoint (semana 9) e saída (semana 18) | Diagnóstico intermediário e final; relatório de prontidão | Sessão de encaminhamento e oferta da preparação com desconto por 30 dias (Completo) | Gerson, Lucas |
 | 12 | Depois do Bridge | Entra na preparação, marca a prova, faz a prova | Coleta de resultado e depoimento (item E12); o depoimento do Bridge fala de prontidão, não de nota | Lucas |
 
 ---
 
 ## 11. Economia e pricing
 
-### 11.1. Custo do professor por turma (regime, após o piloto)
+### 11.1. Por que a economia é distinta da dos planos
+
+Os planos TOEFL vendem acesso à plataforma por 6 meses, com custo marginal quase zero e tempo humano limitado (Premium: 1 h por semana em turma de até 8). O Bridge vende **tempo de professor em turma por um semestre**: 27 a 36 horas ao vivo, mais preparação, feedback e placement. O custo dominante é a hora do Gerson, e ele é fixo por turma, não por aluno. Por isso o Bridge se comporta como uma escola de idiomas: a conta fecha por turma cheia, e a mensalidade precisa cobrir a hora do professor dividida por 8 a 10 alunos, com margem.
+
+### 11.2. Custo do professor por semestre (regime, após o piloto)
 
 | Item | 2 × 60 min | 1 × 90 min |
 |---|---|---|
-| Aulas ao vivo | 24 h | 18 h |
-| Preparação (0,5 h por hora de aula) | 12 h | 9 h |
-| Feedback humano e dúvidas da semana (1 h por semana) | 12 h | 12 h |
+| Aulas ao vivo (18 semanas) | 36 h | 27 h |
+| Preparação (0,5 h por hora de aula) | 18 h | 13,5 h |
+| Feedback humano e dúvidas da semana (1 h por semana) | 18 h | 18 h |
 | Placement (revisão de bandas e entrevistas, cerca de 40 candidatos) | 4 h | 4 h |
-| **Total** | **52 h** | **43 h** |
-| Custo a R$ 180/h | **R$ 9.360** | **R$ 7.740** |
+| **Total** | **76 h** | **62,5 h** |
+| Custo a R$ 180/h | **R$ 13.680** | **R$ 11.250** |
+| Equivalente mensal (5 meses) | R$ 2.736 | R$ 2.250 |
 
-Custo adicional do piloto: criação de material (cerca de 40 h, R$ 7.200 a R$ 180/h) e preparação a 1:1 na primeira turma (mais 12 h ou 9 h). Como pagar isso é a decisão D5/E3; a recomendação está em 11.4.
+Custo adicional do piloto: criação de material (cerca de 60 h para 18 semanas em dois formatos, R$ 10.800 a R$ 180/h) e preparação a 1:1 na primeira turma (mais 18 h ou 13,5 h). Como pagar isso é a decisão D5/E3; a recomendação está em 11.6.
 
-Custos variáveis por aluno **[P21]**: taxas de pagamento em 10x (6% blended), correção por IA (R$ 25 por aluno por turma, a confirmar quando o item E1 do backlog medir o custo por correção), operação (R$ 30). Custo de coordenação (Lucas e Eduardo, cerca de 15 h por turma) considerado como custo de oportunidade, não caixa.
+Custos variáveis por aluno no semestre **[P21]**: taxas de cobrança (4% na mensalidade recorrente; 6% no cartão em 10x), operação (R$ 50), e, só no Completo, correção por IA (cerca de 126 correções no semestre pela cota; R$ 120 por aluno a confirmar quando o item E1 do backlog medir o custo por correção) e produção da trilha (diluída). Custo de coordenação (Lucas e Eduardo, cerca de 20 h por semestre) considerado como custo de oportunidade, não caixa.
 
-### 11.2. Cenários de margem de contribuição por turma (regime)
+### 11.3. Cenários do Bridge Turma (modelo tradicional, mensalidade)
 
-Receita menos taxas, custos variáveis e custo do Gerson a R$ 180/h.
+Receita do semestre = mensalidade × 5 × alunos. Margem de contribuição = receita menos taxas, custos variáveis e custo do Gerson a R$ 180/h (2 × 60 min, 76 h). Sem evasão.
 
-| Preço | Alunos | Receita | 2 × 60 min (52 h) | 1 × 90 min (43 h) |
-|---|---|---|---|---|
-| R$ 997 | 8 | R$ 7.976 | −R$ 2.303 | −R$ 683 |
-| R$ 997 | 10 | R$ 9.970 | −R$ 538 | R$ 1.082 (11%) |
-| R$ 1.497 | 8 | R$ 11.976 | R$ 1.457 (12%) | R$ 3.077 (26%) |
-| R$ 1.497 | 10 | R$ 14.970 | R$ 4.162 (28%) | R$ 5.782 (39%) |
-| R$ 1.997 | 8 | R$ 15.976 | R$ 5.217 (33%) | R$ 6.837 (43%) |
-| R$ 1.997 | 10 | R$ 19.970 | R$ 8.862 (44%) | R$ 10.482 (52%) |
+| Mensalidade | Semestre por aluno | 8 alunos | 10 alunos |
+|---|---|---|---|
+| R$ 397 | R$ 1.985 | R$ 1.165 (7%) | R$ 4.876 (25%) |
+| R$ 497 | R$ 2.485 | R$ 5.005 (25%) | R$ 9.676 (39%) |
+| R$ 597 | R$ 2.985 | R$ 8.845 (37%) | R$ 14.476 (48%) |
 
-Leituras:
+Com 1 × 90 min (62,5 h, R$ 11.250), cada célula ganha cerca de R$ 2.430: a R$ 497 com 8 alunos, R$ 7.435 (37%); com 10, R$ 12.106 (49%).
 
-- **R$ 997 não fecha** com o Gerson a R$ 180/h em nenhum cenário de 8 alunos. A linha "tutoria em grupo a R$ 150 a 250/mês" do plano de negócio pressupõe menos horas de professor sênior do que o Bridge usa. Essa linha precisa ser revista ou o Bridge precisa ser reconhecido como um produto acima dela.
-- **R$ 1.497 fecha com 8 e fica confortável com 10.** É o preço que permite a turma mínima sem prejuízo.
-- **R$ 1.997 é o preço cheio natural** depois do piloto, coerente com a política de "preço de lançamento anunciado com o cheio desde o primeiro dia".
-- O formato 1 × 90 min ganha 10 a 14 pontos de margem. É a alavanca de segurança se a demanda vier menor.
+Sensibilidade à evasão: 20% dos alunos saindo no fim do mês 3 reduz a receita do semestre em cerca de 8% e a margem a R$ 497 com 10 alunos de R$ 9.676 para cerca de R$ 7.700. A mensalidade cobre a evasão até esse ponto; acima de 30% de evasão, a turma de 8 a R$ 497 fica no zero.
 
-### 11.3. Hipóteses de preço **[P2]**
+Referências de preço por hora: a R$ 497 por mês com 2 × 60 min (cerca de 8,7 h de aula por mês), o aluno paga cerca de R$ 57 por hora de aula em turma com professor sênior e material próprio, o mesmo patamar dos tutores avulsos individuais sem método (R$ 55 a 70/h). A R$ 397 fica em R$ 46/h, abaixo de qualquer referência e com sinal de "curso fraco". A R$ 597 fica em R$ 69/h, no topo da faixa do tutor avulso.
 
-| Hipótese | Preço | Ancoragem | Prós | Contras |
-|---|---|---|---|---|
-| H1 | R$ 997 (10x R$ 99,70) | Paridade com o Standard | Baixa barreira; consistente com a escada | Não remunera o Gerson; sinaliza "curso básico" |
-| H2 (recomendada para o piloto) | **R$ 1.497 (10x R$ 149,70)** | Abaixo do Premium (R$ 2.997), acima do Standard; cerca de R$ 62 por hora de aula ao vivo por aluno, na faixa dos tutores avulsos (R$ 55 a 70/h) mas com método, turma e plataforma | Fecha a conta com 8; parcela abaixo de R$ 150; deixa espaço para o cheio | Acima da linha "R$ 150 a 250/mês" do plano; exige justificar valor |
-| H3 | R$ 1.997 (10x R$ 199,70) | Preço cheio a partir da turma 2 ou de 2027 | Margem saudável; coerente com a política de lançamento | Pode reduzir a conversão de um público sensível a preço |
-| H4 | Mensal, R$ 497 × 3 | Compra por mês | Barreira menor percebida | Evasão no meio; cobrança em três eventos; contra o padrão da casa (10x com total visível) |
+### 11.4. Cenários do Bridge Completo (modelo híbrido)
 
-Bundle "Trilha completa" **[P22]**: Bridge + Standard por R$ 2.197 (economia de cerca de R$ 300 sobre R$ 1.497 + R$ 997), com data-alvo registrada, vendido no placement e de novo na semana 12. A Trilha com o Premium (R$ 1.497 + R$ 2.997) por R$ 3.997 para quem tem meta 5.0 ou mais.
+Receita do semestre por aluno = mensalidade × 5 (ou R$ 3.997 em 10x). Custo variável inclui a IA (R$ 120) e taxas de 6%.
 
-Como validar: pesquisa de Van Westendorp na lista de espera (quatro perguntas de preço) e teste do preço na pré-venda da turma fundadora.
+| Preço | Semestre por aluno | 8 alunos | 10 alunos |
+|---|---|---|---|
+| R$ 697/mês | R$ 3.485 | R$ 11.087 (40%) | R$ 17.279 (50%) |
+| R$ 797/mês ou R$ 3.997 em 10x | R$ 3.985 | R$ 14.847 (47%) | R$ 21.979 (55%) |
+| R$ 897/mês | R$ 4.485 | R$ 18.607 (52%) | R$ 26.679 (59%) |
 
-### 11.4. Modelo de remuneração do Gerson (decisão D5)
+Leitura contra o catálogo: o Premium custa R$ 2.997 (R$ 3.497 a partir de 2027) por 6 meses com cerca de 26 h ao vivo em turma de até 8 e WhatsApp. O Bridge Completo a R$ 3.985 entrega 36 h ao vivo, a plataforma, feedback humano quinzenal e três diagnósticos. Ficar acima do Premium é coerente com "mais tempo de professor custa mais", e a distância (cerca de 14% acima do Premium cheio) é pequena o bastante para não parecer outra categoria.
 
-| Modelo | Como funciona | Risco para a PreparaTOEFL | Risco para o Gerson | Leitura |
-|---|---|---|---|---|
-| A. Hora fixa | R$ 180/h por hora contratada, turma cheia ou não | Alto (paga mesmo com 6 alunos) | Baixo | Simples; desalinha incentivo de encher a turma |
-| B. Participação na receita | 55% da receita líquida da turma | Baixo | Alto (com 8 alunos a R$ 1.497 e 43 h, dá R$ 144/h; com 10, R$ 180/h) | Alinha incentivos; o Gerson carrega o risco de demanda que não controla |
-| C. Híbrido (recomendado) | Mínimo garantido de R$ 7.000 por turma que abrir, mais 50% da receita líquida acima de R$ 14.000 | Médio | Médio | Com 8 alunos a R$ 1.497, R$ 7.000 (R$ 163/h em 43 h); com 10, cerca de R$ 7.000 mais R$ 36; a R$ 1.997 com 10, cerca de R$ 9.400 (R$ 218/h) |
+### 11.5. Turma mista (o cenário realista do piloto)
 
-Material do piloto: pagar as 40 h de criação como projeto à parte (R$ 7.200), amortizado nas três primeiras turmas, com a propriedade intelectual compartilhada. Isso evita que o Gerson trabalhe de graça antes de existir receita e evita que a PreparaTOEFL fique sem material se a parceria acabar.
+| Composição | Receita do semestre | Margem de contribuição (2 × 60 min) |
+|---|---|---|
+| 8 Turma, 0 Completo | R$ 19.880 | R$ 5.005 (25%) |
+| 6 Turma, 2 Completo | R$ 22.880 | R$ 7.573 (33%) |
+| 5 Turma, 5 Completo | R$ 32.350 | R$ 15.827 (49%) |
+| 3 Turma, 7 Completo | R$ 35.350 | R$ 18.469 (52%) |
+| 0 Turma, 10 Completo | R$ 39.850 | R$ 21.979 (55%) |
 
-### 11.5. O que precisa ser verdade para o Bridge valer a pena para a PreparaTOEFL
+O piloto fecha a conta mesmo no pior caso (8 alunos, todos no Turma). Cada aluno que escolhe o Completo em vez do Turma acrescenta cerca de R$ 1.300 de margem; é por isso que a proporção do Completo é um critério de sucesso do piloto.
 
-- Margem de contribuição de R$ 3.000 ou mais por turma (cobre a coordenação) **e** 4 ou mais alunos por turma entrando na preparação (R$ 4.000 ou mais de receita adicional).
-- Menos de 2 h por semana do Lucas após a semana 2.
-- Material reaproveitável no banco de questões.
+### 11.6. Modelo de remuneração do Gerson (decisão D5)
+
+A remuneração é mensal, como o produto.
+
+| Modelo | Como funciona | Com 10 alunos no Turma (2 × 60 min) | Com 5 Turma e 5 Completo | Risco para a PreparaTOEFL | Risco para o Gerson |
+|---|---|---|---|---|---|
+| A. Hora fixa | R$ 180/h por hora em sala, preparação, feedback e placement, turma cheia ou não | R$ 13.680 no semestre (R$ 180/h) | Igual | Alto (paga mesmo com 6 alunos) | Baixo |
+| B. Mensal fixo | R$ 2.700 por mês de turma ativa | R$ 13.500 (R$ 178/h) | Igual | Alto | Baixo; previsível |
+| C. Híbrido (recomendado) | R$ 2.400 por mês garantido, mais 50% da receita líquida mensal acima de R$ 4.000 | R$ 13.930 (R$ 183/h) | R$ 17.330 (R$ 228/h) | Médio | Médio: com 8 alunos no Turma, R$ 12.000 (R$ 158/h) |
+| D. Participação pura | 55% da receita líquida | R$ 13.120 (R$ 173/h) | R$ 17.100 (R$ 225/h) | Baixo | Alto: com 8 no Turma, R$ 10.500 (R$ 138/h) |
+
+O modelo C atinge o alvo de R$ 180/h com a turma cheia no Turma, garante um piso quando a turma abre no mínimo, e paga mais quando a turma escolhe o Completo, o que alinha o Gerson com a oferta que dá mais margem. Material do piloto: pagar as 60 h de criação como projeto à parte (R$ 10.800), em três parcelas ao longo do semestre, amortizado nos três primeiros semestres, com a propriedade intelectual compartilhada.
+
+### 11.7. Hipóteses de preço resumidas **[P2]**
+
+| Oferta | Piloto (turma fundadora) | Regime | Ancoragem |
+|---|---|---|---|
+| Bridge Turma | R$ 497/mês por 5 meses | R$ 547 a 597/mês | Hora-aula em turma no patamar do tutor avulso; mensalidade abaixo de R$ 500 |
+| Bridge Completo | R$ 797/mês por 5 meses, ou R$ 3.997 em 10x | R$ 897/mês | Acima do Premium, sustentado por 36 h ao vivo mais plataforma |
+| Encaminhamento | 15% no Standard ou no Premium por 30 dias após a semana 18 (só Completo) | Igual | Bridge como porta do funil |
+
+Como validar: pesquisa de Van Westendorp na lista de espera (quatro perguntas de preço, separadas para mensalidade com e sem plataforma) e teste do preço na pré-matrícula da turma fundadora. Anúncio desde o primeiro dia de que o preço de regime é maior, no mesmo padrão dos planos.
+
+### 11.8. O que precisa ser verdade para o Bridge valer a pena para a PreparaTOEFL
+
+- Margem de contribuição de R$ 5.000 ou mais por semestre (cobre a coordenação) **e** 4 ou mais alunos por semestre entrando na preparação (R$ 4.000 ou mais de receita adicional).
+- Menos de 2 h por semana do Lucas após a semana 3.
+- Material reaproveitável no banco de questões e nas turmas seguintes.
+- Evasão de 15% ou menos no semestre.
 
 ---
 
@@ -440,13 +507,14 @@ Material do piloto: pagar as 40 h de criação como projeto à parte (R$ 7.200),
 
 ### 12.1. Posicionamento
 
-"O TOEFL Bridge é a base para o TOEFL: em 12 semanas, você sai do inglês intermediário para o ponto em que uma preparação focada em nota passa a funcionar. Não prometemos nota. Prometemos que você vai saber, com critério, quando está pronto."
+"O TOEFL Bridge é a base para o TOEFL: em um semestre, você sai do inglês intermediário para o ponto em que uma preparação focada em nota passa a funcionar. Não prometemos nota. Prometemos que você vai saber, com critério, quando está pronto."
 
 Mensagens de apoio, no tom Mentor Realista:
 
 - "Antes de estudar para a prova, feche a distância até ela."
 - "Preparação de TOEFL sem base é dinheiro jogado fora. A gente te diz, com dado, se você tem base."
 - "Sua escola de inglês não vai te preparar para o TOEFL. E um curso de TOEFL não vai te ensinar inglês."
+- "Um semestre, duas aulas por semana, um professor que fez a prova inteira."
 
 Custo da alternativa (ancoragem já usada pela marca): uma prova perdida custa mais de R$ 1.400; seis meses de estudo sem direção custam mais.
 
@@ -462,27 +530,29 @@ Teste: a página da lista de espera roda com dois nomes (A/B por link) e mede ta
 
 ### 12.3. Canais, por ordem de custo
 
-1. **Leads já descartados por nível** (pergunta G1). Um e-mail: "estamos abrindo a turma pré-TOEFL; você teria interesse?". É a pesquisa de demanda mais barata que existe.
+1. **Leads já descartados por nível** (pergunta G1). Um e-mail: "estamos abrindo a turma pré-TOEFL do próximo semestre; você teria interesse?". É a pesquisa de demanda mais barata que existe.
 2. **YouTube da PreparaTOEFL.** Vídeo "Você está pronto para o TOEFL? Faça este teste" ligado ao lead magnet com três saídas. Vídeo "Por que intermediário falha no TOEFL (e o que fazer antes)".
 3. **Base do Gerson** (pergunta G3): alunos e ex-alunos de inglês geral que querem certificação.
 4. **Parcerias com professores e escolas de inglês geral**: eles têm o B1; nós temos o TOEFL. Comissão por indicação, depois do piloto.
 5. **SEO**: artigos "TOEFL com inglês intermediário", "quanto tempo para tirar 4.0 no TOEFL".
 
-### 12.4. Lançamento da turma fundadora
+### 12.4. Lançamento da turma fundadora (primeiro semestre de 2027)
 
-| Fase | O que | Prazo relativo |
+| Fase | O que | Quando |
 |---|---|---|
-| 0. Parceria | Termo de piloto assinado; critério de prontidão escrito | Semanas 1 a 2 |
-| 1. Lista de espera | Página com dois nomes, pesquisa (formato, horário, preço Van Westendorp), e-mail para leads descartados, vídeo | Semanas 2 a 4 |
-| 2. Sinal de demanda | Aula aberta gratuita "Você está pronto para o TOEFL?" com o Gerson; meta de 40 inscritos qualificados na lista | Semana 5 |
-| 3. Placement | Candidatos da lista fazem EF SET, amostras no app e entrevista | Semanas 5 a 8 |
-| 4. Pré-venda | Turma fundadora, 10 vagas, R$ 1.497, data fixa; corte com 8 pagantes 14 dias antes | Semanas 6 a 9 |
-| 5. Turma | 12 semanas mais semana 0 | Semanas 10 a 22 |
-| 6. Pós-turma | Relatórios de prontidão, depoimentos, bundle, retrospectiva, decisão sobre turma 2 | Semanas 23 a 26 |
+| 0. Parceria | Termo de piloto assinado; critério de prontidão escrito | Setembro de 2026 |
+| 1. Lista de espera | Página com dois nomes, pesquisa (formato, horário, mensalidade com e sem plataforma), e-mail para leads descartados, vídeo | Setembro a outubro de 2026 |
+| 2. Sinal de demanda | Aula aberta gratuita "Você está pronto para o TOEFL?" com o Gerson; meta de 40 inscritos qualificados na lista | Novembro de 2026 |
+| 3. Placement | Candidatos da lista fazem EF SET, amostras no app e entrevista | Novembro de 2026 a janeiro de 2027 |
+| 4. Pré-matrícula | Turma fundadora, 10 vagas, duas ofertas, data fixa; corte com 8 matriculados 14 dias antes do início; material do bloco 1 pronto | Dezembro de 2026 a janeiro de 2027 |
+| 5. Semestre | Semana 0 na semana seguinte ao Carnaval; 18 semanas até o fim de junho | Fevereiro a junho de 2027 |
+| 6. Pós-semestre | Relatórios de prontidão, depoimentos, encaminhamento, retrospectiva, decisão sobre o segundo semestre | Julho de 2027 |
+
+Em paralelo, a lista de espera do segundo semestre de 2027 abre em abril, para que a turma seguinte não dependa do resultado do piloto para começar a encher.
 
 ### 12.5. Prova social
 
-O Bridge não tem prova social no início. O piloto gera três tipos: relatório de placement anônimo (antes e depois), depoimento sobre prontidão e confiança (semana 12), e resultado na prova (6 a 9 meses depois). O primeiro e o segundo bastam para a turma 2.
+O Bridge não tem prova social no início. O piloto gera três tipos: relatório de placement anônimo (antes e depois), depoimento sobre prontidão e confiança (semana 18), e resultado na prova (4 a 8 meses depois). O primeiro e o segundo bastam para a turma do segundo semestre.
 
 ---
 
@@ -492,23 +562,25 @@ O Bridge não tem prova social no início. O piloto gera três tipos: relatório
 
 | Camada | Métrica | Meta piloto | Fonte |
 |---|---|---|---|
-| North Star | Alunos prontos por trimestre | 6 ou mais (70% de 8 a 10) | Relatório de prontidão |
-| Funil | Inscritos na lista de espera; taxa de qualificação; candidatos que completam o placement; conversão placement → pagante | 40; 60%; 70%; 35% | Formulário, app, checkout |
-| Placement | % de admitidos dentro da janela nas três medidas; reclassificações após a semana 2 | 80%; 0 | Placement |
-| Aprendizagem | Banda estimada por habilidade nas semanas 0, 6, 12; % que atinge o critério por habilidade; salto médio | +0.5; 70% | Diagnósticos no app |
-| Engajamento | Presença; tarefas concluídas; correções por IA por aluno por semana; ativação (correção em 7 dias) | 80%; 80%; 5; 100% | App, chamada |
-| Conversão | % de concluintes que compram a preparação em 60 dias; receita do bundle | 50% | Checkout |
-| Economia | Receita por turma; margem de contribuição; horas do Gerson; R$/h efetivo; horas do Lucas por semana | R$ 12.000 ou mais; R$ 3.000 ou mais; 52 h ou menos; R$ 180 ou mais; menos de 2 h | Planilha da turma |
-| Satisfação | NPS na semana 12; pergunta de Sean Ellis; NPS do Gerson sobre a operação | 50; 40%; a definir | Formulário |
+| North Star | Alunos prontos por semestre | 6 ou mais (70% de 8 a 10) | Relatório de prontidão |
+| Funil | Inscritos na lista de espera; taxa de qualificação; candidatos que completam o placement; conversão placement → matrícula | 40; 60%; 70%; 35% | Formulário, app, matrícula |
+| Mix | % de matriculados no Completo | 30% ou mais | Matrícula |
+| Placement | % de admitidos dentro da janela nas três medidas; reclassificações após a semana 3 | 80%; 0 | Placement |
+| Aprendizagem | Banda estimada por habilidade nas semanas 0, 9, 18; % que atinge o critério por habilidade; salto médio | +0.5; 70% | Diagnósticos no app |
+| Retenção | Evasão no semestre; inadimplência; presença; tarefas concluídas; ativação (primeira tarefa ou correção em 7 dias) | 15% ou menos; 5% ou menos; 80%; 80%; 100% | Cobrança, chamada, app |
+| Conversão | % de concluintes que compram a preparação em 60 dias; receita do encaminhamento | 50% | Checkout |
+| Economia | Receita do semestre; margem de contribuição; horas do Gerson; R$/h efetivo; horas do Lucas por semana | R$ 20.000 ou mais; R$ 5.000 ou mais; 76 h ou menos; R$ 180 ou mais; menos de 2 h | Planilha da turma |
+| Satisfação | NPS na semana 18; pergunta de Sean Ellis; NPS do Gerson sobre a operação | 50; 40%; a definir | Formulário |
 | Longo prazo | % que faz a prova; % que atinge a meta registrada | Acompanhar | Fluxo de pós-prova |
 
 ### 13.2. Instrumentação mínima para o piloto
 
 - Chamada por aula (Eduardo, planilha ou app).
-- Diagnósticos das semanas 0, 6 e 12 com conjuntos exclusivos e a mesma régua.
-- Métrica de ativação (correção em 7 dias) já prevista no item E2 da jornada.
+- Diagnósticos das semanas 0, 9 e 18 com conjuntos exclusivos e a mesma régua, para todos os alunos.
+- Métrica de ativação (correção em 7 dias) já prevista no item E2 da jornada; para o Turma, entrega da primeira tarefa.
 - Registro de meta e data-alvo por aluno (DEP4).
-- Planilha econômica da turma com horas do Gerson e do Lucas por semana.
+- Controle de mensalidades e inadimplência por aluno.
+- Planilha econômica do semestre com horas do Gerson e do Lucas por semana.
 
 ---
 
@@ -516,20 +588,22 @@ O Bridge não tem prova social no início. O piloto gera três tipos: relatório
 
 | # | Risco | Mitigação no piloto | Sinal de alarme |
 |---|---|---|---|
-| 1 | Turma heterogênea | Janela de entrada estreita; placement em três medidas; cadeira extra só até a semana 2; tarefas em dois níveis | Reclassificação de qualquer aluno após a semana 2; dispersão de banda de entrada acima de 1.0 |
-| 2 | Posicionamento confuso (Bridge versus preparação) | Critério de saída público; relatório de placement; oferta sempre com duas opções e recomendação; nome testado | Perguntas de suporte "isso me prepara para a prova?"; pedidos de reembolso por expectativa |
-| 3 | Critério de admissão ruim | Amostras produtivas como decisão; revisão humana de toda banda; recusa como parte do produto | Aluno abaixo de 3.0 na semana 6 sem progresso |
-| 4 | Material não validado | Criação just-in-time; retrospectiva a cada bloco com o Gerson; feedback semanal dos alunos | Tarefas com taxa de conclusão abaixo de 50% |
-| 5 | Mercado menor que o esperado | Lista de espera antes de criar material; aula aberta como termômetro; go/no-go com 8 pagantes | Menos de 40 na lista em 4 semanas |
-| 6 | Parceria não formalizada | Termo de piloto de uma página antes de abrir vendas | Vendas abertas sem termo |
-| 7 | Promessa mal calibrada | Prontidão, não nota; garantia de extensão, não de repetição | Depoimento pedindo nota |
-| 8 | Janela longa mata conversão | Data fixa; bundle com data-alvo registrada; pré-venda curta | Lista grande, pré-venda vazia |
-| 9 | Banco de questões insuficiente para o diagnóstico próprio | EF SET para Reading e Listening no piloto | Repetição de questão entre diagnóstico e prática |
-| 10 | Gerson como ponto único de falha | Gravações; material documentado; plano de reposição combinado | Uma aula cancelada sem reposição |
-| 11 | Canibalização | Placement antes de qualquer compra | Aluno B2 forte no Bridge, ou B1 no Standard |
-| 12 | Custo de suporte foge | Sem WhatsApp individual; dúvidas da semana | Mais de 2 h por semana do Lucas ou do Gerson em suporte |
-| 13 | Diluição de marca | Nome e copy ancorados no TOEFL | Leads pedindo "curso de inglês" |
-| 14 | Escalas confusas (1-6 versus 0-120) | Padronizar em bandas 1-6 no Bridge; verificar o report oficial | Aluno registrando meta em pontos e o critério em bandas |
+| 1 | Turma heterogênea | Janela de entrada estreita; placement em três medidas; cadeira extra só até a semana 3; estudo dirigido em dois níveis | Reclassificação de qualquer aluno após a semana 3; dispersão de banda de entrada acima de 1.0 |
+| 2 | Posicionamento confuso (Bridge versus preparação; Turma versus Completo) | Critério de saída público; relatório de placement; oferta com duas opções e recomendação; nome testado; quadro comparativo simples na página | Perguntas de suporte "isso me prepara para a prova?"; pedidos de cancelamento por expectativa |
+| 3 | Critério de admissão ruim | Amostras produtivas como decisão; revisão humana de toda banda; recusa como parte do produto | Aluno abaixo de 3.0 na semana 9 sem progresso |
+| 4 | Material não validado | Criação just-in-time; retrospectiva a cada bloco com o Gerson; feedback dos alunos por bloco | Tarefas com taxa de conclusão abaixo de 50% |
+| 5 | Mercado menor que o esperado | Lista de espera antes de criar material; aula aberta como termômetro; go/no-go com 8 matriculados | Menos de 40 na lista em 6 semanas |
+| 6 | Parceria não formalizada | Termo de piloto de uma página antes de abrir a pré-matrícula | Pré-matrícula aberta sem termo |
+| 7 | Promessa mal calibrada | Prontidão, não nota; garantia de plano estendido, não de repetição | Depoimento pedindo nota |
+| 8 | Janela longa mata conversão | Data fixa do semestre; encaminhamento com data-alvo registrada; pré-matrícula curta | Lista grande, pré-matrícula vazia |
+| 9 | Evasão e inadimplência ao longo do semestre | Contrato semestral com regra clara; lembretes; duplas de estudo; checkpoint na semana 9 com devolutiva individual | Duas faltas seguidas; mensalidade atrasada 15 dias |
+| 10 | Banco de questões insuficiente para o diagnóstico próprio | EF SET para Reading e Listening no piloto | Repetição de questão entre diagnóstico e prática |
+| 11 | Gerson como ponto único de falha | Gravações; material documentado; plano de reposição combinado | Uma aula cancelada sem reposição |
+| 12 | Canibalização | Placement antes de qualquer compra | Aluno B2 forte no Bridge, ou B1 no Standard |
+| 13 | Custo de suporte foge | Sem WhatsApp individual; dúvidas da semana; sessão individual do Completo limitada a 20 min na semana 9 | Mais de 2 h por semana do Lucas ou do Gerson em suporte |
+| 14 | Convívio de duas ofertas na mesma turma gera atrito | Mesmas aulas e diagnósticos para todos; diferença explicada na matrícula; correção em pares para o Turma | Aluno do Turma pedindo correção por IA como "direito" |
+| 15 | Diluição de marca | Nome e copy ancorados no TOEFL | Leads pedindo "curso de inglês" |
+| 16 | Escalas confusas (1-6 versus 0-120) | Padronizar em bandas 1-6 no Bridge; verificar o report oficial | Aluno registrando meta em pontos e o critério em bandas |
 
 ---
 
@@ -539,10 +613,10 @@ O Bridge não tem prova social no início. O piloto gera três tipos: relatório
 
 | Prioridade | Requisito | Dono |
 |---|---|---|
-| Must | Lista de espera do Bridge com campos: nome, e-mail, nível autodeclarado, meta, data-alvo, objetivo, horário preferido, formato preferido, quatro perguntas de preço | Pardal ou Tally (decisão F4) |
+| Must | Lista de espera do Bridge com campos: nome, e-mail, nível autodeclarado, meta, data-alvo, objetivo, horário preferido, formato preferido, perguntas de preço para mensalidade com e sem plataforma | Pardal ou Tally (decisão F4) |
 | Must | Formulário do site com roteamento em três saídas (descartar, Bridge, preparação) | Pardal, regra do Lucas |
 | Must | Fluxo de placement: upload do EF SET, duas tarefas de Speaking e uma de Writing no app com correção por IA, fila de revisão para o Gerson | Pardal |
-| Must | Modelo de relatório de placement (uma página) | Lucas, Gerson |
+| Must | Modelo de relatório de placement (uma página) com a recomendação de oferta | Lucas, Gerson |
 | Should | Lead magnet "Estou pronto para o TOEFL?" com três vereditos | Pardal, Lucas |
 | Could | Diagnóstico próprio de Reading e Listening substituindo o EF SET | Pardal, Eduardo (banco) |
 
@@ -550,24 +624,26 @@ O Bridge não tem prova social no início. O piloto gera três tipos: relatório
 
 | Prioridade | Requisito | Dono |
 |---|---|---|
-| Must | Entitlement "Bridge": acesso por 16 semanas, cota semanal de correção por IA (3 Writing, 4 Speaking), acesso à trilha Bridge | Pardal |
-| Must | Trilha Bridge: 12 semanas de tarefas assíncronas cadastradas, com conjuntos exclusivos para os diagnósticos das semanas 0, 6 e 12 | Eduardo (cadastro), Gerson (conteúdo) |
+| Must | Acesso "Bridge Turma": só aos diagnósticos das semanas 0, 9 e 18 (conjuntos exclusivos) e à área de gravações e materiais | Pardal |
+| Must | Entitlement "Bridge Completo": acesso por 22 semanas, cota semanal de correção por IA (3 Writing, 4 Speaking), acesso à trilha Bridge | Pardal |
+| Must | Trilha Bridge: 18 semanas de estudo dirigido cadastradas, com conjuntos exclusivos para os diagnósticos | Eduardo (cadastro), Gerson (conteúdo) |
 | Must | Registro de meta e data-alvo no perfil | Pardal |
 | Should | Página de progresso com banda por habilidade (item E9 da jornada) | Pardal |
-| Should | Gravações e materiais acessíveis pelo app | Pardal |
-| Could | Tarefas em dois níveis com atribuição por habilidade | Pardal |
+| Could | Estudo dirigido em dois níveis com atribuição por habilidade | Pardal |
 
-### 15.3. Venda e operação
+### 15.3. Matrícula, cobrança e operação
 
 | Prioridade | Requisito | Dono |
 |---|---|---|
-| Must | Página do Bridge com preço público, critério de saída, calendário, política de go/no-go e reembolso | Lucas, Eduardo |
-| Must | Checkout em 10x com liberação do entitlement por webhook (reaproveita C1 e C2 da V1) | Pardal |
-| Must | Contrato de matrícula e política de reembolso | Lucas |
-| Must | Termo de parceria do piloto com o Gerson | Lucas |
-| Must | Planilha da turma: presença, tarefas, horas, custos | Eduardo |
-| Should | Sequência de 4 e-mails da lista de espera e e-mails da turma (boas-vindas, lembrete de aula, checkpoint) | Lucas, Pardal |
-| Could | Bundle Bridge + Standard no checkout | Pardal |
+| Must | Página do Bridge com mensalidade pública das duas ofertas, quadro comparativo, critério de saída, calendário do semestre, política de go/no-go e de cancelamento | Lucas, Eduardo |
+| Must | Matrícula com cobrança mensal recorrente (cartão e Pix) e opção de 10x para o Completo, com liberação por webhook (reaproveita C1 e C2 da V1 e a recorrência do gateway) | Pardal |
+| Must | Controle de inadimplência com lembretes e regra de suspensão | Pardal, Eduardo |
+| Must | Contrato de matrícula semestral e política de cancelamento | Lucas |
+| Must | Termo de parceria do piloto com o Gerson, com remuneração mensal | Lucas |
+| Must | Apostila digital e tarefas do bloco 1 em PDF, áudio e formulário | Gerson, Eduardo |
+| Must | Planilha do semestre: presença, tarefas, mensalidades, horas, custos | Eduardo |
+| Should | Sequência de 4 e-mails da lista de espera e e-mails do semestre (boas-vindas, lembrete de aula, checkpoint, mensalidade) | Lucas, Pardal |
+| Could | Desconto de encaminhamento aplicado automaticamente no checkout da preparação | Pardal |
 
 ---
 
@@ -575,33 +651,35 @@ O Bridge não tem prova social no início. O piloto gera três tipos: relatório
 
 ### 16.1. Cronograma proposto **[P23]**
 
-Considerando a regra de não iniciar turma entre 1º de dezembro e 20 de janeiro:
-
 | Quando | O que | Gate |
 |---|---|---|
-| Set/2026, semanas 2 a 3 | Termo de parceria; critério de prontidão; respostas ao gap analysis | Gate 1: termo assinado e critério escrito |
-| Set a out/2026 | Lista de espera no ar (com a FAQ); e-mail para leads descartados; vídeo; pesquisa | Gate 2: 40 inscritos qualificados até 31/10 |
-| Nov/2026 | Aula aberta com o Gerson; placement dos candidatos; pré-venda da turma fundadora (10 vagas, R$ 1.497); material do bloco 1 | Gate 3: 8 pagantes até 15 dias antes do início |
-| Semana de 25/01/2027 | Semana 0 (onboarding e diagnóstico) | |
-| 01/02 a 23/04/2027 | 12 semanas de turma (com pausa no Carnaval) | Checkpoint na semana 6 |
-| Mai/2027 | Relatórios, depoimentos, bundle, retrospectiva | Gate 4: decisão sobre a turma 2 (critérios da seção 3.3) |
+| Setembro de 2026 | Termo de parceria; critério de prontidão; respostas ao gap analysis | Gate 1: termo assinado e critério escrito |
+| Setembro a outubro de 2026 | Lista de espera no ar (com a FAQ); e-mail para leads descartados; vídeo; pesquisa de preço | Gate 2: 40 inscritos qualificados até 31/10 |
+| Novembro de 2026 a janeiro de 2027 | Aula aberta com o Gerson; placement dos candidatos; pré-matrícula da turma fundadora (10 vagas, duas ofertas); apostila do bloco 1 | Gate 3: 8 matriculados até 14 dias antes do início |
+| Semana seguinte ao Carnaval de 2027 | Semana 0 (onboarding e diagnóstico) | |
+| Fevereiro a junho de 2027 | 18 semanas de aula (pausa na Semana Santa) | Checkpoint na semana 9 |
+| Abril de 2027 | Abre a lista de espera do segundo semestre | |
+| Julho de 2027 | Relatórios, depoimentos, encaminhamento, retrospectiva | Gate 4: decisão sobre o segundo semestre (critérios da seção 3.3) |
+| Agosto de 2027 | Turma do segundo semestre, se aprovada | |
 
-Alternativa acelerada: turma fundadora começando em 2 de novembro de 2026 e terminando em 12 de fevereiro de 2027, com pausa de duas semanas no fim do ano. Ganha três meses de aprendizado, paga em evasão nas festas. Recomendação: só se a lista de espera passar de 60 qualificados até 15 de outubro.
+Alternativa acelerada: turma fundadora curta (12 semanas) começando em novembro de 2026 e terminando em fevereiro de 2027, com pausa no fim do ano. Ganha três meses de aprendizado, paga em evasão nas festas e não testa o formato semestral. Recomendação: não fazer; usar novembro para a aula aberta e o placement.
 
 ### 16.2. O que o piloto valida, em ordem
 
-1. **Demanda** (gate 2 e 3): existe gente B1 disposta a pagar R$ 1.497 por prontidão, não por nota?
-2. **Critério de entrada** (semanas 0 a 2): a janela produz turma homogênea?
-3. **Metodologia e material** (semanas 1 a 12): as tarefas são feitas, as aulas retêm, o checkpoint mostra salto?
-4. **Promessa** (semana 12): 70% atingem o critério?
-5. **Modelo operacional** (todo o período): o Gerson recebe o alvo, o Lucas gasta menos de 2 h por semana?
-6. **Funil** (60 dias depois): metade compra a preparação?
+1. **Demanda** (gates 2 e 3): existe gente B1 disposta a pagar mensalidade por prontidão, não por nota?
+2. **Mix** (gate 3): quantos escolhem o Completo quando as duas ofertas estão lado a lado?
+3. **Critério de entrada** (semanas 0 a 3): a janela produz turma homogênea?
+4. **Metodologia e material** (semanas 1 a 18): as tarefas são feitas, as aulas retêm, o checkpoint mostra salto?
+5. **Retenção** (todo o semestre): a mensalidade sobrevive aos meses 3 e 4?
+6. **Promessa** (semana 18): 70% atingem o critério?
+7. **Modelo operacional** (todo o período): o Gerson recebe o alvo, o Lucas gasta menos de 2 h por semana?
+8. **Funil** (60 dias depois): metade compra a preparação?
 
 ### 16.3. Retrospectivas
 
-- Com o Gerson: ao fim de cada bloco (semanas 4, 8, 12), 45 minutos: o que manter, o que cortar, o que criar.
+- Com o Gerson: ao fim de cada bloco (semanas 6, 12, 18), 45 minutos: o que manter, o que cortar, o que criar.
 - Com a turma: formulário de 3 perguntas ao fim de cada bloco.
-- Com os sócios: semana 13, decisão de turma 2 e revisão das premissas [P].
+- Com os sócios: julho de 2027, decisão sobre o segundo semestre e revisão das premissas [P].
 
 ---
 
@@ -609,20 +687,20 @@ Alternativa acelerada: turma fundadora começando em 2 de novembro de 2026 e ter
 
 | # | Questão | Resposta proposta (premissa) | Confirmar em |
 |---|---|---|---|
-| 1 | Onde termina o Bridge e começa a preparação? | No critério de prontidão (seção 5.2) e na regra de três eixos (seção 6): gap de 1.0 banda ou mais e 5 meses ou mais de prazo é Bridge; gap de 0.5 ou menos é preparação | C1, D1 |
+| 1 | Onde termina o Bridge e começa a preparação? | No critério de prontidão (seção 5.2) e na regra de três eixos (seção 6): gap de 1.0 banda ou mais e 7 meses ou mais de prazo é Bridge; gap de 0.5 ou menos é preparação | C1, D1 |
 | 2 | Qual score do EF SET é o corte? | Janela 41 a 55, com 51 a 55 decidido pelas amostras produtivas; abaixo de 41, inglês geral; 56 ou mais, preparação | B2 |
-| 3 | Como lidar com híbridos? | Entram pelo produtivo mais fraco (3.0 ou menos); tarefas assíncronas em dois níveis; sem trilha própria no piloto | B6 |
-| 4 | Contínuo ou cohort? | Cohort de 12 semanas com data fixa no piloto; cadeira extra até a semana 2 | D2 |
-| 5 | Duração ideal? | 12 semanas, 2 × 60 min (alternativa 1 × 90 min) | D2, D1 |
+| 3 | Como lidar com híbridos? | Entram pelo produtivo mais fraco (3.0 ou menos); estudo dirigido em dois níveis; sem trilha própria no piloto | B6 |
+| 4 | Contínuo ou cohort? | Turma semestral fechada, duas por ano; cadeira extra até a semana 3 | D2 |
+| 5 | Duração ideal? | Um semestre de 18 semanas, 2 × 60 min (alternativa 1 × 90 min), em 5 mensalidades | D2, D1 |
 | 6 | Como medir sucesso? | Critérios da seção 3.3 e árvore de métricas da seção 13 | H1 |
 | 7 | Qual a transformação prometida? | Prontidão para a preparação, por critério publicado; não nota | A2 |
 | 8 | Quem é responsável por cada etapa? | RACI da seção 9.5 | D6 |
-| 9 | Qual o pricing? | R$ 1.497 na turma fundadora, R$ 1.997 cheio; bundle Bridge + Standard R$ 2.197 | D7, E1, E2 |
-| 10 | Negócio independente ou funil? | Os dois: P&L próprio com margem mínima e meta de conversão de 50% para a preparação | A1 |
+| 9 | Qual o pricing? | Bridge Turma R$ 497/mês por 5 meses; Bridge Completo R$ 797/mês ou R$ 3.997 em 10x; regime acima disso, anunciado desde o início; economia por turma, não por acesso | D7, E1, E2 |
+| 10 | Negócio independente ou funil? | Os dois: P&L próprio por semestre com margem mínima e meta de conversão de 50% para a preparação | A1 |
 | 11 | Trilha B1 e trilha B2? | Trilha única com janela estreita no piloto; segunda trilha só se a demanda mostrar dois grupos | D9 |
-| 12 | Aluno com meta muito alta? | Entra com aceite explícito de jornada de 9 a 12 meses e bundle com Premium; se o prazo não comporta, não vendemos | B5 |
-| 13 | Como mensurar readiness? | Diagnósticos nas semanas 0, 6 e 12 com a mesma régua; relatório de prontidão por habilidade | C1, C9, H2 |
-| 14 | Quais métricas operacionais? | Presença, tarefas, correções por semana, horas do Gerson e do Lucas, R$/h efetivo, reclassificações | H3 |
+| 12 | Aluno com meta muito alta? | Entra com aceite explícito de jornada de 10 a 14 meses e encaminhamento para o Premium; se o prazo não comporta, não vendemos | B5 |
+| 13 | Como mensurar readiness? | Diagnósticos nas semanas 0, 9 e 18 com a mesma régua, para todos os alunos; relatório de prontidão por habilidade | C1, C9, H2 |
+| 14 | Quais métricas operacionais? | Presença, tarefas, evasão, inadimplência, horas do Gerson e do Lucas, R$/h efetivo, reclassificações, mix de oferta | H3 |
 
 ---
 
@@ -630,29 +708,30 @@ Alternativa acelerada: turma fundadora começando em 2 de novembro de 2026 e ter
 
 | # | Premissa | Pergunta que a confirma |
 |---|---|---|
-| P1 | O Bridge tem P&L próprio com margem mínima e meta de conversão para a preparação | A1 |
-| P2 | Preço de R$ 1.497 na turma fundadora e R$ 1.997 cheio | D7, G5 |
-| P3 | Cohort fechado de 12 semanas no piloto | D2 |
+| P1 | O Bridge tem P&L próprio por semestre com margem mínima e meta de conversão para a preparação | A1 |
+| P2 | Bridge Turma a R$ 497/mês e Bridge Completo a R$ 797/mês (ou R$ 3.997 em 10x) na turma fundadora, com preço de regime maior | D7, G5 |
+| P3 | Turma semestral fechada, duas por ano | D2 |
 | P4 | Só TOEFL no piloto | A5 |
 | P5 | Critério de prontidão da seção 5.2 | C1 |
-| P6 | Formato TOEFL só nas avaliações até a semana 8 | C3 |
-| P7 | Matriz de roteamento da seção 6.2, com janela EF SET 41 a 55 | B1, B2, B5 |
+| P6 | Formato TOEFL só nas avaliações até a semana 12 | C3 |
+| P7 | Matriz de roteamento da seção 6.2, com janela EF SET 41 a 55 e prazo mínimo de 7 meses | B1, B2, B5 |
 | P8 | EF SET obrigatório no piloto; Quick aceito na pré-triagem | B3 |
 | P9 | Entrevista de 15 min com o Gerson ou o Lucas | B4 |
 | P10 | Sem trilha própria para híbridos | B6 |
-| P11 | 2 × 60 min por semana | D2, D1 |
-| P12 | Plataforma incluída por 16 semanas com cota semanal de correção | C7, F1 |
+| P11 | 2 × 60 min por semana, 18 semanas | D2, D1 |
+| P12 | Completo inclui plataforma por 22 semanas com cota semanal de correção | C7, F1 |
 | P13 | Sem WhatsApp individual | D6 |
-| P14 | Garantia de extensão, não de repetição | D12 |
+| P14 | Contrato semestral com cancelamento em 30 dias, sem multa até o mês 2 | E8 |
 | P15 | Currículo semana a semana da seção 8.2 | C2, C8 |
 | P16 | 60% do tempo ao vivo em produção | C4 |
 | P17 | Propriedade intelectual compartilhada no piloto | E4 |
 | P18 | Abre com 8, máximo 10 | D4 |
 | P19 | Terça e quinta, 19h30 | D1, D2 |
-| P20 | Ferramenta de aula do Gerson; gravações pelo app | D5, F3 |
-| P21 | Custos variáveis de 6% mais R$ 55 por aluno | E7, item E1 do backlog |
-| P22 | Bundle Bridge + Standard por R$ 2.197 | D7 |
-| P23 | Turma fundadora em fevereiro de 2027 | D7 (calendário), G1 |
+| P20 | Ferramenta de aula do Gerson; gravações pelo app ou área do aluno | D5, F3 |
+| P21 | Custos variáveis: 4% na mensalidade, 6% em 10x, R$ 50 de operação, R$ 120 de IA no Completo | E7, item E1 do backlog |
+| P22 | Desconto de encaminhamento de 15% por 30 dias, só no Completo | D7 |
+| P23 | Turma fundadora no primeiro semestre de 2027 | D7 (calendário), G1 |
+| P24 | Duas ofertas (Turma e Completo) na mesma turma | A1, E9 |
 
 ---
 
@@ -672,7 +751,7 @@ As equivalências entre escalas são aproximadas e vêm de fontes públicas; a e
 
 - Manual PreparaTOEFL (Notion): Visão Geral do Negócio; Planos e Preços PreparaTOEFL 2026; Estratégia e Roadmap; Roadmap V1: Venda e Qualificação Automatizadas; Roadmap: Jornada do Aluno e Prioridades de Produto; Jornada do Aluno: o que o Pardal constrói em cada etapa; Work Items V1; Análise Competitiva: Modelos de Negócio e Precificação; Métricas e KPIs; Financeiro e Custos; Go-to-Market e Conteúdo; Pessoas e Papéis.
 - Guia Completo do TOEFL iBT (2026), PreparaTOEFL.
-- Especificação da conversa entre Lucas e Gerson Borges (setembro de 2026).
+- Especificação da conversa entre Lucas e Gerson Borges (setembro de 2026) e o esclarecimento de que o Bridge é um curso semestral de aulas semanais, não um plano.
 
 ## Apêndice C — Fontes externas consultadas
 
