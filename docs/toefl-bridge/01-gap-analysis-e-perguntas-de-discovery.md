@@ -152,7 +152,7 @@ O "Guia Completo do TOEFL iBT (2026)" interno descreve cada seção com nota de 
 
 | # | Dependência | Dono | Estado hoje | Bloqueia |
 |---|---|---|---|---|
-| DEP1 | Acordo de parceria com o Gerson (remuneração, PI, exclusividade, capacidade) | Lucas | Não fechado | Tudo |
+| DEP1 | Termo de parceria com o Gerson (modelo de split ou taxa, PI, marca, exclusividade, dados, capacidade); o curso é dele | Lucas | Não fechado; rascunho no documento 03 | Tudo |
 | DEP2 | Lista de espera do pré-TOEFL (FAQ já aponta para ela) | Pardal + Lucas | Não existe | FAQ pública, validação de demanda |
 | DEP3 | Regra de qualificação com roteamento em três saídas (descartar, Bridge, preparação) | Lucas (regra), Pardal (form) | Regra atual tem duas saídas | Aquisição do Bridge |
 | DEP4 | Campo de meta e data-alvo no onboarding | Pardal | Não existe | Placement, garantia |
@@ -171,8 +171,8 @@ O "Guia Completo do TOEFL iBT (2026)" interno descreve cada seção com nota de 
 | D3 | Duração e frequência dentro do semestre | (a) 16 semanas; (b) 18 semanas; (c) 20 semanas; combinado com 2×60 min, 1×90 min ou 1×120 min | 18 semanas em 5 mensalidades, 2×60 min, com 1×90 min como alternativa de custo | Gerson (pedagogia) + Lucas (economia) |
 | D2b | Modelo de oferta | (a) só tradicional (mensalidade, sem plataforma); (b) só híbrido (curso mais plataforma e IA); (c) as duas ofertas na mesma turma | (c): "Bridge Turma" e "Bridge Completo" lado a lado, como Standard e Premium | Lucas + Gerson |
 | D4 | Tamanho da turma | mínimo para abrir e máximo | Abre com 8 pagantes, máximo 10; abaixo de 8, adia ou devolve | Lucas + Gerson |
-| D5 | Modelo de remuneração do Gerson | (a) hora fixa; (b) participação na receita; (c) híbrido com mínimo | (c): mínimo garantido por turma + percentual acima do ponto de equilíbrio | Lucas + Gerson |
-| D6 | Propriedade intelectual do material | (a) PreparaTOEFL; (b) Gerson; (c) compartilhada com licença mútua | (c) para o piloto, com revisão ao fim | Lucas + Gerson |
+| D5 | Modelo de parceria (o curso é do Gerson; a PreparaTOEFL é remunerada por ele) | (1) indicação por matrícula; (2) licença de plataforma por aluno; (3) split por oferta; (4) taxa fixa por turma; (5) mínimo mais split; (6) split mais comissão reversa no funil. Ver documento 03 | (6) como proposta principal; (2) mais (1) como alternativa de menor compromisso | Lucas + Gerson |
+| D6 | Propriedade intelectual do material | (a) PreparaTOEFL; (b) Gerson; (c) do Gerson com licença perpétua e não exclusiva para a PreparaTOEFL reaproveitar exercícios | (c), coerente com "o curso é do Gerson" | Lucas + Gerson |
 | D7 | Preço do Bridge | Mensalidade de R$ 397 / R$ 497 / R$ 597 (tradicional); R$ 697 / R$ 797 / R$ 897 por mês ou R$ 3.997 em 10x (híbrido) | Turma a R$ 497/mês e Completo a R$ 797/mês na turma fundadora, com preço de regime maior anunciado desde o início | Lucas |
 | D8 | O que a plataforma faz em cada oferta? | (a) nada no tradicional; (b) só os três diagnósticos no tradicional e trilha completa com cota de IA no híbrido; (c) acesso completo para todos | (b): diagnósticos para todos, porque é o que mede a promessa; prática com IA só no híbrido | Lucas + Pardal |
 | D9 | Trilha única ou trilhas B1 e B2 | (a) única, com janela estreita; (b) duas trilhas | (a) no piloto | Gerson |

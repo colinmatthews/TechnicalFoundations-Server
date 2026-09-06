@@ -2,11 +2,13 @@
 
 **Produto:** TOEFL Bridge (nome provisório; alternativa pública "turma pré-TOEFL")
 **Empresa:** PreparaTOEFL
-**Versão:** 0.10 (rascunho para revisão; substitui a 0.9)
+**Versão:** 0.11 (rascunho para revisão; substitui a 0.10)
 **Data:** 06/09/2026
 **Autoria:** Lucas (PM) com coautoria de IA; tese pedagógica de Gerson Borges (professor parceiro)
 **Revisores:** Gerson (pedagogia e operação), Pardal (plataforma), Eduardo (operações e funil)
-**Documento irmão:** `01-gap-analysis-e-perguntas-de-discovery.md`
+**Documentos irmãos:** `01-gap-analysis-e-perguntas-de-discovery.md`, `03-modelos-de-parceria.md`
+
+> **O que mudou da 0.10 para a 0.11: o curso é do Gerson.** Os alunos assinam contrato com o Gerson e pagam a ele; a PreparaTOEFL é parceira (aquisição, placement, plataforma, marca e funil para a preparação) e é remunerada por split ou repasse. Os modelos de parceria, a economia dos dois lados e o rascunho do termo estão no documento 03. Neste PRD, as seções 7.2, 9.5, 9.6, 11 e 15.3 foram ajustadas; a seção 11.6 (remuneração do Gerson pela PreparaTOEFL) foi substituída por um resumo dos modelos de parceria. Currículo, placement, calendário e critérios pedagógicos não mudam.
 
 > **O que mudou da 0.9 para a 0.10.** O Bridge deixa de ser tratado como um "plano" do catálogo da PreparaTOEFL e passa a ser um **curso semestral de aulas semanais**, no modelo tradicional de escola de idiomas: 4 a 5 meses, mensalidade, turma fechada. A economia foi refeita nessa lógica. Além do modelo tradicional, o PRD propõe um **modelo híbrido**, que soma ao curso semestral os elementos dos planos TOEFL (plataforma, correção por IA, diagnósticos, relatório de prontidão) a um preço acima do Premium. As duas ofertas convivem na mesma turma. Seções mais afetadas: 1, 2.4, 6.2, 7, 8, 9, 11, 12.4, 16 e 17.
 
@@ -263,7 +265,7 @@ Risco pedagógico do convívio: o aluno do Turma faz o mesmo dever, mas sem corr
 | Suporte | Fórum da turma e "dúvidas da semana" nos primeiros 10 minutos da aula. Sem WhatsApp individual **[P13]** | Igual, mais uma sessão de 20 minutos individual com o Gerson na semana 9 | Gerson e Eduardo |
 | Comunidade | Grupo da turma, duplas de estudo | Igual | Eduardo |
 | Encaminhamento | Sessão final em turma sobre o caminho de cada perfil | Igual, mais 15% de desconto no Standard ou no Premium por 30 dias **[P22]** | Lucas |
-| Contrato | Matrícula semestral, 5 mensalidades; cancelamento com aviso de 30 dias, sem multa até o mês 2 e com uma mensalidade a partir do mês 3 **[P14]** | Igual, ou 10x no cartão | Lucas |
+| Contrato e cobrança | Matrícula semestral **com o Gerson**, 5 mensalidades; cancelamento com aviso de 30 dias, sem multa até o mês 2 e com uma mensalidade a partir do mês 3 **[P14]**. A PreparaTOEFL pode fornecer a ferramenta de cobrança (link recorrente ou checkout com split) | Igual, ou 10x no cartão | Gerson (contrato, nota, reembolso); Lucas (modelo de contrato e ferramenta) |
 | Garantia | Quem tem 80% de presença e 80% de tarefas e não atinge o critério recebe o diagnóstico e o plano de preparação estendido sem custo | Igual, mais 8 semanas de plataforma | Lucas |
 
 ---
@@ -370,11 +372,13 @@ Controle de heterogeneidade: janela de entrada estreita (seção 6), estudo diri
 | Criação de material (apostila e trilha) | R | A (alinhamento com a prova) | | R (produção e cadastro) |
 | Placement: revisão de bandas e entrevista | R | R | | |
 | Aulas ao vivo e feedback humano | R | | | |
-| Lista de espera, página, matrícula e cobrança mensal | | A | R | C |
+| Lista de espera, página de aquisição e conteúdo (vídeo, artigos, aula aberta) | C | A | R | C |
+| Matrícula, contrato, cobrança mensal, nota fiscal, reembolso e inadimplência | R | C (modelo de contrato e ferramenta) | | |
 | Entitlement Bridge Completo, trilha, cota, acesso restrito ao diagnóstico | | C | R | |
-| Onboarding, lembretes, chamada, suporte de 1º nível, inadimplência | | | | R |
-| Venda do encaminhamento para a preparação | | R | | C |
-| Métricas e retrospectiva | | R | C | C |
+| Onboarding, lembretes, chamada e suporte de 1º nível | R | | | C (pode operar mediante taxa, ver doc. 03) |
+| Encaminhamento para a preparação (venda e entrega) | C (recomenda) | R | | C |
+| Relatório mensal de repasse ou split; conciliação | R | R | C | |
+| Métricas e retrospectiva | R | R | C | C |
 
 R = responsável, A = aprova, C = consultado.
 
@@ -382,8 +386,8 @@ R = responsável, A = aprova, C = consultado.
 
 - Aula ao vivo: ferramenta que o Gerson já domina, com gravação; gravações e materiais acessíveis pelo app para o Completo e por área do aluno simples (ou pelo site de aulas) para o Turma **[P20]**.
 - Faltas: gravação disponível em 24 h; a presença conta para a garantia; sem reposição individual.
-- Contrato de matrícula semestral com política de cancelamento (seção 7.2) e 7 dias de arrependimento (CDC).
-- Cobrança: mensalidade recorrente no cartão ou Pix, com lembrete automático e suspensão de acesso ao estudo dirigido após 15 dias de atraso; a aula ao vivo não é suspensa antes de 30 dias, para não punir a turma.
+- Contrato de matrícula semestral do Gerson com o aluno, com política de cancelamento (seção 7.2), 7 dias de arrependimento (CDC) e consentimento para compartilhar dados com a PreparaTOEFL (placement, plataforma, encaminhamento).
+- Cobrança pelo Gerson: mensalidade recorrente no cartão ou Pix, com lembrete automático e suspensão de acesso ao estudo dirigido após 15 dias de atraso (a PreparaTOEFL suspende o entitlement a pedido dele); a aula ao vivo não é suspensa antes de 30 dias, para não punir a turma.
 - Comunicação da turma: canal de anúncios (somente leitura) mais fórum ou grupo moderado pelo Eduardo, sem atendimento individual do Gerson por WhatsApp.
 
 ---
@@ -414,6 +418,8 @@ Mapeada às 12 etapas da jornada já documentada da PreparaTOEFL.
 ### 11.1. Por que a economia é distinta da dos planos
 
 Os planos TOEFL vendem acesso à plataforma por 6 meses, com custo marginal quase zero e tempo humano limitado (Premium: 1 h por semana em turma de até 8). O Bridge vende **tempo de professor em turma por um semestre**: 27 a 36 horas ao vivo, mais preparação, feedback e placement. O custo dominante é a hora do Gerson, e ele é fixo por turma, não por aluno. Por isso o Bridge se comporta como uma escola de idiomas: a conta fecha por turma cheia, e a mensalidade precisa cobrir a hora do professor dividida por 8 a 10 alunos, com margem.
+
+Na estrutura de parceria (v0.11), essa conta é **do Gerson**: a receita é dele, o custo de oportunidade das horas é dele, e o que ele paga à PreparaTOEFL é o split ou a taxa. As seções 11.2 a 11.5 continuam valendo como a economia do curso em si (é o que o Gerson precisa ver para decidir mensalidade e tamanho de turma); a seção 11.6 resume o que cabe a cada lado, e o documento 03 detalha os modelos.
 
 ### 11.2. Custo do professor por semestre (regime, após o piloto)
 
@@ -471,18 +477,20 @@ Leitura contra o catálogo: o Premium custa R$ 2.997 (R$ 3.497 a partir de 2027)
 
 O piloto fecha a conta mesmo no pior caso (8 alunos, todos no Turma). Cada aluno que escolhe o Completo em vez do Turma acrescenta cerca de R$ 1.300 de margem; é por isso que a proporção do Completo é um critério de sucesso do piloto.
 
-### 11.6. Modelo de remuneração do Gerson (decisão D5)
+### 11.6. Estrutura de parceria: o que cabe a cada lado (decisão D5, detalhada no documento 03)
 
-A remuneração é mensal, como o produto.
+O Gerson é dono do curso e fica com a maior parte da receita; a PreparaTOEFL recebe um percentual por oferta (ou uma taxa) pelo que só ela entrega: aquisição, placement, plataforma, marca e funil. Resumo dos modelos avaliados no documento 03, por semestre, com turma de 10 (5 no Turma e 5 no Completo) e antes de impostos:
 
-| Modelo | Como funciona | Com 10 alunos no Turma (2 × 60 min) | Com 5 Turma e 5 Completo | Risco para a PreparaTOEFL | Risco para o Gerson |
-|---|---|---|---|---|---|
-| A. Hora fixa | R$ 180/h por hora em sala, preparação, feedback e placement, turma cheia ou não | R$ 13.680 no semestre (R$ 180/h) | Igual | Alto (paga mesmo com 6 alunos) | Baixo |
-| B. Mensal fixo | R$ 2.700 por mês de turma ativa | R$ 13.500 (R$ 178/h) | Igual | Alto | Baixo; previsível |
-| C. Híbrido (recomendado) | R$ 2.400 por mês garantido, mais 50% da receita líquida mensal acima de R$ 4.000 | R$ 13.930 (R$ 183/h) | R$ 17.330 (R$ 228/h) | Médio | Médio: com 8 alunos no Turma, R$ 12.000 (R$ 158/h) |
-| D. Participação pura | 55% da receita líquida | R$ 13.120 (R$ 173/h) | R$ 17.100 (R$ 225/h) | Baixo | Alto: com 8 no Turma, R$ 10.500 (R$ 138/h) |
+| Modelo | PreparaTOEFL recebe | Gerson recebe | Gerson, R$/h (76 h, após provisão de impostos) | Leitura |
+|---|---|---|---|---|
+| Indicação (R$ 400 por matrícula vinda da PreparaTOEFL) | R$ 3.200 | R$ 27.457 | R$ 327 | Mais leve; não remunera plataforma nem marca |
+| Licença por aluno (R$ 90 diagnóstico; R$ 450 completo) | R$ 2.700 | R$ 27.957 | R$ 334 | Limpo e escalável; receita da PreparaTOEFL limitada ao assento |
+| **Split por oferta (20% Turma, 35% Completo)** | **R$ 8.941** | **R$ 21.716** | **R$ 252** | Incentivos alinhados; recomendado com a comissão reversa abaixo |
+| Taxa fixa por turma (R$ 3.500) mais assentos | R$ 6.200 | R$ 24.457 | R$ 288 | Previsível; transfere o risco de demanda ao Gerson |
+| Mínimo (R$ 1.500) mais split (12% e 30%) | R$ 8.550 | R$ 22.107 | R$ 257 | Meio-termo; duas regras para conciliar |
+| Comissão reversa (15% para o Gerson sobre planos comprados por alunos dele) | | mais R$ 150 a 450 por aluno | | Fecha o ciclo do funil; combina com o split |
 
-O modelo C atinge o alvo de R$ 180/h com a turma cheia no Turma, garante um piso quando a turma abre no mínimo, e paga mais quando a turma escolhe o Completo, o que alinha o Gerson com a oferta que dá mais margem. Material do piloto: pagar as 60 h de criação como projeto à parte (R$ 10.800), em três parcelas ao longo do semestre, amortizado nos três primeiros semestres, com a propriedade intelectual compartilhada.
+Em todos os modelos de parceria o Gerson fica acima do piso de R$ 180/h com a turma cheia, e no piso com a turma mínima de 8 no Turma. A proposta a levar a ele tem duas opções: **split por oferta com comissão reversa** (principal) ou **licença por aluno com taxa de indicação** (alternativa de menor compromisso). Material do piloto: de autoria do Gerson, com licença perpétua e não exclusiva para a PreparaTOEFL reaproveitar os exercícios no banco de questões; a PreparaTOEFL contribui com geração assistida por IA e produção.
 
 ### 11.7. Hipóteses de preço resumidas **[P2]**
 
@@ -496,7 +504,7 @@ Como validar: pesquisa de Van Westendorp na lista de espera (quatro perguntas de
 
 ### 11.8. O que precisa ser verdade para o Bridge valer a pena para a PreparaTOEFL
 
-- Margem de contribuição de R$ 5.000 ou mais por semestre (cobre a coordenação) **e** 4 ou mais alunos por semestre entrando na preparação (R$ 4.000 ou mais de receita adicional).
+- Receita de parceria de R$ 5.000 ou mais por semestre, líquida dos custos diretos de IA e placement (cobre o tempo do Lucas e do Eduardo em aquisição e placement) **e** 4 ou mais alunos por semestre entrando na preparação (R$ 4.000 ou mais de receita adicional).
 - Menos de 2 h por semana do Lucas após a semana 3.
 - Material reaproveitável no banco de questões e nas turmas seguintes.
 - Evasão de 15% ou menos no semestre.
@@ -636,10 +644,10 @@ O Bridge não tem prova social no início. O piloto gera três tipos: relatório
 | Prioridade | Requisito | Dono |
 |---|---|---|
 | Must | Página do Bridge com mensalidade pública das duas ofertas, quadro comparativo, critério de saída, calendário do semestre, política de go/no-go e de cancelamento | Lucas, Eduardo |
-| Must | Matrícula com cobrança mensal recorrente (cartão e Pix) e opção de 10x para o Completo, com liberação por webhook (reaproveita C1 e C2 da V1 e a recorrência do gateway) | Pardal |
-| Must | Controle de inadimplência com lembretes e regra de suspensão | Pardal, Eduardo |
-| Must | Contrato de matrícula semestral e política de cancelamento | Lucas |
-| Must | Termo de parceria do piloto com o Gerson, com remuneração mensal | Lucas |
+| Must | Cobrança do Gerson: ferramenta de cobrança recorrente dele, ou link recorrente fornecido pela PreparaTOEFL; liberação do entitlement do Completo por webhook ou por lista mensal de matriculados enviada pelo Gerson | Gerson, Pardal |
+| Must | Relatório mensal de matrículas, recebimentos, cancelamentos e inadimplência, base do repasse ou do split (modelo simples no piloto; split no gateway a partir do segundo semestre) | Gerson, Eduardo |
+| Must | Modelo de contrato de matrícula semestral do Gerson com o aluno, com política de cancelamento e consentimento de dados | Lucas (modelo), Gerson (adoção) |
+| Must | Termo de parceria do piloto com o Gerson (documento 03, seção 6.3) | Lucas |
 | Must | Apostila digital e tarefas do bloco 1 em PDF, áudio e formulário | Gerson, Eduardo |
 | Must | Planilha do semestre: presença, tarefas, mensalidades, horas, custos | Eduardo |
 | Should | Sequência de 4 e-mails da lista de espera e e-mails do semestre (boas-vindas, lembrete de aula, checkpoint, mensalidade) | Lucas, Pardal |
@@ -694,9 +702,9 @@ Alternativa acelerada: turma fundadora curta (12 semanas) começando em novembro
 | 5 | Duração ideal? | Um semestre de 18 semanas, 2 × 60 min (alternativa 1 × 90 min), em 5 mensalidades | D2, D1 |
 | 6 | Como medir sucesso? | Critérios da seção 3.3 e árvore de métricas da seção 13 | H1 |
 | 7 | Qual a transformação prometida? | Prontidão para a preparação, por critério publicado; não nota | A2 |
-| 8 | Quem é responsável por cada etapa? | RACI da seção 9.5 | D6 |
-| 9 | Qual o pricing? | Bridge Turma R$ 497/mês por 5 meses; Bridge Completo R$ 797/mês ou R$ 3.997 em 10x; regime acima disso, anunciado desde o início; economia por turma, não por acesso | D7, E1, E2 |
-| 10 | Negócio independente ou funil? | Os dois: P&L próprio por semestre com margem mínima e meta de conversão de 50% para a preparação | A1 |
+| 8 | Quem é responsável por cada etapa? | RACI da seção 9.5: o Gerson é dono do curso, do contrato e da cobrança; a PreparaTOEFL é parceira de aquisição, placement, plataforma, marca e funil | D6 |
+| 9 | Qual o pricing? | Preço é do Gerson; referência do PRD: Bridge Turma R$ 497/mês por 5 meses e Bridge Completo R$ 797/mês ou R$ 3.997 em 10x, com regime acima disso; a PreparaTOEFL recebe split por oferta (20% e 35% do líquido) ou licença por aluno mais indicação | D7, E1, E2 |
+| 10 | Negócio independente ou funil? | Curso do Gerson, com a PreparaTOEFL remunerada pela parceria e com meta de conversão de 50% para a preparação; a comissão reversa formaliza o funil | A1 |
 | 11 | Trilha B1 e trilha B2? | Trilha única com janela estreita no piloto; segunda trilha só se a demanda mostrar dois grupos | D9 |
 | 12 | Aluno com meta muito alta? | Entra com aceite explícito de jornada de 10 a 14 meses e encaminhamento para o Premium; se o prazo não comporta, não vendemos | B5 |
 | 13 | Como mensurar readiness? | Diagnósticos nas semanas 0, 9 e 18 com a mesma régua, para todos os alunos; relatório de prontidão por habilidade | C1, C9, H2 |
