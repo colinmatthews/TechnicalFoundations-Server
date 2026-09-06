@@ -1,0 +1,18 @@
+# TOEFL Bridge — documentação de produto
+
+Pasta com os documentos de produto do **TOEFL Bridge** (nome provisório; "turma pré-TOEFL" na FAQ pública), o programa intermediário entre inglês geral e preparação TOEFL da PreparaTOEFL, desenhado com o professor parceiro Gerson Borges.
+
+| Documento | O que é | Para quem |
+|---|---|---|
+| `01-gap-analysis-e-perguntas-de-discovery.md` | Consolidação do contexto (especificação da conversa com o Gerson cruzada com o Manual PreparaTOEFL no Notion), inconsistências, lacunas, riscos, dependências, registro de decisões e perguntas de discovery por tema | Lucas, Gerson, sócios |
+| `02-prd-toefl-bridge.md` | PRD completo: tese, público, critério de prontidão, placement, currículo de 12 semanas, formato operacional, jornada, economia e pricing, go-to-market, métricas, riscos, requisitos e plano do piloto | Lucas, Gerson, Pardal, Eduardo |
+
+## Como usar
+
+1. Leia o gap analysis primeiro. A seção 7 lista as perguntas que precisam de resposta antes de fechar o PRD, em ordem de dependência.
+2. O PRD já está escrito com uma **premissa explícita** para cada pergunta aberta, marcada como `[P#]` e listada na seção 18. Ao responder uma pergunta, confirme ou troque a premissa e ajuste apenas a seção que a cita.
+3. As decisões pendentes estão numeradas (`D1` a `D12`) na seção 4.3 do gap analysis; as dependências (`DEP1` a `DEP9`) na seção 4.2.
+
+## Fontes
+
+Os documentos usam a documentação interna da PreparaTOEFL no Notion (Manual PreparaTOEFL: visão do negócio, planos e preços 2026, roadmaps, jornada do aluno, análise competitiva, métricas, financeiro, pessoas e papéis, go-to-market) e fontes públicas sobre o formato do TOEFL iBT de 2026 e sobre o EF SET. Este repositório não continha documentação prévia sobre o tema.
