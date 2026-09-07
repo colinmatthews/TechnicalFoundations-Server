@@ -96,6 +96,8 @@ O modelo do PRD v0.10. Fica registrado apenas como referência: foi descartado p
 
 ## 4. A economia dos dois lados
 
+> **Nota (06/09/2026, após o esclarecimento sobre a carga):** as tabelas desta seção usam 2 × 60 min (76 horas do Gerson) e mensalidades de R$ 497 e R$ 747. A proposta do Gerson é de **uma aula por semana**; a projeção com 1 × 60 e 1 × 90 min, com mensalidades recalibradas, está no **documento 04** e passa a ser a referência. As conclusões qualitativas desta seção (ranking dos modelos, alinhamento de incentivos, valor do funil) continuam valendo; os valores absolutos mudam. Um ajuste de leitura: com uma aula por semana, na turma mínima só com o Turma, a alternativa "licença mais indicação" rende um pouco mais à PreparaTOEFL do que o split; a partir do mix realista, o split rende o dobro.
+
 ### 4.1. Premissas
 
 - Turma de 18 semanas, 2 × 60 min, 76 horas do Gerson no semestre (aulas, preparação, feedback, placement), custo de oportunidade dele a R$ 180/h (R$ 13.680).

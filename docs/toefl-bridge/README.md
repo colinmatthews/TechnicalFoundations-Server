@@ -6,6 +6,7 @@ Pasta com os documentos de produto do **TOEFL Bridge** (nome provisório; "turma
 |---|---|---|
 | `01-gap-analysis-e-perguntas-de-discovery.md` | Consolidação do contexto (especificação da conversa com o Gerson cruzada com o Manual PreparaTOEFL no Notion), inconsistências, lacunas, riscos, dependências, registro de decisões e perguntas de discovery por tema | Lucas, Gerson, sócios |
 | `02-prd-toefl-bridge.md` | PRD completo (v0.11): tese, público, critério de prontidão, placement, dois modelos de oferta (curso semestral tradicional com mensalidade e modelo híbrido com plataforma), currículo de 18 semanas, formato operacional semestral, jornada, economia por turma e pricing, go-to-market, métricas, riscos, requisitos e plano do piloto. O curso é do Gerson; a PreparaTOEFL é parceira | Lucas, Gerson, Pardal, Eduardo |
+| `04-projecao-uma-aula-semanal.md` | Projeção econômica e pedagógica com uma aula por semana (60 ou 90 min): horas do Gerson, mensalidade compatível com a carga, economia do curso e da parceria nos dois formatos, estrutura da sessão semanal e recomendação. Referência econômica vigente do piloto | Lucas, Gerson |
 | `03-modelos-de-parceria.md` | Avaliação de seis modelos de parceria com o Gerson (indicação, licença por aluno, split, taxa fixa, híbrido, split com comissão reversa), economia dos dois lados por cenário de turma, mecânica de repasse ou split, rascunho do termo de parceria e perguntas para levar a ele | Lucas, Gerson |
 
 ## Como usar

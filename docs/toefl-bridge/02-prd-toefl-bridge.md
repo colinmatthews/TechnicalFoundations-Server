@@ -2,11 +2,13 @@
 
 **Produto:** TOEFL Bridge (nome provisório; alternativa pública "turma pré-TOEFL")
 **Empresa:** PreparaTOEFL
-**Versão:** 0.11 (rascunho para revisão; substitui a 0.10)
+**Versão:** 0.12 (rascunho para revisão; substitui a 0.11)
 **Data:** 06/09/2026
 **Autoria:** Lucas (PM) com coautoria de IA; tese pedagógica de Gerson Borges (professor parceiro)
 **Revisores:** Gerson (pedagogia e operação), Pardal (plataforma), Eduardo (operações e funil)
-**Documentos irmãos:** `01-gap-analysis-e-perguntas-de-discovery.md`, `03-modelos-de-parceria.md`
+**Documentos irmãos:** `01-gap-analysis-e-perguntas-de-discovery.md`, `03-modelos-de-parceria.md`, `04-projecao-uma-aula-semanal.md`
+
+> **O que mudou da 0.11 para a 0.12: uma aula por semana.** A proposta do Gerson é de uma aula semanal, de 60 ou 90 minutos, e não duas. A premissa P11 passa a ser **1 × 90 min como base, com 1 × 60 min como alternativa**; a mensalidade de referência cai para R$ 447 (Turma) e R$ 747 (Completo) no 1 × 90, ou R$ 347 e R$ 647 no 1 × 60. A projeção completa está no documento 04, que substitui as tabelas de 2 × 60 min das seções 11.2 a 11.5 e do documento 03 como referência econômica. As seções 7.2, 8.2, 9.2 e 11 trazem notas de ajuste; o currículo continua o mesmo, com a coluna "Aula A" migrando para estudo dirigido no formato de 60 minutos.
 
 > **O que mudou da 0.10 para a 0.11: o curso é do Gerson.** Os alunos assinam contrato com o Gerson e pagam a ele; a PreparaTOEFL é parceira (aquisição, placement, plataforma, marca e funil para a preparação) e é remunerada por split ou repasse. Os modelos de parceria, a economia dos dois lados e o rascunho do termo estão no documento 03. Neste PRD, as seções 7.2, 9.5, 9.6, 11 e 15.3 foram ajustadas; a seção 11.6 (remuneração do Gerson pela PreparaTOEFL) foi substituída por um resumo dos modelos de parceria. Currículo, placement, calendário e critérios pedagógicos não mudam.
 
@@ -254,7 +256,7 @@ Risco pedagógico do convívio: o aluno do Turma faz o mesmo dever, mas sem corr
 | Componente | Bridge Turma | Bridge Completo | Dono |
 |---|---|---|---|
 | Placement e relatório | Sim | Sim | Lucas e Gerson |
-| Aulas ao vivo | 18 semanas, 2 encontros de 60 minutos por semana **[P11]**, turma de 8 a 10, gravadas | Igual | Gerson |
+| Aulas ao vivo | 18 semanas, **1 encontro semanal de 90 minutos** (alternativa: 60 minutos) **[P11]**, turma de 8 a 10, gravadas em 24 h | Igual | Gerson |
 | Material próprio | Apostila digital por bloco, áudios, listas de vocabulário, tarefas semanais em PDF e formulário | Igual, mais a trilha no app | Gerson (conteúdo), Eduardo (produção) |
 | Diagnósticos (semanas 0, 9, 18) | No app, com acesso restrito ao diagnóstico | No app | Gerson e app |
 | Relatório de prontidão | Sim | Sim, com histórico semanal de banda | Gerson |
@@ -283,6 +285,8 @@ Risco pedagógico do convívio: o aluno do Turma faz o mesmo dever, mas sem corr
 Cada bloco termina com uma semana de consolidação (6, 12, 18), o que dá ao Gerson folga para ajustar o ritmo à turma sem quebrar a sequência.
 
 ### 8.2. Semana a semana **[P15]** (rascunho para o Gerson reescrever)
+
+Com uma aula por semana, as colunas "Aula A" e "Aula B" não são duas sessões: são o mapa de conteúdo da semana. No formato de 90 minutos, a sessão cobre as duas em versão reduzida (10 min de clínica, 30 de input guiado, 45 de produção, 5 de encerramento). No formato de 60 minutos, a coluna "Aula A" vira estudo dirigido (vídeo curto do Gerson mais tarefas de Reading e Listening) e a sessão ao vivo fica com clínica e produção (10, 15, 30 e 5 minutos). Detalhes no documento 04, seção 5.
 
 | Sem. | Aula A (input e clínica) | Aula B (produção) | Estudo dirigido (material próprio ou plataforma) |
 |---|---|---|---|
@@ -339,7 +343,7 @@ Distribuição do tempo ao vivo: cerca de 60% em produção (Speaking e Writing)
 | 16 semanas (4 meses) | 32 | Cabe em 4 mensalidades; termina antes das férias | Menos tempo de maturação; perde a semana de consolidação por bloco |
 | 20 semanas (5 meses cheios) | 40 | Mais tempo | Atravessa feriados e férias; evasão cresce com a duração |
 
-Decisão do piloto: **18 semanas, 2 × 60 min** **[P11]**, cobradas em 5 mensalidades, com **1 × 90 min como alternativa** se a disponibilidade do Gerson ou a pesquisa da lista de espera indicarem. A economia dos dois cenários está na seção 11.
+Decisão do piloto (v0.12): **18 semanas, 1 × 90 min** **[P11]**, cobradas em 5 mensalidades, com **1 × 60 min como alternativa** se a agenda do Gerson exigir. A proposta dele é de uma aula por semana; o formato 2 × 60 min fica registrado como comparação. Os dois formatos rendem praticamente o mesmo por hora ao Gerson com as mensalidades de referência do documento 04; a diferença entre eles é pedagógica (tempo de fala por aluno e dependência do estudo dirigido), não econômica.
 
 ### 9.3. Tamanho da turma
 
@@ -419,7 +423,9 @@ Mapeada às 12 etapas da jornada já documentada da PreparaTOEFL.
 
 Os planos TOEFL vendem acesso à plataforma por 6 meses, com custo marginal quase zero e tempo humano limitado (Premium: 1 h por semana em turma de até 8). O Bridge vende **tempo de professor em turma por um semestre**: 27 a 36 horas ao vivo, mais preparação, feedback e placement. O custo dominante é a hora do Gerson, e ele é fixo por turma, não por aluno. Por isso o Bridge se comporta como uma escola de idiomas: a conta fecha por turma cheia, e a mensalidade precisa cobrir a hora do professor dividida por 8 a 10 alunos, com margem.
 
-Na estrutura de parceria (v0.11), essa conta é **do Gerson**: a receita é dele, o custo de oportunidade das horas é dele, e o que ele paga à PreparaTOEFL é o split ou a taxa. As seções 11.2 a 11.5 continuam valendo como a economia do curso em si (é o que o Gerson precisa ver para decidir mensalidade e tamanho de turma); a seção 11.6 resume o que cabe a cada lado, e o documento 03 detalha os modelos.
+Na estrutura de parceria (v0.11), essa conta é **do Gerson**: a receita é dele, o custo de oportunidade das horas é dele, e o que ele paga à PreparaTOEFL é o split ou a taxa. A seção 11.6 resume o que cabe a cada lado, e o documento 03 detalha os modelos.
+
+**Nota da v0.12:** as seções 11.2 a 11.5 abaixo foram calculadas com 2 × 60 min e mensalidades de R$ 497 e R$ 797. Com uma aula por semana, a referência passa a ser o **documento 04**: 1 × 90 min com Turma a R$ 447 e Completo a R$ 747 (ou 1 × 60 min com R$ 347 e R$ 647), 44,5 a 58 horas do Gerson no semestre, e o Gerson acima de R$ 200/h em todos os cenários de parceria. As tabelas abaixo ficam como comparação do formato de duas aulas.
 
 ### 11.2. Custo do professor por semestre (regime, após o piloto)
 
@@ -699,11 +705,11 @@ Alternativa acelerada: turma fundadora curta (12 semanas) começando em novembro
 | 2 | Qual score do EF SET é o corte? | Janela 41 a 55, com 51 a 55 decidido pelas amostras produtivas; abaixo de 41, inglês geral; 56 ou mais, preparação | B2 |
 | 3 | Como lidar com híbridos? | Entram pelo produtivo mais fraco (3.0 ou menos); estudo dirigido em dois níveis; sem trilha própria no piloto | B6 |
 | 4 | Contínuo ou cohort? | Turma semestral fechada, duas por ano; cadeira extra até a semana 3 | D2 |
-| 5 | Duração ideal? | Um semestre de 18 semanas, 2 × 60 min (alternativa 1 × 90 min), em 5 mensalidades | D2, D1 |
+| 5 | Duração ideal? | Um semestre de 18 semanas, 1 × 90 min (alternativa 1 × 60 min), em 5 mensalidades; projeção no documento 04 | D2, D1 |
 | 6 | Como medir sucesso? | Critérios da seção 3.3 e árvore de métricas da seção 13 | H1 |
 | 7 | Qual a transformação prometida? | Prontidão para a preparação, por critério publicado; não nota | A2 |
 | 8 | Quem é responsável por cada etapa? | RACI da seção 9.5: o Gerson é dono do curso, do contrato e da cobrança; a PreparaTOEFL é parceira de aquisição, placement, plataforma, marca e funil | D6 |
-| 9 | Qual o pricing? | Preço é do Gerson; referência do PRD: Bridge Turma R$ 497/mês por 5 meses e Bridge Completo R$ 797/mês ou R$ 3.997 em 10x, com regime acima disso; a PreparaTOEFL recebe split por oferta (20% e 35% do líquido) ou licença por aluno mais indicação | D7, E1, E2 |
+| 9 | Qual o pricing? | Preço é do Gerson; referência do PRD com uma aula por semana: Turma R$ 447/mês e Completo R$ 747/mês no 1 × 90 (R$ 347 e R$ 647 no 1 × 60), 5 mensalidades, com regime acima disso; a PreparaTOEFL recebe split por oferta (20% e 35% do líquido) ou licença por aluno mais indicação | D7, E1, E2 |
 | 10 | Negócio independente ou funil? | Curso do Gerson, com a PreparaTOEFL remunerada pela parceria e com meta de conversão de 50% para a preparação; a comissão reversa formaliza o funil | A1 |
 | 11 | Trilha B1 e trilha B2? | Trilha única com janela estreita no piloto; segunda trilha só se a demanda mostrar dois grupos | D9 |
 | 12 | Aluno com meta muito alta? | Entra com aceite explícito de jornada de 10 a 14 meses e encaminhamento para o Premium; se o prazo não comporta, não vendemos | B5 |
@@ -717,7 +723,7 @@ Alternativa acelerada: turma fundadora curta (12 semanas) começando em novembro
 | # | Premissa | Pergunta que a confirma |
 |---|---|---|
 | P1 | O Bridge tem P&L próprio por semestre com margem mínima e meta de conversão para a preparação | A1 |
-| P2 | Bridge Turma a R$ 497/mês e Bridge Completo a R$ 797/mês (ou R$ 3.997 em 10x) na turma fundadora, com preço de regime maior | D7, G5 |
+| P2 | Referência de preço (o preço é do Gerson): no 1 × 90, Turma a R$ 447/mês e Completo a R$ 747/mês; no 1 × 60, R$ 347 e R$ 647; 5 mensalidades, com preço de regime maior anunciado desde o início | D7, G5 |
 | P3 | Turma semestral fechada, duas por ano | D2 |
 | P4 | Só TOEFL no piloto | A5 |
 | P5 | Critério de prontidão da seção 5.2 | C1 |
@@ -726,7 +732,7 @@ Alternativa acelerada: turma fundadora curta (12 semanas) começando em novembro
 | P8 | EF SET obrigatório no piloto; Quick aceito na pré-triagem | B3 |
 | P9 | Entrevista de 15 min com o Gerson ou o Lucas | B4 |
 | P10 | Sem trilha própria para híbridos | B6 |
-| P11 | 2 × 60 min por semana, 18 semanas | D2, D1 |
+| P11 | 1 × 90 min por semana, 18 semanas (alternativa 1 × 60 min) | D2, D1 |
 | P12 | Completo inclui plataforma por 22 semanas com cota semanal de correção | C7, F1 |
 | P13 | Sem WhatsApp individual | D6 |
 | P14 | Contrato semestral com cancelamento em 30 dias, sem multa até o mês 2 | E8 |
