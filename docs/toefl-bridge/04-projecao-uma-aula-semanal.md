@@ -1,12 +1,12 @@
-# TOEFL Bridge — Projeção com uma aula semanal (60 ou 90 minutos)
+# TOEFL Bridge — Projeção com um encontro semanal de 90 minutos (60 minutos como comparação)
 
 **Produto:** TOEFL Bridge (curso semestral do Gerson Borges, em parceria com a PreparaTOEFL)
-**Versão:** 0.1
-**Data:** 06/09/2026
+**Versão:** 0.2
+**Data:** 08/09/2026
 **Autoria:** Lucas (PM) com coautoria de IA
 **Documentos irmãos:** `02-prd-toefl-bridge.md` (PRD), `03-modelos-de-parceria.md` (modelos de parceria)
 
-> **Por que este documento existe.** A proposta do Gerson é de **uma aula por semana**, não duas. As projeções anteriores (PRD seção 11 e documento 03, seção 4) usavam 2 × 60 min. Este documento refaz a projeção para os dois formatos que ele cogitou, **1 × 60 min** e **1 × 90 min**, ao longo de 18 semanas, e passa a ser a referência econômica do piloto. As tabelas de 2 × 60 min ficam nos outros documentos apenas como comparação.
+> **Decisão (08/09/2026): as turmas terão um encontro semanal de 90 minutos.** Este documento é a referência econômica e pedagógica do piloto nesse formato. As colunas e linhas de 1 × 60 min ficam apenas como comparação, para mostrar o que se ganha com os 30 minutos a mais; as tabelas de 2 × 60 min do PRD e do documento 03 também ficam só como comparação.
 
 ---
 
@@ -144,17 +144,17 @@ No formato 1 × 60, a coluna "Aula A" do currículo do PRD (seção 8.2) vira es
 - **Duplas de estudo:** obrigatórias no 1 × 60, para compensar o tempo de fala menor em aula.
 - **Checkpoint da semana 9:** mantido; no 1 × 60, a sessão individual de 20 minutos do Completo vale para todos os alunos que estejam abaixo de 3.0 em alguma habilidade.
 
-## 6. Recomendação
+## 6. Formato decidido e o que ele implica
 
-**Formato base para levar ao Gerson: 1 × 90 min, com Turma a R$ 447 por mês e Completo a R$ 747 por mês.** Ele mantém a promessa de prontidão crível em 18 semanas, paga R$ 69 por hora ao vivo (no topo da faixa do tutor avulso, com muito mais entrega), e deixa o Gerson em R$ 212/h na turma mínima e R$ 265 a 304/h nos cenários realistas.
+**Um encontro semanal de 90 minutos, com Turma a R$ 447 por mês e Completo a R$ 747 por mês como referência de preço.** O formato mantém a promessa de prontidão crível em 18 semanas, paga R$ 69 por hora ao vivo (no topo da faixa do tutor avulso, com muito mais entrega), e deixa o Gerson em R$ 212/h na turma mínima e R$ 265 a 304/h nos cenários realistas.
 
-**Se a agenda do Gerson só comporta 60 minutos:** Turma a R$ 347 e Completo a R$ 647, com três condições: os 18 vídeos curtos de input gravados antes do semestre, duplas de estudo obrigatórias e o Completo como oferta recomendada no placement para quem tem meta 4.5 ou mais. A economia fecha igual; o que fica mais frágil é a promessa.
+O que o formato exige na operação: gravação da sessão disponível em 24 horas (uma falta é um buraco de 14 dias), estudo dirigido com entrega semanal registrada e contando para a garantia, duplas de estudo recomendadas, e checkpoint da semana 9 com sessão individual de 20 minutos para os alunos do Completo. O formato de 60 minutos fica registrado nas seções anteriores só para mostrar o que os 30 minutos extras compram: mais 9 horas ao vivo no semestre, cerca de 2 minutos a mais de fala por aluno por semana e a possibilidade de fazer parte do input em aula.
 
 Nas duas opções, a proposta de parceria continua a do documento 03: split por oferta com comissão reversa como principal, licença por aluno mais indicação como alternativa. A única mudança é que, na turma mínima só com o Turma, a alternativa rende um pouco mais à PreparaTOEFL do que o split; a partir do mix realista, o split rende o dobro.
 
 ## 7. Perguntas que este documento acrescenta para o Gerson
 
-1. Entre 60 e 90 minutos, qual ele consegue sustentar toda semana por 18 semanas, considerando as outras turmas dele?
-2. Ele topa gravar os 18 vídeos curtos de input se o formato for 60 minutos?
-3. Ele concorda em condicionar a garantia à entrega semanal do estudo dirigido?
-4. As mensalidades de referência (R$ 447 ou R$ 347 no Turma) estão dentro do que os alunos atuais dele pagam por hora?
+1. Qual dia e horário ele consegue sustentar toda semana por 18 semanas, considerando as outras turmas dele?
+2. Ele concorda em condicionar a garantia à entrega semanal do estudo dirigido?
+3. As mensalidades de referência (R$ 447 no Turma, R$ 747 no Completo) estão dentro do que os alunos atuais dele pagam por hora?
+4. Ele topa gravar vídeos curtos de input para as semanas em que o conteúdo não couber nos 30 minutos de input da sessão?
