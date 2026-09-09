@@ -4,7 +4,7 @@
 **Para:** Lucas e Gerson
 **Data:** 9 de setembro de 2026
 
-Este é o documento de bastidores: o que já sabemos, o que já decidimos, o que ainda precisa de resposta e de quem. Os outros dois documentos (o de produto e o de projeção e parceria) foram escritos em cima dele.
+Este é o documento de bastidores: o que já sabemos, o que já decidimos, o que ainda precisa de resposta e de quem. O documento de produto (com o anexo de projeção e parceria) foi escrito em cima dele.
 
 ---
 
@@ -45,13 +45,15 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 | Natureza do curso | Curso semestral de idiomas, com mensalidade, e não um plano de plataforma |
 | Natureza da relação | Parceria entre o Gerson e a PreparaTOEFL. O contrato com o aluno fica com o Gerson; a receita é dividida por um modelo com piso de pagamento para o professor |
 | Formato | 18 semanas, um encontro semanal de 90 minutos, mais estudo dirigido |
-| Turma | Mínimo 4, alvo 6, máximo 8 |
+| Turma | Mínimo 5, alvo 8, máximo 10 |
 | Oferta | Uma só. Sem versões ou planos dentro do curso |
 | Preço | Em estudo entre R$ 497 e R$ 597 por mês, 5 mensalidades. Independente dos preços do curso de preparação da PreparaTOEFL |
 | Promessa | Prontidão para a preparação, por critério publicado. Nunca nota |
-| Semestres | Dois por ano: depois do Carnaval e em agosto |
-| Piloto | Primeiro semestre de 2027 |
-| Duração total | Um semestre no piloto; um curso de um ano (dois semestres) fica em aberto para depois do piloto |
+| Piloto | Turma começando em meados de outubro ou início de novembro de 2026 (a definir), com pausa nas festas |
+| Depois do piloto | Alinhar ao calendário semestral (fevereiro e agosto) |
+| Duração e níveis | Um semestre e um nível no piloto; um curso de um ano, em dois níveis, fica em aberto para depois, principalmente para deixar as turmas mais homogêneas |
+| Material | Feito em parceria entre o Gerson e o Lucas, no formato das tarefas do TOEFL. Propriedade a definir mais adiante |
+| Programa semana a semana | Em outro documento, com o Gerson |
 
 ---
 
@@ -61,10 +63,10 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 
 **Pedagogia**
 
-1. Como ele descreve, em termos observáveis, o que um aluno precisa conseguir fazer para começar uma preparação de TOEFL? A tabela da seção 5 do documento de produto é um ponto de partida para ele reescrever.
+1. Como ele descreve, em termos observáveis, o que um aluno precisa conseguir fazer para começar uma preparação de TOEFL? A tabela da seção 5 do documento de produto é um ponto de partida para ele reescrever, conferindo os formatos das tarefas contra o Practice Test oficial do exame de 2026.
 2. Quais tarefas do TOEFL 2026 ele achou mais acessíveis para B1, e quais são as barreiras reais? Isso define a ordem do programa.
-3. Ele prefere usar o formato das tarefas da prova desde o começo, ou só nas avaliações e nas últimas semanas, como está proposto?
-4. Quanto tempo de aula ele quer dedicar a fala e escrita versus leitura e escuta? A proposta é 60/40.
+3. Como ele quer dosar os exercícios no formato da prova ao longo do curso, já que a estratégia de prova em si fica para a preparação?
+4. Como ele quer organizar a sessão de 90 minutos, e quanto tempo dedicar a fala e escrita versus leitura e escuta?
 5. Quantas horas de estudo em casa ele acha realistas para profissionais de 25 a 35 anos? A proposta é 3 a 4 por semana.
 6. Como ele lida com diferenças de nível dentro da turma?
 7. O que ele quer que a IA faça na criação do material, e o que ele prefere fazer à mão?
@@ -74,7 +76,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 8. Qual dia e horário ele consegue sustentar por 18 semanas?
 9. Qual ferramenta de aula ao vivo ele já usa? Ela grava?
 10. Como ele trata faltas, reposição e cancelamento nas turmas dele hoje?
-11. Ele topa a regra de "sem WhatsApp individual, dúvidas respondidas em aula"?
+11. Como ele quer que o grupo de WhatsApp da turma funcione, e qual é o limite de atendimento dele fora da aula?
 12. Ele tem base própria de alunos e ex-alunos para convidar?
 
 **Economia e parceria**
@@ -86,11 +88,11 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 17. Que ferramenta de cobrança ele usa, e ela faz recorrência?
 18. Ele aceita a marca "em parceria com a PreparaTOEFL" e o nome dele na FAQ?
 19. Ele topa a exclusividade proposta (nenhum outro pré-TOEFL com outra marca de preparação)?
-20. Como ele quer tratar o material do piloto: investimento dele, pago pela PreparaTOEFL, ou dividido?
+20. Como dividir o trabalho de criação do material entre os dois, e quando conversar sobre a propriedade dele?
 
 ### Do Lucas
 
-21. A lista de espera vai ser um formulário simples (Tally e Brevo) ou uma página própria no site? A simples sai em dias.
+21. A lista de espera vai ser um formulário simples (Tally e Brevo) ou uma página própria no site? A simples sai em dias, e com a turma começando em outubro ou novembro é a única que cabe no prazo.
 22. Quantos leads descartados por nível existem hoje na lista? Eles são a primeira pesquisa de demanda.
 23. Que vídeo do YouTube testa se o canal traz aluno B1?
 24. Como a FAQ, a regra de triagem em três saídas e a lista de espera entram no ar, e em que ordem?
@@ -104,20 +106,21 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 | Risco | Por que importa | O que fazer |
 |---|---|---|
 | Parceria não formalizada | Sem termo, não há material, não há turma, não há nome público | Termo de uma página antes de abrir a pré-matrícula |
-| Turma misturada | Uma turma com B1 e B2 forte juntos destrói a experiência | Faixa de entrada estreita; placement em três medidas; ninguém entra depois da semana 3 |
-| Turma de 4 perde ritmo com faltas | O próprio Gerson viu isso acontecer com turmas de 6 | Gravação em 24 horas; duplas; estudo dirigido obrigatório; alvo de 6 |
+| Turma misturada | Uma turma com B1 e B2 forte juntos destrói a experiência | Faixa de entrada estreita; placement em três medidas; ninguém entra depois da semana 3; dois níveis depois do piloto |
+| Turma de 5 perde ritmo com faltas | O próprio Gerson viu isso acontecer com turmas de 6 | Gravação em 24 horas; duplas; estudo dirigido obrigatório; alvo de 8 |
 | Promessa mal entendida | O aluno ouve "Bridge" e entende "vou ficar pronto para a prova" | Critério de saída público; a palavra "nota" fora da promessa |
 | Quem tem prazo longo adia | O público do curso é, por definição, quem tem mais de sete meses | Data fixa do semestre; pré-matrícula curta |
-| Mercado menor do que parece | Não há dado sobre quantos B1 querem TOEFL e chegam pelo YouTube | Lista de espera e aula aberta antes de criar material; mínimo de 4 |
+| Mercado menor do que parece | Não há dado sobre quantos B1 querem TOEFL e chegam pelo YouTube | Lista de espera e aula aberta antes de criar material; mínimo de 5 |
 | Gerson é o único professor | Uma doença ou viagem para o curso | Gravações, material documentado, reposição combinada |
-| Suporte come o tempo dos dois | Aluno com dúvida manda mensagem a qualquer hora | Dúvidas da semana em aula; sem WhatsApp individual |
+| Suporte come o tempo dos dois | Aluno com dúvida manda mensagem a qualquer hora | Combinar desde o início como o grupo de WhatsApp funciona e qual é o limite |
+| Pausa nas festas no meio do curso | A turma piloto atravessa dezembro e janeiro | Gravação em dia; estudo dirigido bem amarrado; combinar as datas da pausa antes de abrir a matrícula |
 
 ---
 
 ## 5. Ordem sugerida para fechar tudo
 
 1. Gerson responde as perguntas de pedagogia (1 a 7) e de formato (8 a 12). Sem o critério de prontidão dele, o resto não anda.
-2. Os dois decidem preço e modelo de parceria com a projeção na mão (13 a 20).
+2. Os dois decidem preço, data de início e modelo de parceria com a projeção na mão (13 a 20).
 3. Assinam o termo de uma página.
 4. Lucas põe a lista de espera no ar e dispara para os leads descartados (21 a 26).
 5. Gerson cria o material do bloco 1 enquanto a lista enche.
