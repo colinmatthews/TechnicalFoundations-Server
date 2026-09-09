@@ -1,20 +1,13 @@
-# TOEFL Bridge — documentação de produto
+# TOEFL Bridge — documentos
 
-Pasta com os documentos de produto do **TOEFL Bridge** (nome provisório; "turma pré-TOEFL" na FAQ pública), o programa intermediário entre inglês geral e preparação TOEFL da PreparaTOEFL, desenhado com o professor parceiro Gerson Borges.
+Documentos do **TOEFL Bridge** (nome provisório; "turma pré-TOEFL" na FAQ da PreparaTOEFL), o curso semestral do Gerson Borges, em parceria com a PreparaTOEFL, para levar alunos de inglês intermediário até o ponto em que uma preparação de TOEFL passa a funcionar.
 
-| Documento | O que é | Para quem |
-|---|---|---|
-| `01-gap-analysis-e-perguntas-de-discovery.md` | Consolidação do contexto (especificação da conversa com o Gerson cruzada com o Manual PreparaTOEFL no Notion), inconsistências, lacunas, riscos, dependências, registro de decisões e perguntas de discovery por tema | Lucas, Gerson, sócios |
-| `02-prd-toefl-bridge.md` | PRD completo (v0.13): tese, público, critério de prontidão, placement, dois modelos de oferta (curso semestral tradicional com mensalidade e modelo híbrido com plataforma), currículo de 18 semanas, formato operacional semestral, jornada, economia por turma e pricing, go-to-market, métricas, riscos, requisitos e plano do piloto. O curso é do Gerson; a PreparaTOEFL é parceira | Lucas, Gerson, Pardal, Eduardo |
-| `04-projecao-uma-aula-semanal.md` | Projeção econômica e pedagógica do formato decidido (um encontro semanal de 90 minutos), com o formato de 60 minutos como comparação: horas do Gerson, mensalidade compatível com a carga, economia do curso e da parceria, estrutura da sessão semanal. Referência econômica vigente do piloto | Lucas, Gerson |
-| `03-modelos-de-parceria.md` | Avaliação de seis modelos de parceria com o Gerson (indicação, licença por aluno, split, taxa fixa, híbrido, split com comissão reversa), economia dos dois lados por cenário de turma, mecânica de repasse ou split, rascunho do termo de parceria e perguntas para levar a ele | Lucas, Gerson |
+Escritos pelo Lucas, para a conversa entre o Lucas e o Gerson.
 
-## Como usar
+| Documento | O que é |
+|---|---|
+| `02-prd-toefl-bridge.md` | O documento de produto: por que o curso faz sentido, para quem é, o que significa "pronto para a preparação", como selecionamos os alunos, como o curso funciona (18 semanas, um encontro de 90 minutos por semana, turma de 4 a 8), o programa semana a semana, preço, como encher a turma, como medir o piloto, riscos e calendário |
+| `03-projecao-e-parceria.md` | A projeção econômica com 4, 6 e 8 alunos a R$ 497 e a R$ 597, o que sobra para o Gerson por hora, os quatro modelos de parceria com a PreparaTOEFL, a recomendação (piso do professor, depois divisão), como o dinheiro circula, o material do piloto e o rascunho do termo de parceria |
+| `01-contexto-e-perguntas.md` | O que já existe, o que já foi decidido, as perguntas que ainda precisam de resposta (do Gerson e do Lucas), os riscos e a ordem para fechar tudo |
 
-1. Leia o gap analysis primeiro. A seção 7 lista as perguntas que precisam de resposta antes de fechar o PRD, em ordem de dependência.
-2. O PRD já está escrito com uma **premissa explícita** para cada pergunta aberta, marcada como `[P#]` e listada na seção 18. Ao responder uma pergunta, confirme ou troque a premissa e ajuste apenas a seção que a cita.
-3. As decisões pendentes estão numeradas (`D1` a `D12`) na seção 4.3 do gap analysis; as dependências (`DEP1` a `DEP9`) na seção 4.2.
-
-## Fontes
-
-Os documentos usam a documentação interna da PreparaTOEFL no Notion (Manual PreparaTOEFL: visão do negócio, planos e preços 2026, roadmaps, jornada do aluno, análise competitiva, métricas, financeiro, pessoas e papéis, go-to-market) e fontes públicas sobre o formato do TOEFL iBT de 2026 e sobre o EF SET. Este repositório não continha documentação prévia sobre o tema.
+Ordem de leitura sugerida: o documento de produto, depois a projeção e parceria, e o de contexto por último, como lista de pendências.

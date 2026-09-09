@@ -1,0 +1,122 @@
+# TOEFL Bridge — Contexto e perguntas em aberto
+
+**Escrito por:** Lucas
+**Para:** Lucas e Gerson
+**Data:** 9 de setembro de 2026
+
+Este é o documento de bastidores: o que já sabemos, o que já decidimos, o que ainda precisa de resposta e de quem. Os outros dois documentos (o de produto e o de projeção e parceria) foram escritos em cima dele.
+
+---
+
+## 1. O que já existe e o que ainda falta
+
+### A promessa já é pública
+
+A FAQ da página de preços da PreparaTOEFL diz que quem precisa de mais de seis meses de preparação "precisa de fundamento do idioma, não de preparação", e que o caminho é a "turma pré-TOEFL, em desenvolvimento com o professor parceiro". A FAQ aponta para uma lista de espera que ainda não existe, e o nome do Gerson só entra no texto público quando a parceria estiver fechada.
+
+Isso significa duas coisas: a regra de encaminhamento ("quem precisa de mais de seis meses vai para o pré-TOEFL") já foi dada, e a lista de espera é a primeira coisa a construir.
+
+### O lead intermediário hoje é descartado
+
+O formulário da PreparaTOEFL classifica quem chega com inglês básico ou pré-intermediário como "não é para você agora", indica um professor de inglês geral e coloca a pessoa numa lista de nutrição. O curso do Gerson é o destino que falta para uma parte dessas pessoas: as que estão no B1, não as que estão abaixo. A regra de triagem precisa passar a ter três saídas em vez de duas.
+
+### A dúvida que mais aparece é sobre o próprio nível
+
+Entre as perguntas do público nos vídeos brasileiros sobre TOEFL, a mais frequente é "meu nível serve? eu consigo?". Nenhum curso no Brasil responde a isso com um produto. É o argumento de posicionamento do Bridge.
+
+### Já existe ferramenta para o placement
+
+A plataforma da PreparaTOEFL corrige fala e escrita com IA, com banda estimada, na rubrica da prova. As amostras de fala e escrita do placement podem ser feitas nela, com revisão do Gerson, em vez de uma avaliação manual do zero. O EF SET cobre leitura e escuta.
+
+### O currículo tem dado real
+
+A base de correções da PreparaTOEFL mapeou os erros mais comuns dos brasileiros (comma splice, plural, sujeito omitido, falsos cognatos, os sons "th", "ng" e "r"). A clínica de erros semanal do curso sai daí.
+
+### Uma inconsistência para conferir
+
+O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, de 0 a 30 por seção. As fontes públicas descrevem a escala nova, de 1 a 6 por seção, alinhada ao CEFR, com o report mostrando as duas até 2028. O curso usa a escala de 1 a 6, e o guia precisa ser revisado. Vale conferir no report oficial.
+
+---
+
+## 2. O que já está decidido
+
+| Decisão | Como ficou |
+|---|---|
+| Natureza do curso | Curso semestral de idiomas, com mensalidade, e não um plano de plataforma |
+| Quem é o dono | O Gerson. Os alunos são dele, o contrato é com ele, a receita é dele. A PreparaTOEFL é parceira |
+| Formato | 18 semanas, um encontro semanal de 90 minutos, mais estudo dirigido |
+| Turma | Mínimo 4, alvo 6, máximo 8 |
+| Oferta | Uma só. Sem versões ou planos dentro do curso |
+| Preço | Em estudo entre R$ 497 e R$ 597 por mês, 5 mensalidades. Independente dos preços do curso de preparação da PreparaTOEFL |
+| Promessa | Prontidão para a preparação, por critério publicado. Nunca nota |
+| Semestres | Dois por ano: depois do Carnaval e em agosto |
+| Piloto | Primeiro semestre de 2027 |
+
+---
+
+## 3. O que ainda precisa de resposta
+
+### Do Gerson
+
+**Pedagogia**
+
+1. Como ele descreve, em termos observáveis, o que um aluno precisa conseguir fazer para começar uma preparação de TOEFL? A tabela da seção 5 do documento de produto é um ponto de partida para ele reescrever.
+2. Quais tarefas do TOEFL 2026 ele achou mais acessíveis para B1, e quais são as barreiras reais? Isso define a ordem do programa.
+3. Ele prefere usar o formato das tarefas da prova desde o começo, ou só nas avaliações e nas últimas semanas, como está proposto?
+4. Quanto tempo de aula ele quer dedicar a fala e escrita versus leitura e escuta? A proposta é 60/40.
+5. Quantas horas de estudo em casa ele acha realistas para profissionais de 25 a 35 anos? A proposta é 3 a 4 por semana.
+6. Como ele lida com diferenças de nível dentro da turma?
+7. O que ele quer que a IA faça na criação do material, e o que ele prefere fazer à mão?
+
+**Formato e operação**
+
+8. Qual dia e horário ele consegue sustentar por 18 semanas?
+9. Qual ferramenta de aula ao vivo ele já usa? Ela grava?
+10. Como ele trata faltas, reposição e cancelamento nas turmas dele hoje?
+11. Ele topa a regra de "sem WhatsApp individual, dúvidas respondidas em aula"?
+12. Ele tem base própria de alunos e ex-alunos para convidar?
+
+**Economia e parceria**
+
+13. Entre R$ 497 e R$ 597, qual valor se encaixa no que os alunos dele já pagam?
+14. As 57 horas estimadas para o semestre batem com o jeito que ele trabalha?
+15. Ele prefere um piso em reais ou uma regra em porcentagem para a parte da PreparaTOEFL?
+16. Qual é o enquadramento fiscal dele hoje?
+17. Que ferramenta de cobrança ele usa, e ela faz recorrência?
+18. Ele aceita a marca "em parceria com a PreparaTOEFL" e o nome dele na FAQ?
+19. Ele topa a exclusividade proposta (nenhum outro pré-TOEFL com outra marca de preparação)?
+20. Como ele quer tratar o material do piloto: investimento dele, pago pela PreparaTOEFL, ou dividido?
+
+### Do Lucas
+
+21. A lista de espera vai ser um formulário simples (Tally e Brevo) ou uma página própria no site? A simples sai em dias.
+22. Quantos leads descartados por nível existem hoje na lista? Eles são a primeira pesquisa de demanda.
+23. Que vídeo do YouTube testa se o canal traz aluno B1?
+24. Como a FAQ, a regra de triagem em três saídas e a lista de espera entram no ar, e em que ordem?
+25. Qual é o mínimo da plataforma para o piloto: acesso de semestre com trilha própria e cota de correção, mais os três diagnósticos com conjuntos exclusivos. Quanto tempo isso leva?
+26. O nome: "pré-TOEFL", "TOEFL Bridge" ou outro. Testar na página da lista de espera.
+
+---
+
+## 4. Riscos que valem atenção desde já
+
+| Risco | Por que importa | O que fazer |
+|---|---|---|
+| Parceria não formalizada | Sem termo, não há material, não há turma, não há nome público | Termo de uma página antes de abrir a pré-matrícula |
+| Turma misturada | Uma turma com B1 e B2 forte juntos destrói a experiência | Faixa de entrada estreita; placement em três medidas; ninguém entra depois da semana 3 |
+| Turma de 4 perde ritmo com faltas | O próprio Gerson viu isso acontecer com turmas de 6 | Gravação em 24 horas; duplas; estudo dirigido obrigatório; alvo de 6 |
+| Promessa mal entendida | O aluno ouve "Bridge" e entende "vou ficar pronto para a prova" | Critério de saída público; a palavra "nota" fora da promessa |
+| Quem tem prazo longo adia | O público do curso é, por definição, quem tem mais de sete meses | Data fixa do semestre; pré-matrícula curta |
+| Mercado menor do que parece | Não há dado sobre quantos B1 querem TOEFL e chegam pelo YouTube | Lista de espera e aula aberta antes de criar material; mínimo de 4 |
+| Gerson é o único professor | Uma doença ou viagem para o curso | Gravações, material documentado, reposição combinada |
+| Suporte come o tempo dos dois | Aluno com dúvida manda mensagem a qualquer hora | Dúvidas da semana em aula; sem WhatsApp individual |
+
+---
+
+## 5. Ordem sugerida para fechar tudo
+
+1. Gerson responde as perguntas de pedagogia (1 a 7) e de formato (8 a 12). Sem o critério de prontidão dele, o resto não anda.
+2. Os dois decidem preço e modelo de parceria com a projeção na mão (13 a 20).
+3. Assinam o termo de uma página.
+4. Lucas põe a lista de espera no ar e dispara para os leads descartados (21 a 26).
+5. Gerson cria o material do bloco 1 enquanto a lista enche.
