@@ -43,7 +43,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 | Decisão | Como ficou |
 |---|---|
 | Natureza do curso | Curso semestral de idiomas, com mensalidade, e não um plano de plataforma |
-| Quem é o dono | O Gerson. Os alunos são dele, o contrato é com ele, a receita é dele. A PreparaTOEFL é parceira |
+| Natureza da relação | Parceria entre o Gerson e a PreparaTOEFL. O contrato com o aluno fica com o Gerson; a receita é dividida por um modelo com piso de pagamento para o professor |
 | Formato | 18 semanas, um encontro semanal de 90 minutos, mais estudo dirigido |
 | Turma | Mínimo 4, alvo 6, máximo 8 |
 | Oferta | Uma só. Sem versões ou planos dentro do curso |
@@ -51,6 +51,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 | Promessa | Prontidão para a preparação, por critério publicado. Nunca nota |
 | Semestres | Dois por ano: depois do Carnaval e em agosto |
 | Piloto | Primeiro semestre de 2027 |
+| Duração total | Um semestre no piloto; um curso de um ano (dois semestres) fica em aberto para depois do piloto |
 
 ---
 

@@ -6,7 +6,7 @@
 **Data:** 9 de setembro de 2026
 **Situação:** rascunho para a conversa entre os dois
 
-Este documento responde a duas perguntas: quanto o curso rende ao Gerson em cada cenário de turma e de mensalidade, e como a PreparaTOEFL é remunerada pela parceria sem prejudicar o Gerson quando a turma é pequena.
+Este documento responde a duas perguntas: quanto o curso rende em cada cenário de turma e de mensalidade, e como a receita pode ser dividida entre o Gerson e a PreparaTOEFL sem penalizar o professor quando a turma é pequena. Se o curso vier a ter dois semestres (a ideia está no documento de produto), a conta de cada semestre é a mesma, e a vantagem é a receita do segundo semestre vir sem custo novo de captação.
 
 ---
 
@@ -59,7 +59,7 @@ Isso define o que a parceria precisa respeitar: **com 4 alunos, quase não há e
 
 ## 3. Os modelos de parceria
 
-Os alunos são do Gerson. O contrato, a mensalidade e a nota fiscal são dele. A PreparaTOEFL entra com os leads, o placement, a plataforma, a marca e o caminho para a preparação, e é remunerada com uma parte da receita ou com um valor por aluno. Quatro modelos:
+O curso é uma parceria. O contrato com o aluno, a mensalidade e a nota fiscal ficam com o Gerson; a PreparaTOEFL entra com os leads, o placement, a plataforma, a marca e o caminho para a preparação, e recebe uma parte da receita ou um valor por aluno. O modelo que queremos explorar é o de divisão de receita com piso de pagamento para o professor (o C, abaixo); os outros três estão aqui para comparação:
 
 ### A. Percentual fixo
 

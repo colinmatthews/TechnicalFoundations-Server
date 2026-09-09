@@ -20,10 +20,10 @@ O curso é este:
 
 - Um semestre de 18 semanas, com um encontro ao vivo de 90 minutos por semana, mais estudo dirigido em casa.
 - Turma de 4 a 8 alunos, todos no mesmo nível de entrada, selecionados por um placement com teste e amostras de fala e escrita.
-- Mensalidade única, paga ao Gerson, com dois valores em estudo: R$ 497 ou R$ 597.
+- Mensalidade única, com dois valores em estudo: R$ 497 ou R$ 597.
 - A promessa é deixar o aluno pronto para começar uma preparação de TOEFL, medido por um critério que a gente publica. Não é promessa de nota.
 
-O curso é do Gerson: os alunos são dele, o contrato é com ele, o dinheiro entra para ele. A PreparaTOEFL entra como parceira, com o que ela tem de útil para esse curso: os leads que hoje ela descarta por nível, a plataforma com correção de fala e escrita, o placement, a marca e o caminho natural do aluno para a preparação depois. Como isso é remunerado está no documento de projeção e parceria.
+O curso é uma parceria entre o Gerson e a PreparaTOEFL. O Gerson entra com as aulas, o material e a relação com o aluno; a PreparaTOEFL entra com os alunos que hoje ela descarta por nível, a plataforma com correção de fala e escrita, o placement, a marca e o caminho natural do aluno para a preparação depois. A ideia é explorar um modelo de divisão de receita com um piso de pagamento para o professor, para que a turma pequena não penalize o Gerson e a turma cheia remunere os dois. As projeções e os modelos estão no documento de projeção e parceria.
 
 O primeiro semestre é um piloto. Ele existe para responder cinco perguntas: se tem gente disposta a pagar por isso, se conseguimos formar uma turma homogênea, se o programa deixa mesmo o aluno pronto, se o material funciona e se a conta fecha para os dois lados.
 
@@ -177,7 +177,7 @@ Cerca de 25 minutos de trabalho por candidato. O candidato recebe um relatório 
 | Encontro semanal | 90 minutos ao vivo, online, gravado e disponível em até 24 horas |
 | Turma | Mínimo de 4, máximo de 8 alunos. A turma abre com 4 pagantes confirmados até 14 dias antes do início; se não chegar a 4, adia para o semestre seguinte e devolve o que foi pago |
 | Estudo em casa | 3 a 4 horas por semana, com material próprio e tarefas na plataforma |
-| Mensalidade | Um valor único, 5 mensalidades por semestre, pagas ao Gerson. Em estudo: R$ 497 ou R$ 597 |
+| Mensalidade | Um valor único, 5 mensalidades por semestre. Em estudo: R$ 497 ou R$ 597 |
 | Contrato | Matrícula semestral com o Gerson. Cancelamento com aviso de 30 dias; sem multa até o segundo mês, uma mensalidade a partir do terceiro. Sete dias de arrependimento por lei |
 
 ### O que está incluído
@@ -206,6 +206,10 @@ Cerca de 60% do tempo vai para fala e escrita, porque é onde o gap é maior e o
 ### Sobre o tamanho da turma
 
 O Gerson tem razão em desconfiar de turma pequena: uma turma de 6 vira 4 nos dias de falta e a aula perde ritmo. Com mínimo de 4, o risco é real, e por isso três coisas ficam obrigatórias: a gravação em 24 horas (uma falta é um buraco de 14 dias), as duplas de estudo e a entrega semanal do estudo dirigido, que conta para a garantia. Turma de 6 é o alvo; 4 é o mínimo para o piloto valer a pena; 8 é o teto para todo mundo falar na aula.
+
+### Um semestre ou um ano?
+
+O curso está desenhado como um semestre porque é o que dá para testar num piloto e porque um aluno B1 consolidado, com estudo em casa, chega ao critério de prontidão nesse tempo. Mas vale deixar registrado que um curso de um ano, em dois semestres, pode fazer sentido para uma parte do público. As referências de horas para subir uma banda inteira do CEFR ficam entre 150 e 200 horas guiadas; um semestre entrega cerca de 90 a 100 horas entre aula e estudo em casa. Para quem chega no B1 mais fraco ou precisa de 4.5 ou mais, dois semestres deixam a promessa mais folgada, dão continuidade à turma que já se conhece e dobram a receita por aluno sem custo novo de aquisição. Uma forma de fazer isso sem mudar o desenho: o segundo semestre vira um "Bridge 2", com foco nas tarefas acadêmicas mais difíceis e na resistência, aberto a quem concluiu o primeiro e ainda não atingiu o critério, ou a quem atingiu mas quer chegar mais forte na preparação. A decisão pode esperar o fim do piloto, quando saberemos quantos alunos ficaram "parcialmente prontos".
 
 ### Garantia
 
@@ -273,12 +277,14 @@ Uma ancoragem que ajuda na hora de vender: uma prova perdida custa mais de R$ 1.
 
 ## 10. A parceria, em resumo
 
+O curso é uma parceria. Cada um entra com o que tem, e a receita é dividida por um modelo com piso de pagamento para o professor. Em linhas gerais:
+
 | Quem | Faz o quê |
 |---|---|
 | **Gerson** | Dá as aulas, cria e cura o material, faz a entrevista de placement e revisa as bandas, comenta as tarefas, assina o contrato com o aluno, cobra a mensalidade, emite nota, cuida de cancelamento e reembolso |
 | **PreparaTOEFL (Lucas)** | Traz os alunos (lista de espera, leads descartados por nível, YouTube, artigos, aula aberta), fornece o placement e a plataforma (diagnósticos, trilha, correção por IA, página de progresso), monta o relatório de placement e o de prontidão, empresta a marca e recebe os alunos que seguirem para a preparação |
 
-A remuneração da PreparaTOEFL sai da receita do curso, por um modelo que protege o Gerson quando a turma é pequena e divide o ganho quando a turma enche. Os modelos e a recomendação estão no documento de projeção e parceria.
+O modelo que queremos explorar é uma divisão de receita com piso: o Gerson fica com a receita até um valor que cobre o trabalho dele por hora, e o que passar disso é dividido. Assim a turma pequena não penaliza o professor e a turma cheia remunera os dois. Os modelos, com números, e a recomendação estão no documento de projeção e parceria.
 
 ---
 
@@ -351,13 +357,14 @@ Chegamos a considerar uma turma curta começando em novembro de 2026. Não recom
 
 ## 15. O que ainda precisa ser decidido
 
-1. **Mensalidade:** R$ 497 ou R$ 597. Decisão do Gerson, com a projeção na mão.
+1. **Mensalidade:** R$ 497 ou R$ 597, com a projeção na mão.
 2. **Modelo de parceria:** entre os quatro do documento de projeção e parceria.
 3. **Critério de prontidão:** o Gerson reescreve a tabela da seção 5 do jeito dele.
 4. **Dia e horário fixos** que o Gerson consegue sustentar por 18 semanas.
 5. **Nome do curso.**
 6. **Ferramenta de aula ao vivo** (a que o Gerson já usa) e como a gravação chega ao aluno.
 7. **Regra de cancelamento** que o Gerson já pratica nas turmas dele, se for diferente da proposta aqui.
+8. **Um semestre ou um ano:** se vale desenhar desde já um segundo semestre, ou esperar o fim do piloto.
 
 ---
 
