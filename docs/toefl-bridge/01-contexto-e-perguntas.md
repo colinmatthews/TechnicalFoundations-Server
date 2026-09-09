@@ -43,7 +43,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 | Decisão | Como ficou |
 |---|---|
 | Natureza do curso | Curso semestral de idiomas, com mensalidade, e não um plano de plataforma |
-| Natureza da relação | Parceria entre o Gerson e a PreparaTOEFL. O contrato com o aluno fica com o Gerson; a receita é dividida por um modelo com piso de pagamento para o professor |
+| Natureza da relação | Parceria entre o Gerson e a PreparaTOEFL. O contrato com o aluno fica com o Gerson; a receita é dividida por um modelo com piso de pagamento para o professor e divisão meio a meio acima do piso |
 | Formato | 18 semanas, um encontro semanal de 90 minutos, mais estudo dirigido |
 | Turma | Mínimo 5, alvo 8, máximo 10 |
 | Oferta | Uma só. Sem versões ou planos dentro do curso |
@@ -83,7 +83,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 
 13. Entre R$ 497 e R$ 597, qual valor se encaixa no que os alunos dele já pagam?
 14. As 57 horas estimadas para o semestre batem com o jeito que ele trabalha?
-15. Ele prefere um piso em reais ou uma regra em porcentagem para a parte da PreparaTOEFL?
+15. Ele topa o piso de R$ 9.000 no piloto, com divisão meio a meio acima dele, ou prefere a divisão por aluno?
 16. Qual é o enquadramento fiscal dele hoje?
 17. Que ferramenta de cobrança ele usa, e ela faz recorrência?
 18. Ele aceita a marca "em parceria com a PreparaTOEFL" e o nome dele na FAQ?
