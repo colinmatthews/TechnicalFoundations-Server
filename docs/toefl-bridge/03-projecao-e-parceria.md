@@ -156,7 +156,7 @@ Criar as 18 semanas de material, nos dois formatos (apostila e plataforma), deve
 
 | Forma | Como | Leitura |
 |---|---|---|
-| Investimento do Gerson | Ele cria o material como parte do curso dele, e o material é dele | Coerente com "o curso é do Gerson"; pesa no primeiro semestre |
+| Investimento do Gerson | Ele cria o material como parte do curso dele, e o material é dele | Simples; pesa no primeiro semestre, antes de existir receita |
 | Pago pela PreparaTOEFL como projeto | A PreparaTOEFL paga as horas de criação e fica com licença de uso do material | Alivia o Gerson; exige caixa da PreparaTOEFL antes de existir receita |
 | Dividido | O Gerson cria; a PreparaTOEFL entra com a geração por IA, a revisão e a produção; o material é do Gerson com licença perpétua para a PreparaTOEFL usar os exercícios no banco dela | O meio-termo natural para uma parceria |
 
