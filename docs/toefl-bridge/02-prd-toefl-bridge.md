@@ -20,10 +20,10 @@ O curso é este:
 
 - Um semestre de 18 semanas, com um encontro ao vivo de 90 minutos por semana, mais estudo dirigido em casa.
 - Turma de 5 a 10 alunos, todos no mesmo nível de entrada, selecionados por um placement com teste e amostras de fala e escrita.
-- Mensalidade única, com dois valores em estudo: R$ 497 ou R$ 597.
+- Mensalidade única, com dois valores em estudo: R$ 397 ou R$ 497.
 - A promessa é deixar o aluno pronto para começar uma preparação de TOEFL, medido por um critério que a gente publica. Não é promessa de nota.
 
-O curso é uma parceria entre o Gerson e a PreparaTOEFL. O Gerson entra com as aulas e a relação com o aluno; a PreparaTOEFL entra com os alunos que hoje ela descarta por nível, a plataforma com correção de fala e escrita, o placement, a marca e o caminho natural do aluno para a preparação depois. O material é feito pelos dois. A ideia é explorar a divisão da receita meio a meio, com um piso de segurança para o professor, para que a turma pequena não penalize o Gerson e a turma cheia remunere os dois. As projeções e os modelos estão no anexo.
+O curso é uma parceria entre o Gerson e a PreparaTOEFL. O Gerson entra com as aulas e a relação com o aluno; a PreparaTOEFL entra com os alunos que hoje ela descarta por nível, a plataforma com correção de fala e escrita, o placement, a marca e o caminho natural do aluno para a preparação depois. O material é feito pelos dois. A divisão da receita é um rascunho inicial, para construir juntos: a ideia é que o Gerson tenha uma hora-aula garantida desde a turma mínima, que sobe conforme a turma enche, e que cada aluno além do mínimo seja dividido entre os dois. Ninguém perde com poucos alunos; os dois ganham com mais. As projeções e os modelos estão no anexo.
 
 A primeira turma é um piloto. Ela existe para responder cinco perguntas: se tem gente disposta a pagar por isso, se conseguimos formar uma turma homogênea, se o programa deixa mesmo o aluno pronto, se o material funciona e se a conta fecha para os dois lados.
 
@@ -179,7 +179,7 @@ Cerca de 25 minutos de trabalho por candidato. O candidato recebe um relatório 
 | Encontro semanal | 90 minutos ao vivo, online, gravado e disponível em até 24 horas. Como a sessão é organizada por dentro é com o Gerson |
 | Turma | Mínimo de 5, máximo de 10 alunos. A turma abre com 5 pagantes confirmados até 14 dias antes do início; se não chegar a 5, adia e devolve o que foi pago |
 | Estudo em casa | 3 a 4 horas por semana, com material próprio e tarefas na plataforma |
-| Mensalidade | Um valor único, 5 mensalidades por semestre. Em estudo: R$ 497 ou R$ 597 |
+| Mensalidade | Um valor único, 5 mensalidades por semestre. Em estudo: R$ 397 ou R$ 497 |
 | Contrato | Matrícula semestral com o Gerson. Cancelamento com aviso de 30 dias; sem multa até o segundo mês, uma mensalidade a partir do terceiro. Sete dias de arrependimento por lei |
 
 ### O que está incluído (esboço, a fechar com o Gerson)
@@ -242,15 +242,15 @@ Dois valores em estudo, para decidir juntos:
 
 | Mensalidade | Semestre (5 mensalidades) | O que o aluno paga por hora de aula ao vivo | Leitura |
 |---|---|---|---|
-| R$ 497 | R$ 2.485 | R$ 76 | Um pouco acima do que um aluno paga a um professor particular avulso (R$ 55 a 70 a hora, sem método nem material), com muito mais entrega |
-| R$ 597 | R$ 2.985 | R$ 92 | Preço de curso com professor sênior, material próprio e acompanhamento |
+| R$ 397 | R$ 1.985 | R$ 61 | Na faixa do que um aluno paga a um professor particular avulso (R$ 55 a 70 a hora, sem método nem material), com muito mais entrega. Preço mais fácil de fechar na venda um a um |
+| R$ 497 | R$ 2.485 | R$ 76 | Um pouco acima do professor avulso; preço de curso com professor sênior, material próprio e acompanhamento |
 
-Esse valor por hora é o que o aluno paga, e serve só para comparar com o mercado. Não é o que o professor recebe; isso está no anexo. As duas projeções completas, com 5, 8 e 10 alunos, estão lá. Uma ancoragem que ajuda na hora de vender: uma prova perdida custa mais de R$ 1.400. Um semestre de curso custa menos que duas tentativas.
+Esse valor por hora é o que o aluno paga, e serve só para comparar com o mercado. Não é o que o professor recebe; isso está no anexo. As duas projeções completas, de 5 a 10 alunos, estão lá. Uma ancoragem que ajuda na hora de vender: uma prova perdida custa mais de R$ 1.400. Um semestre de curso custa menos que duas tentativas.
 ---
 
 ## 10. A parceria, em resumo
 
-O curso é uma parceria. Cada um entra com o que tem, e a receita é dividida por um modelo com piso de pagamento para o professor. Em linhas gerais:
+O curso é uma parceria. Cada um entra com o que tem, e a receita é dividida por um modelo em que ninguém perde na turma pequena e os dois ganham na turma cheia. Em linhas gerais:
 
 | Quem | Faz o quê |
 |---|---|
@@ -258,7 +258,7 @@ O curso é uma parceria. Cada um entra com o que tem, e a receita é dividida po
 | **PreparaTOEFL (Lucas)** | Traz os alunos (venda ativa pelo WhatsApp, lista de espera, YouTube, SEO, indicação), fornece o placement e a plataforma (diagnósticos, trilha, correção por IA, página de progresso), monta o relatório de placement e o de prontidão, empresta a marca, recebe os alunos que seguirem para a preparação |
 | **Os dois** | Critério de prontidão, material, calendário, balanço ao fim de cada bloco |
 
-O modelo que queremos explorar é a divisão da receita meio a meio, com um piso de segurança para o professor: se a parte dele ficar abaixo do equivalente a R$ 180 por hora de aula, ele recebe o piso e a PreparaTOEFL fica com o resto. Assim a turma pequena não penaliza o professor e cada aluno a mais vale o mesmo para os dois lados. Os modelos, com números, estão no anexo.
+A divisão da receita é um rascunho inicial. A lógica que queremos seguir é simples: com poucos alunos, ninguém toma prejuízo; com mais alunos, os dois ganham. Para isso, o Gerson tem uma hora-aula garantida desde a turma mínima (a partir de R$ 150, subindo até R$ 180 conforme a turma enche), e cada aluno além do mínimo é dividido entre os dois, com a parte maior para quem traz o aluno e sustenta a plataforma. Os números e as variações estão no anexo, e a versão final será construída pelos dois, até os dois se sentirem confortáveis com os valores e com a lucratividade.
 
 ---
 
@@ -287,7 +287,7 @@ Sobre o nome: "pré-TOEFL" é mais claro para o brasileiro; "TOEFL Bridge" é ma
 | Prontidão | 70% dos concluintes atingem o critério; banda média sobe meia banda ou mais entre a semana 0 e a 18 |
 | Retenção | Evasão de 15% ou menos; presença média de 80%; 75% dos alunos entregam 80% das tarefas |
 | Satisfação | NPS de 50 ou mais; 40% ou mais responderiam "muito decepcionado" se o curso deixasse de existir |
-| Conta do Gerson | Equivalente a R$ 180 por hora de aula ao vivo ou mais |
+| Conta do Gerson | R$ 150 por hora de aula com a turma mínima; R$ 180 ou mais a partir de 6 a 8 alunos |
 | Tempo do Lucas | Menos de 2 horas por semana depois da semana 3 |
 | Caminho para a preparação | Metade dos concluintes prontos segue para uma preparação em até 60 dias |
 
@@ -336,8 +336,8 @@ Uma turma começando agora tem uma vantagem clara: aprendemos em fevereiro o que
 
 ## 15. O que ainda precisa ser decidido
 
-1. **Mensalidade:** R$ 497 ou R$ 597, com a projeção na mão.
-2. **Modelo de parceria:** meio a meio com piso de segurança, ou divisão por aluno (anexo). Antes disso, confirmar se os R$ 180 por hora do Gerson valem só para a hora em sala.
+1. **Mensalidade:** R$ 397 ou R$ 497, com a projeção na mão.
+2. **Modelo de parceria:** a partir do rascunho do anexo (hora-aula garantida que sobe com a turma, mais participação nos alunos além do mínimo), construir juntos a regra final. Antes disso, confirmar se os R$ 180 por hora do Gerson valem só para a hora em sala.
 3. **Critério de prontidão:** o Gerson reescreve a tabela da seção 5 do jeito dele, e os dois conferem os formatos das tarefas contra o Practice Test oficial.
 4. **Data de início:** meados de outubro ou início de novembro.
 5. **Dia e horário fixos** que o Gerson consegue sustentar por 18 semanas.
@@ -368,90 +368,100 @@ As equivalências são aproximadas e vêm de fontes públicas. O report oficial 
 
 # Anexo — Projeção e modelos de parceria
 
-Este anexo responde a duas perguntas: quanto o curso rende em cada cenário de turma e de mensalidade, e como a receita pode ser dividida entre o Gerson e a PreparaTOEFL sem penalizar o professor quando a turma é pequena. Se o curso vier a ter dois semestres, a conta de cada semestre é a mesma, e a vantagem é a receita do segundo semestre vir sem custo novo de captação.
+> **Este anexo é um rascunho inicial.** Os números servem para dar forma à conversa, não para fechar nada. A regra de divisão vai ser construída pelos dois, mexendo nos valores até que o Gerson e a PreparaTOEFL se sintam confortáveis com o que cada um recebe e com a lucratividade do curso em cada cenário.
 
-## A1. Premissas
+## A1. A lógica que queremos seguir
+
+Antes dos números, o raciocínio. O custo fixo do curso é o tempo do professor em sala: 27 horas por semestre, independentemente de a turma ter 5 ou 10 alunos. Um aluno a mais não custa hora extra ao Gerson; custa cerca de R$ 120 de plataforma para a PreparaTOEFL, e chega pela captação dela. Dessas duas observações saem as três regras do modelo:
+
+1. **Com poucos alunos, ninguém toma prejuízo.** O Gerson recebe uma hora-aula garantida desde a turma mínima, e a PreparaTOEFL recebe o suficiente para cobrir a plataforma, o placement e o tempo de captação.
+2. **Com mais alunos, os dois ganham.** Cada aluno além do mínimo é dividido entre os dois. A parte maior vai para quem traz o aluno e sustenta a plataforma, mas o professor também ganha com cada aluno a mais, para que os dois tenham motivo para encher a turma.
+3. **Sem degraus que mudem o comportamento.** A regra deve ser contínua: o sexto aluno vale um pouco mais que o quinto, e assim por diante, sem um ponto em que um dos lados passe a preferir uma turma menor.
+
+## A2. Premissas
 
 | Item | Valor |
 |---|---|
 | Semanas de aula | 18 |
 | Encontro semanal | 90 minutos ao vivo |
 | **Horas de aula ao vivo no semestre** | **27 h** |
-| Referência do Gerson | R$ 180 por hora de aula ao vivo, o que ele ganha em aula particular ou em outras turmas. Pela conversa, esse valor é por hora em sala; preparação de aula, correção e placement não são pagos à parte. Isso é uma das perguntas a confirmar com ele |
+| Hora-aula do Gerson | Começa em R$ 150 na turma mínima e sobe até R$ 180 conforme a turma enche. Pela conversa, o valor é por hora em sala; preparação, correção e placement não são pagos à parte. Isso é uma das perguntas a confirmar com ele |
 | Turma | Mínimo 5, alvo 8, máximo 10 |
-| Mensalidade | R$ 497 ou R$ 597, 5 mensalidades por semestre |
-| Taxa de cobrança | 4% na mensalidade recorrente |
-| Impostos do Gerson | Provisão de 8% sobre a receita bruta, como ordem de grandeza. Depende do enquadramento dele e precisa ser confirmado com o contador |
-| Custo direto da PreparaTOEFL | R$ 500 por semestre (placement e infraestrutura) mais R$ 120 por aluno (correção por IA durante o semestre) |
+| Mensalidade | R$ 397 ou R$ 497, 5 mensalidades por semestre |
+| Taxa de cobrança | 4% da receita bruta |
+| Impostos | Provisão de 8% da receita bruta, como ordem de grandeza, descontada antes da divisão. Depende do enquadramento e precisa ser confirmada com o contador |
+| Custo direto da PreparaTOEFL | R$ 500 por semestre (placement e infraestrutura) mais R$ 120 por aluno (correção por IA) |
 
-O tempo do Lucas com captação, placement, material e relatórios (cerca de 30 horas por semestre) não entra como custo em caixa; entra como o que a PreparaTOEFL põe na parceria. O tempo do Gerson fora da sala (preparar aula, comentar tarefas, revisar o placement) também não entra na conta, pela mesma lógica. Se ele entender que essas horas deveriam ser remuneradas, a conta muda bastante: a seção A4 mostra o efeito.
+O que sobra da receita depois da taxa de cobrança e da provisão de impostos é o que chamamos aqui de **receita a dividir**: R$ 1.747 por aluno no semestre a R$ 397, e R$ 2.187 a R$ 497.
 
-## A2. Quanto o curso rende, sem contar a parceria
+O tempo do Lucas com captação, placement, material e relatórios (cerca de 30 horas por semestre) e o tempo do Gerson fora da sala não entram como custo; são o que cada um põe na parceria.
 
-Receita do semestre, o que sobra depois da taxa de cobrança e da provisão de impostos, e quanto isso representa por hora de aula ao vivo para o Gerson, se ele ficasse com tudo.
+## A3. Quanto o curso rende
 
-| Mensalidade | Alunos | Receita bruta | Depois de taxa e impostos | Por hora de aula (27 h) |
+| Mensalidade | Alunos | Receita bruta | Receita a dividir | Custo direto da PreparaTOEFL |
 |---|---|---|---|---|
-| R$ 497 | 5 | R$ 12.425 | R$ 10.934 | R$ 405 |
-| R$ 497 | 8 | R$ 19.880 | R$ 17.494 | R$ 648 |
-| R$ 497 | 10 | R$ 24.850 | R$ 21.868 | R$ 810 |
-| R$ 597 | 5 | R$ 14.925 | R$ 13.134 | R$ 486 |
-| R$ 597 | 8 | R$ 23.880 | R$ 21.014 | R$ 778 |
-| R$ 597 | 10 | R$ 29.850 | R$ 26.268 | R$ 973 |
+| R$ 397 | 5 | R$ 9.925 | R$ 8.734 | R$ 1.100 |
+| R$ 397 | 8 | R$ 15.880 | R$ 13.974 | R$ 1.460 |
+| R$ 397 | 10 | R$ 19.850 | R$ 17.468 | R$ 1.700 |
+| R$ 497 | 5 | R$ 12.425 | R$ 10.934 | R$ 1.100 |
+| R$ 497 | 8 | R$ 19.880 | R$ 17.494 | R$ 1.460 |
+| R$ 497 | 10 | R$ 24.850 | R$ 21.868 | R$ 1.700 |
 
-Com a referência valendo só para as horas em sala, o curso rende bem acima de R$ 180 por hora em todos os cenários, mesmo com 5 alunos. Isso muda a conversa: não é mais "como proteger o professor na turma pequena", e sim "como dividir de um jeito que remunere os dois e premie encher a turma".
+Mesmo a R$ 397 com 5 alunos, a receita a dividir (R$ 8.734) paga a hora-aula de R$ 150 do Gerson (R$ 4.050) e ainda deixa R$ 4.684 para a PreparaTOEFL, que cobre os R$ 1.100 de custo direto e o tempo de captação. Ninguém perde no piso.
 
-## A3. Os modelos de parceria
+## A4. Três formas de escrever a regra
 
-O contrato com o aluno, a mensalidade e a nota fiscal ficam com o Gerson; a PreparaTOEFL entra com a captação, o placement, a plataforma, a marca e o caminho para a preparação, e recebe uma parte da receita. Quatro modelos.
+**A. Escada e depois participação (a ideia como foi descrita).** A hora-aula do Gerson sobe com a turma: R$ 150 com 5 alunos, R$ 160 com 6, R$ 170 com 7, R$ 180 com 8. A partir do nono aluno, a receita a dividir de cada aluno a mais é repartida 40% para o Gerson e 60% para a PreparaTOEFL. A PreparaTOEFL fica com o restante em todos os cenários.
 
-**A. 80% Gerson, 20% PreparaTOEFL.** A regra mais comum em parcerias de professor com escola. Aqui ela não faz sentido: com 5 alunos a R$ 497 o Gerson ficaria em R$ 317 por hora e a PreparaTOEFL com R$ 2.386, por um semestre de captação, placement e plataforma. É pouco para quem traz os alunos e a tecnologia.
+**B. Hora-aula base mais participação em cada aluno além do mínimo.** O Gerson recebe R$ 150 por hora de aula com qualquer turma, e mais 40% da receita a dividir de cada aluno além do quinto; a PreparaTOEFL fica com os outros 60% e com o restante. É a mesma ideia do modelo A, mas com uma regra só, sem degraus: a hora-aula do Gerson chega a R$ 180 com 6 ou 7 alunos e continua subindo.
 
-**B. Meio a meio, com piso de segurança (o que queremos explorar).** A receita líquida de taxas é dividida meio a meio. Se a parte do Gerson ficar abaixo de R$ 5.900 no semestre (o equivalente a R$ 180 por hora de aula depois dos impostos), ele recebe esse piso e a PreparaTOEFL fica com o resto. Na prática o piso só entra em jogo com 5 alunos a R$ 497, e por pouco. É fácil de explicar em uma frase, cada aluno a mais vale o mesmo para os dois lados, e respeita a referência do Gerson desde a turma mínima.
+**C. Divisão 40/60 com piso.** Toda a receita a dividir é repartida 40% para o Gerson e 60% para a PreparaTOEFL, com a garantia de que o Gerson nunca recebe menos que R$ 150 por hora de aula. É a regra mais curta de explicar.
 
-**C. Divisão por aluno.** Nos seis primeiros alunos, 55% para o Gerson e 45% para a PreparaTOEFL. Do sétimo em diante, 35% para o Gerson e 65% para a PreparaTOEFL, porque o aluno a mais não custa hora extra ao professor e chega pela captação da PreparaTOEFL. Dá ao Gerson mais do que o modelo B na turma pequena e à PreparaTOEFL mais na turma cheia. Um pouco mais difícil de explicar.
+## A5. Os três modelos, aluno a aluno
 
-**D. 40% Gerson, 60% PreparaTOEFL.** A divisão que mais remunera a captação e a tecnologia. Deixa o Gerson abaixo da referência na turma de 5 (R$ 140 por hora a R$ 497, R$ 168 a R$ 597) e só passa a funcionar a partir de 6 ou 7 alunos. Fica como referência do que a PreparaTOEFL poderia pedir numa turma que já enche sozinha.
+O que o Gerson recebe no semestre (e por hora de aula) e o que a PreparaTOEFL recebe antes de descontar o custo direto.
 
-## A4. Os modelos, lado a lado
+### A R$ 397
 
-O que o Gerson ganha por hora de aula (27 horas, depois da provisão de impostos) e o que a PreparaTOEFL recebe, por semestre.
+| Alunos | A. Escada e participação | B. Base mais participação | C. 40/60 com piso |
+|---|---|---|---|
+| 5 | Gerson R$ 4.050 (R$ 150/h) · PreparaTOEFL R$ 4.684 | R$ 4.050 (R$ 150/h) · R$ 4.684 | R$ 4.050 (R$ 150/h) · R$ 4.684 |
+| 6 | R$ 4.320 (R$ 160/h) · R$ 6.161 | R$ 4.749 (R$ 176/h) · R$ 5.732 | R$ 4.192 (R$ 155/h) · R$ 6.288 |
+| 7 | R$ 4.590 (R$ 170/h) · R$ 7.638 | R$ 5.447 (R$ 202/h) · R$ 6.780 | R$ 4.891 (R$ 181/h) · R$ 7.337 |
+| 8 | R$ 4.860 (R$ 180/h) · R$ 9.114 | R$ 6.146 (R$ 228/h) · R$ 7.828 | R$ 5.590 (R$ 207/h) · R$ 8.385 |
+| 9 | R$ 5.559 (R$ 206/h) · R$ 10.162 | R$ 6.845 (R$ 254/h) · R$ 8.876 | R$ 6.288 (R$ 233/h) · R$ 9.433 |
+| 10 | R$ 6.257 (R$ 232/h) · R$ 11.211 | R$ 7.544 (R$ 279/h) · R$ 9.924 | R$ 6.987 (R$ 259/h) · R$ 10.481 |
 
 ### A R$ 497
 
-| Alunos | A. 80/20 | B. Meio a meio com piso | C. Divisão por aluno | D. 40/60 |
-|---|---|---|---|---|
-| 5 | Gerson R$ 317/h · PreparaTOEFL R$ 2.386 | **R$ 184/h · R$ 5.964** | R$ 206/h · R$ 5.368 | R$ 140/h · R$ 7.157 |
-| 8 | R$ 507/h · R$ 3.817 | **R$ 295/h · R$ 9.542** | R$ 295/h · R$ 9.542 | R$ 224/h · R$ 11.451 |
-| 10 | R$ 633/h · R$ 4.771 | **R$ 368/h · R$ 11.928** | R$ 342/h · R$ 12.644 | R$ 280/h · R$ 14.314 |
+| Alunos | A. Escada e participação | B. Base mais participação | C. 40/60 com piso |
+|---|---|---|---|
+| 5 | Gerson R$ 4.050 (R$ 150/h) · PreparaTOEFL R$ 6.884 | R$ 4.050 (R$ 150/h) · R$ 6.884 | R$ 4.374 (R$ 162/h) · R$ 6.560 |
+| 6 | R$ 4.320 (R$ 160/h) · R$ 8.801 | R$ 4.925 (R$ 182/h) · R$ 8.196 | R$ 5.248 (R$ 194/h) · R$ 7.872 |
+| 7 | R$ 4.590 (R$ 170/h) · R$ 10.718 | R$ 5.799 (R$ 215/h) · R$ 9.508 | R$ 6.123 (R$ 227/h) · R$ 9.185 |
+| 8 | R$ 4.860 (R$ 180/h) · R$ 12.634 | R$ 6.674 (R$ 247/h) · R$ 10.820 | R$ 6.998 (R$ 259/h) · R$ 10.497 |
+| 9 | R$ 5.735 (R$ 212/h) · R$ 13.946 | R$ 7.549 (R$ 280/h) · R$ 12.132 | R$ 7.872 (R$ 292/h) · R$ 11.809 |
+| 10 | R$ 6.609 (R$ 245/h) · R$ 15.259 | R$ 8.424 (R$ 312/h) · R$ 13.444 | R$ 8.747 (R$ 324/h) · R$ 13.121 |
 
-### A R$ 597
-
-| Alunos | A. 80/20 | B. Meio a meio com piso | C. Divisão por aluno | D. 40/60 |
-|---|---|---|---|---|
-| 5 | Gerson R$ 380/h · PreparaTOEFL R$ 2.866 | **R$ 221/h · R$ 7.164** | R$ 248/h · R$ 6.448 | R$ 168/h · R$ 8.597 |
-| 8 | R$ 608/h · R$ 4.585 | **R$ 354/h · R$ 11.462** | R$ 354/h · R$ 11.462 | R$ 269/h · R$ 13.755 |
-| 10 | R$ 761/h · R$ 5.731 | **R$ 442/h · R$ 14.328** | R$ 410/h · R$ 15.188 | R$ 336/h · R$ 17.194 |
-
-Custo direto da PreparaTOEFL para descontar do que ela recebe: R$ 1.100 com 5 alunos, R$ 1.460 com 8, R$ 1.700 com 10.
+Custo direto da PreparaTOEFL a descontar: R$ 1.100 com 5 alunos, subindo R$ 120 por aluno até R$ 1.700 com 10.
 
 O que as tabelas mostram:
 
-- **O meio a meio já deixa o Gerson na referência dele com a turma mínima** (R$ 184 por hora a R$ 497, R$ 221 a R$ 597) e bem acima com 8 ou 10 alunos. A PreparaTOEFL recebe de R$ 6.000 a 14.000 por semestre, o que cobre os custos diretos e o tempo de captação com folga.
-- **A divisão por aluno é quase igual ao meio a meio com 8 alunos** e só se diferencia nas pontas: um pouco melhor para o Gerson com 5, um pouco melhor para a PreparaTOEFL com 10.
-- **O 40/60 só funciona a partir de 6 ou 7 alunos.** Vale como horizonte para turmas que já enchem, não para o piloto.
+- **Nos três modelos ninguém perde na turma de 5**, nos dois preços. O Gerson recebe R$ 150 por hora de aula e a PreparaTOEFL cobre os custos com folga.
+- **No modelo A, o Gerson ganha pouco entre 5 e 8 alunos** (R$ 810 a mais no semestre para três alunos a mais), enquanto a PreparaTOEFL ganha R$ 4.400 a 5.700 no mesmo trecho. O incentivo para o professor ajudar a encher a turma fica fraco justamente onde ele mais importa, e há um degrau no nono aluno. É a regra como foi descrita, e serve de ponto de partida, mas é a menos equilibrada das três.
+- **O modelo B corrige isso com uma regra só.** Cada aluno além do quinto vale R$ 700 a 875 para o Gerson e R$ 1.050 a 1.310 para a PreparaTOEFL. A hora-aula do Gerson passa de R$ 180 com 6 ou 7 alunos e chega a R$ 280 ou 310 com 10. A PreparaTOEFL recebe R$ 4.700 a 13.400 por semestre, sempre com a parte maior de cada aluno novo.
+- **O modelo C é o mais simples de explicar** e dá resultados parecidos com o B, um pouco menos para o Gerson entre 6 e 8 alunos a R$ 397 e um pouco mais a R$ 497.
+- **A R$ 397, a turma precisa de 7 a 8 alunos para o Gerson passar de R$ 180 por hora** nos modelos A e C, e de 6 a 7 no B. A R$ 497, isso acontece com 6. O preço menor facilita a venda um a um; o maior dá folga à conta.
 
-**Se as horas fora da sala também contassem.** Se o Gerson entender que preparação, correção e placement (cerca de 30 horas a mais no semestre, 57 no total) devem ser remuneradas na mesma referência, o meio a meio passa a render R$ 87 por hora com 5 alunos a R$ 497 e R$ 174 com 10; a R$ 597, R$ 105 e R$ 209. Nesse caso a divisão precisaria pender para o professor, e a PreparaTOEFL ficaria com menos do que o trabalho dela vale. Por isso a pergunta sobre como ele trabalha vem antes de fechar os percentuais.
+## A6. Ponto de partida para a conversa
 
-## A5. Recomendação
+Levar o **modelo B** como rascunho: hora-aula de R$ 150 garantida desde a turma mínima, mais 40% da receita a dividir de cada aluno além do quinto para o Gerson e 60% para a PreparaTOEFL. É a versão que melhor cumpre as três regras da seção A1, e todos os seus números são ajustáveis na conversa: a hora-aula base (R$ 150), o ponto a partir do qual a participação começa (o quinto aluno) e a proporção (40/60).
 
-**Meio a meio, com piso de segurança de R$ 5.900 por semestre para o Gerson.** Três razões: é a regra mais simples de explicar; cada aluno a mais vale o mesmo para os dois, o que alinha os dois com encher a turma; e mantém o Gerson na referência dele desde a turma mínima, sem que ele precise flexibilizar no piloto.
+Dois complementos: comissão de indicação para o Gerson sobre cada aluno dele que seguir para uma preparação da PreparaTOEFL, com valor a combinar; e revisão da regra ao fim de cada turma, com os números reais na mão.
 
-Dois complementos: comissão de indicação para o Gerson sobre cada aluno dele que seguir para uma preparação da PreparaTOEFL, com valor a combinar; e revisão da regra a cada turma. Se as turmas encherem com facilidade, a divisão por aluno (modelo C) é o passo seguinte.
+Sobre a mensalidade: uma forma de decidir entre R$ 397 e R$ 497 é perguntar aos primeiros contatos da venda um a um quanto pagariam (quatro perguntas simples: preço barato demais, barato, caro, caro demais) e ver onde os dois valores caem.
 
-Sobre a mensalidade: com o meio a meio, os dois valores fecham a conta desde 5 alunos. A diferença é a folga: a R$ 597, a turma de 5 rende ao Gerson o que a de 6 ou 7 renderia a R$ 497. Uma forma de decidir é perguntar aos inscritos na lista de espera quanto pagariam (quatro perguntas simples: preço barato demais, barato, caro, caro demais) e ver onde os dois valores caem.
-
-## A6. Como o dinheiro circula e como fica a nota
+## A7. Como o dinheiro circula e como fica a nota
 
 | Opção | Como funciona | A favor | Contra |
 |---|---|---|---|
@@ -462,7 +472,7 @@ Para o piloto, repasse mensal. Depois, split no gateway, se valer a pena.
 
 Nota fiscal: o aluno contrata o Gerson, e o Gerson emite a nota ao aluno pelo valor cheio. A PreparaTOEFL emite nota ao Gerson pelos serviços dela (plataforma, placement, divulgação), no valor da parte dela. É uma relação entre empresas, mesmo quando o dinheiro é dividido no gateway. Vale o Gerson conferir com o contador se o enquadramento dele comporta a receita.
 
-## A7. Termo de parceria, em uma página
+## A8. Termo de parceria, em uma página
 
 | Cláusula | Proposta |
 |---|---|
@@ -470,7 +480,7 @@ Nota fiscal: o aluno contrata o Gerson, e o Gerson emite a nota ao aluno pelo va
 | Prazo | Turma piloto a partir de outubro ou novembro de 2026, renovável a cada turma; aviso de não renovação com 60 dias |
 | O Gerson | Aulas, curadoria do material, contrato com o aluno, cobrança, nota, cancelamento e reembolso, suporte, cumprimento do critério de admissão e do calendário |
 | A PreparaTOEFL | Captação dos alunos (lista de espera, venda ativa, YouTube, SEO, indicação), placement com relatório, plataforma (diagnósticos, trilha, correção por IA), relatório de prontidão, encaminhamento para a preparação, coautoria do material |
-| Remuneração | Receita líquida de taxas dividida meio a meio, com piso de R$ 5.900 por semestre para o Gerson. Regra revista a cada turma. Comissão de indicação para o Gerson sobre alunos que seguirem para a preparação. Repasse até o dia 10, com relatório mensal |
+| Remuneração | Rascunho a construir juntos: hora-aula garantida ao Gerson desde a turma mínima (a partir de R$ 150, subindo até R$ 180), mais participação de 40% na receita a dividir de cada aluno além do quinto; a PreparaTOEFL fica com o restante. Regra revista ao fim de cada turma. Comissão de indicação para o Gerson sobre alunos que seguirem para a preparação. Repasse até o dia 10, com relatório mensal |
 | Preço | Definido pelos dois na abertura de cada turma |
 | Marca | "Em parceria com a PreparaTOEFL" na página e no material; o nome do Gerson na FAQ e no site da PreparaTOEFL; aprovação mútua das peças públicas |
 | Material | Feito pelos dois. A propriedade fica para ser definida mais adiante |
@@ -481,11 +491,11 @@ Nota fiscal: o aluno contrata o Gerson, e o Gerson emite a nota ao aluno pelo va
 
 Três pontos para um advogado olhar: como a marca da PreparaTOEFL no curso afeta a responsabilidade dela perante o aluno (no Código de Defesa do Consumidor, quem aparece na cadeia pode ser cobrado); a redação da parceria como relação entre empresas, sem subordinação; e a autorização de dados do aluno.
 
-## A8. Para a conversa com o Gerson
+## A9. Para a conversa com o Gerson
 
 1. Os R$ 180 por hora valem só para a hora em sala? Preparação de aula, correção de tarefas e placement estão dentro disso, ou ele espera pagamento à parte? Como ele organiza esse tempo nas turmas dele hoje?
-2. Entre R$ 497 e R$ 597, qual valor combina com o que os alunos dele já pagam por hora?
-3. Ele topa o meio a meio com piso de segurança? Ou prefere a divisão por aluno?
+2. Entre R$ 397 e R$ 497, qual valor combina com o que os alunos dele já pagam por hora?
+3. A hora-aula garantida de R$ 150 na turma mínima, subindo com a turma, funciona para ele no piloto? Qual proporção de participação nos alunos além do mínimo ele acha justa?
 4. Qual é o enquadramento fiscal dele, e ele comporta duas turmas por ano?
 5. Que ferramenta de cobrança ele já usa, e ela faz cobrança recorrente?
 6. Ele aceita a marca "em parceria com a PreparaTOEFL" e o nome dele na FAQ?
