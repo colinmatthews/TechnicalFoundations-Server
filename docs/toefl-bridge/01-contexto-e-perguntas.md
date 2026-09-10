@@ -48,7 +48,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 | Formato | 18 semanas, um encontro semanal de 90 minutos, mais estudo dirigido |
 | Turma | Mínimo 5, alvo 8, máximo 10 |
 | Oferta | Uma só. Sem versões ou planos dentro do curso |
-| Preço | Em estudo entre R$ 397 e R$ 497 por mês, 5 mensalidades. Independente dos preços do curso de preparação da PreparaTOEFL |
+| Preço | Em estudo: R$ 397, R$ 497 ou R$ 597 por mês, 5 mensalidades, com prós e contras de cada um na seção 9 do documento de produto. Independente dos preços do curso de preparação da PreparaTOEFL |
 | Promessa | Prontidão para a preparação, por critério publicado. Nunca nota |
 | Piloto | Turma começando em meados de outubro ou início de novembro de 2026 (a definir), com pausa nas festas |
 | Depois do piloto | Alinhar ao calendário semestral (fevereiro e agosto) |
@@ -84,7 +84,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 
 13. Os R$ 180 por hora que ele citou valem só para a hora em sala? Preparação de aula, correção de tarefas e placement estão dentro desse valor, ou ele espera pagamento à parte por isso? A projeção assume que não há pagamento além das horas de aula ao vivo.
 14. Como ele organiza hoje o tempo fora da sala nas turmas dele: quanto prepara por aula, quanto corrige, como trata dúvidas fora do horário?
-15. Entre R$ 397 e R$ 497, qual valor se encaixa no que os alunos dele já pagam?
+15. Entre R$ 397, R$ 497 e R$ 597, qual valor se encaixa no que os alunos dele já pagam, e qual ele acha que fecha na primeira turma, sem prova social?
 16. A hora-aula garantida de R$ 150 na turma mínima, subindo até R$ 180 com a turma, funciona para ele no piloto? Que proporção de participação nos alunos além do mínimo ele acha justa? (O anexo do documento de produto traz três formas de escrever a regra.)
 17. Qual é o enquadramento fiscal dele hoje?
 18. Que ferramenta de cobrança ele usa, e ela faz recorrência?
