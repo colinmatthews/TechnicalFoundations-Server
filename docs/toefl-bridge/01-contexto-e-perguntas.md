@@ -43,7 +43,8 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 | Decisão | Como ficou |
 |---|---|
 | Natureza do curso | Curso semestral de idiomas, com mensalidade, e não um plano de plataforma |
-| Natureza da relação | Parceria entre o Gerson e a PreparaTOEFL. O contrato com o aluno fica com o Gerson; a receita é dividida por um modelo com piso de pagamento para o professor e divisão meio a meio acima do piso |
+| Natureza da relação | Parceria entre o Gerson e a PreparaTOEFL. O contrato com o aluno fica com o Gerson; a receita é dividida meio a meio, com piso de segurança para o professor |
+| Captação | Obrigação da PreparaTOEFL. Na primeira turma, venda ativa um a um pelo WhatsApp; captação orgânica (SEO, YouTube, indicação) e um member get member. Sem aula aberta. O Gerson pode divulgar para os contatos dele |
 | Formato | 18 semanas, um encontro semanal de 90 minutos, mais estudo dirigido |
 | Turma | Mínimo 5, alvo 8, máximo 10 |
 | Oferta | Uma só. Sem versões ou planos dentro do curso |
@@ -77,27 +78,29 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 9. Qual ferramenta de aula ao vivo ele já usa? Ela grava?
 10. Como ele trata faltas, reposição e cancelamento nas turmas dele hoje?
 11. Como ele quer que o grupo de WhatsApp da turma funcione, e qual é o limite de atendimento dele fora da aula?
-12. Ele tem base própria de alunos e ex-alunos para convidar?
+12. Ele quer divulgar a turma para os contatos dele? (A captação é obrigação do Lucas; isso seria um reforço.)
 
 **Economia e parceria**
 
-13. Entre R$ 497 e R$ 597, qual valor se encaixa no que os alunos dele já pagam?
-14. As 57 horas estimadas para o semestre batem com o jeito que ele trabalha?
-15. Ele topa o piso de R$ 9.000 no piloto, com divisão meio a meio acima dele, ou prefere a divisão por aluno?
-16. Qual é o enquadramento fiscal dele hoje?
-17. Que ferramenta de cobrança ele usa, e ela faz recorrência?
-18. Ele aceita a marca "em parceria com a PreparaTOEFL" e o nome dele na FAQ?
-19. Ele topa a exclusividade proposta (nenhum outro pré-TOEFL com outra marca de preparação)?
-20. Como dividir o trabalho de criação do material entre os dois, e quando conversar sobre a propriedade dele?
+13. Os R$ 180 por hora que ele citou valem só para a hora em sala? Preparação de aula, correção de tarefas e placement estão dentro desse valor, ou ele espera pagamento à parte por isso? A projeção assume que não há pagamento além das horas de aula ao vivo.
+14. Como ele organiza hoje o tempo fora da sala nas turmas dele: quanto prepara por aula, quanto corrige, como trata dúvidas fora do horário?
+15. Entre R$ 497 e R$ 597, qual valor se encaixa no que os alunos dele já pagam?
+16. Ele topa a divisão meio a meio com piso de segurança, ou prefere a divisão por aluno?
+17. Qual é o enquadramento fiscal dele hoje?
+18. Que ferramenta de cobrança ele usa, e ela faz recorrência?
+19. Ele aceita a marca "em parceria com a PreparaTOEFL" e o nome dele na FAQ?
+20. Ele topa a exclusividade proposta (nenhum outro pré-TOEFL com outra marca de preparação)?
+21. Como dividir o trabalho de criação do material entre os dois, e quando conversar sobre a propriedade dele?
 
 ### Do Lucas
 
-21. A lista de espera vai ser um formulário simples (Tally e Brevo) ou uma página própria no site? A simples sai em dias, e com a turma começando em outubro ou novembro é a única que cabe no prazo.
-22. Quantos leads descartados por nível existem hoje na lista? Eles são a primeira pesquisa de demanda.
-23. Que vídeo do YouTube testa se o canal traz aluno B1?
-24. Como a FAQ, a regra de triagem em três saídas e a lista de espera entram no ar, e em que ordem?
-25. Qual é o mínimo da plataforma para o piloto: acesso de semestre com trilha própria e cota de correção, mais os três diagnósticos com conjuntos exclusivos. Quanto tempo isso leva?
-26. O nome: "pré-TOEFL", "TOEFL Bridge" ou outro. Testar na página da lista de espera.
+22. A lista de espera vai ser um formulário simples (Tally e Brevo) ou uma página própria no site? A simples sai em dias, e com a turma começando em outubro ou novembro é a única que cabe no prazo.
+23. Quantos leads descartados por nível existem hoje na lista? Eles são a primeira pesquisa de demanda e o começo da venda ativa pelo WhatsApp.
+24. Que vídeo do YouTube e que artigos testam se o canal traz aluno B1?
+25. Qual é o benefício do member get member da primeira turma?
+26. Como a FAQ, a regra de triagem em três saídas e a lista de espera entram no ar, e em que ordem?
+27. Qual é o mínimo da plataforma para o piloto: acesso de semestre com trilha própria e cota de correção, mais os três diagnósticos com conjuntos exclusivos. Quanto tempo isso leva?
+28. O nome: "pré-TOEFL", "TOEFL Bridge" ou outro. Testar na página da lista de espera.
 
 ---
 
@@ -110,7 +113,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 | Turma de 5 perde ritmo com faltas | O próprio Gerson viu isso acontecer com turmas de 6 | Gravação em 24 horas; duplas; estudo dirigido obrigatório; alvo de 8 |
 | Promessa mal entendida | O aluno ouve "Bridge" e entende "vou ficar pronto para a prova" | Critério de saída público; a palavra "nota" fora da promessa |
 | Quem tem prazo longo adia | O público do curso é, por definição, quem tem mais de sete meses | Data fixa do semestre; pré-matrícula curta |
-| Mercado menor do que parece | Não há dado sobre quantos B1 querem TOEFL e chegam pelo YouTube | Lista de espera e aula aberta antes de criar material; mínimo de 5 |
+| Mercado menor do que parece | Não há dado sobre quantos B1 querem TOEFL e chegam pelo YouTube | Lista de espera e venda ativa antes de criar material; mínimo de 5 |
 | Gerson é o único professor | Uma doença ou viagem para o curso | Gravações, material documentado, reposição combinada |
 | Suporte come o tempo dos dois | Aluno com dúvida manda mensagem a qualquer hora | Combinar desde o início como o grupo de WhatsApp funciona e qual é o limite |
 | Pausa nas festas no meio do curso | A turma piloto atravessa dezembro e janeiro | Gravação em dia; estudo dirigido bem amarrado; combinar as datas da pausa antes de abrir a matrícula |
@@ -120,7 +123,7 @@ O guia da PreparaTOEFL sobre o TOEFL 2026 ainda descreve a pontuação antiga, d
 ## 5. Ordem sugerida para fechar tudo
 
 1. Gerson responde as perguntas de pedagogia (1 a 7) e de formato (8 a 12). Sem o critério de prontidão dele, o resto não anda.
-2. Os dois decidem preço, data de início e modelo de parceria com a projeção na mão (13 a 20).
+2. Os dois decidem preço, data de início e modelo de parceria com a projeção na mão (13 a 21), começando pela pergunta sobre o que os R$ 180 por hora cobrem.
 3. Assinam o termo de uma página.
-4. Lucas põe a lista de espera no ar e dispara para os leads descartados (21 a 26).
+4. Lucas põe a lista de espera no ar e começa a venda ativa pelos leads descartados (22 a 28).
 5. Gerson cria o material do bloco 1 enquanto a lista enche.
